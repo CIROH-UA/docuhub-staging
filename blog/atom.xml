@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ciroh.org/docuhub-staging/blog</id>
+    <title>CIROH DocuHub Blog</title>
+    <updated>2025-02-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://ciroh.org/docuhub-staging/blog"/>
+    <subtitle>CIROH DocuHub Blog</subtitle>
+    <icon>http://ciroh.org/docuhub-staging/img/docuhub-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Pennsylvania State University Researchers Leverage CIROH Cyberinfrastructure for Advanced Hydrological Modeling ]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/February Monthly Blog Update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/February Monthly Blog Update"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[February Monthly Blog Update]]></summary>
+        <content type="html"><![CDATA[<p>Pennsylvania State University (PSU) researchers have been leveraging CIROH Cyberinfrastructure to tackle complex hydrological modeling challenges. This post highlights their innovative approach using the <a href="https://docs.ciroh.org/docs/services/on-prem/Wukong/" target="_blank" rel="noopener noreferrer">Wukong computing platform</a> in conjunction with Amazon S3 bucket storage to efficiently process and analyze large-scale environmental datasets. 🚀</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-the-computing-and-storage-infrastructure">💻 The Computing and Storage Infrastructure<a href="http://ciroh.org/docuhub-staging/blog/February%20Monthly%20Blog%20Update#-the-computing-and-storage-infrastructure" class="hash-link" aria-label="Direct link to 💻 The Computing and Storage Infrastructure" title="Direct link to 💻 The Computing and Storage Infrastructure">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wukong-computing-platform"><strong>Wukong Computing Platform</strong><a href="http://ciroh.org/docuhub-staging/blog/February%20Monthly%20Blog%20Update#wukong-computing-platform" class="hash-link" aria-label="Direct link to wukong-computing-platform" title="Direct link to wukong-computing-platform">​</a></h3>
+<p>The PSU team has been utilizing Wukong, a high-performance computing (HPC) cluster specifically designed for data-intensive scientific applications, such as the high-resolution physics-informed machine learning for national water modeling (Song et al. 2024[YS1] ). Wukong provides the computational power necessary for running complex simulations and processing large environmental datasets that traditional computing resources would struggle with. 🔍</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-advantages-of-wukong-include">Key advantages of Wukong include:<a href="http://ciroh.org/docuhub-staging/blog/February%20Monthly%20Blog%20Update#key-advantages-of-wukong-include" class="hash-link" aria-label="Direct link to Key advantages of Wukong include:" title="Direct link to Key advantages of Wukong include:">​</a></h4>
+<ul>
+<li>🎯 <strong>Large GPU capacity</strong> for high-resolution ML/differentiable process-based models</li>
+<li>⚙️ <strong>Scalable parallel processing</strong> capabilities</li>
+<li>🚀 <strong>Optimized performance</strong> for data-intensive workloads</li>
+<li>⏳ <strong>Reduced processing time</strong> for big data</li>
+<li>🌐 <strong>Support for multi-node computation</strong> to handle larger geographical areas</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="s3-bucket-integration"><strong>S3 Bucket Integration</strong>:<a href="http://ciroh.org/docuhub-staging/blog/February%20Monthly%20Blog%20Update#s3-bucket-integration" class="hash-link" aria-label="Direct link to s3-bucket-integration" title="Direct link to s3-bucket-integration">​</a></h4>
+<p>To complement Wukong’s computational power, the PSU researchers and AWI DevOps staff implemented <strong>Amazon S3 (Simple Storage Service)</strong> buckets as their secondary data storage solution. This integration offers several benefits:</p>
+<ul>
+<li>🗄️ <strong>Virtually unlimited storage capacity</strong> for growing datasets</li>
+<li>🔒 <strong>Data durability and redundancy</strong></li>
+<li>💰 <strong>Cost-effective long-term storage</strong>, with the use of S3 intelligent tiering to automate the storage cost savings by moving data when access patterns change</li>
+<li>🔄 <strong>Seamless data transfer</strong> between computing nodes</li>
+<li>📝 <strong>Version control</strong> for dataset iterations</li>
+<li>🤝 <strong>Easy data sharing</strong> with users not on Wukong</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-research-applications">🔬 Research Applications<a href="http://ciroh.org/docuhub-staging/blog/February%20Monthly%20Blog%20Update#-research-applications" class="hash-link" aria-label="Direct link to 🔬 Research Applications" title="Direct link to 🔬 Research Applications">​</a></h2>
+<p>The PSU team has applied this powerful computing infrastructure to several critical research areas:</p>
+<ol>
+<li>
+<p><strong>National Streamflow Modeling</strong> 🌊<br>
+<!-- -->Training differentiable hydrologic models with high-resolution forcing and static attribute data across extensive geographical regions using observations from thousands of gauges, followed by whole-domain forwarding.</p>
+</li>
+<li>
+<p><strong>National River Routing</strong> 🗺️<br>
+<!-- -->Conducting river routing on MERIT/HydroFabric river networks, combined with neural network-supported routing parameter learning.</p>
+</li>
+<li>
+<p><strong>NextGen Candidate Models &amp; Data Assimilation</strong> 🔄<br>
+<!-- -->Applying multiple NextGen candidate models and data assimilation algorithms within the differentiable modeling framework, which supports compliance with <a href="https://doi.org/10.5281/zenodo.14827983" target="_blank" rel="noopener noreferrer">BMI</a>.</p>
+</li>
+<li>
+<p><strong>Foundation Model Development</strong> 🏞️<br>
+<!-- -->Developing a foundation model to explore co-evolution between landscapes.</p>
+</li>
+</ol>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="thank-you-to-all-those-who-contributed-towards-this-effort">Thank you to all those who contributed towards this effort.<a href="http://ciroh.org/docuhub-staging/blog/February%20Monthly%20Blog%20Update#thank-you-to-all-those-who-contributed-towards-this-effort" class="hash-link" aria-label="Direct link to Thank you to all those who contributed towards this effort." title="Direct link to Thank you to all those who contributed towards this effort.">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-learn-more">🔗 Learn More<a href="http://ciroh.org/docuhub-staging/blog/February%20Monthly%20Blog%20Update#-learn-more" class="hash-link" aria-label="Direct link to 🔗 Learn More" title="Direct link to 🔗 Learn More">​</a></h2>
+<p>For more details on the Wukong computing platform, check out the official documentation:<br>
+<!-- -->👉 <a href="https://docs.ciroh.org/docs/services/on-prem/Wukong/" target="_blank" rel="noopener noreferrer">Wukong Documentation</a></p>
+<p>For the full research paper by Song et al. (2024), visit:<br>
+<!-- -->👉 <a href="https://doi.org/10.22541/essoar.172736277.74497104/v1" target="_blank" rel="noopener noreferrer">DOI: 10.22541/essoar.172736277.74497104/v1</a></p>
+<hr>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Yalan Song</name>
+            <uri>https://www.linkedin.com/in/yalan-song-psu/</uri>
+        </author>
+        <author>
+            <name>Tadd Bindas</name>
+            <uri>https://www.linkedin.com/in/taddbindas/</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="science" term="science"/>
+        <category label="conference" term="conference"/>
+        <category label="impact" term="impact"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIROH at AGU 2024]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/December Monthly Blog Update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/December Monthly Blog Update"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[December Monthly Blog Update]]></summary>
+        <content type="html"><![CDATA[<p>AGU24 brought together the world’s leading minds in Earth and space sciences. CIROH participated actively, showcasing advances in water prediction, modeling techniques and many more technologies.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="presentations-and-posters-"><strong>Presentations and Posters</strong> 📊<a href="http://ciroh.org/docuhub-staging/blog/December%20Monthly%20Blog%20Update#presentations-and-posters-" class="hash-link" aria-label="Direct link to presentations-and-posters-" title="Direct link to presentations-and-posters-">​</a></h2>
+<p>The conference provided an excellent platform for CIROH researchers to present their groundbreaking work. Our team delivered impactful presentations and poster sessions highlighting CIROH’s innovative work, including advancements in water prediction systems
+and community water modeling.</p>
+<p>These sessions sparked thought-provoking discussions and fostered collaborations with other researchers. For those who missed it, <strong>posters and presentation slides are now available</strong> <a href="https://github.com/CIROH-UA/Conferences/tree/main/AGU24" target="_blank" rel="noopener noreferrer">here</a>. Feel free to explore these materials and share your thoughts. 📝</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="contribute-your-posters-or-presentations">Contribute Your Posters or Presentations!<a href="http://ciroh.org/docuhub-staging/blog/December%20Monthly%20Blog%20Update#contribute-your-posters-or-presentations" class="hash-link" aria-label="Direct link to Contribute Your Posters or Presentations!" title="Direct link to Contribute Your Posters or Presentations!">​</a></h3>
+<p>If any CIROH researchers would like to add their own posters or presentations to this repository, please feel free to send a <a href="https://github.com/CIROH-UA/Conferences/pulls" target="_blank" rel="noopener noreferrer">pull request (PR)</a>. We welcome contributions and encourage collaboration!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="photo-gallery-">Photo Gallery 📸<a href="http://ciroh.org/docuhub-staging/blog/December%20Monthly%20Blog%20Update#photo-gallery-" class="hash-link" aria-label="Direct link to Photo Gallery 📸" title="Direct link to Photo Gallery 📸">​</a></h2>
+<p>We captured some unforgettable moments from AGU 2024. From vibrant sessions to meaningful conversations at our booth, here’s a glimpse:</p>
+<p><img decoding="async" loading="lazy" alt="AGU24_02" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_02-043c5ded45817d5b40046511dce3d6e9.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="AGU24_01" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_01-f8b35ac0af019ad8db90cb0f23c0aafa.jpg" title="AGU24 Images" width="1290" height="789" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="AGU24_05" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_05-28874672330bf51db3cecb641dee6537.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="AGU24_06" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_06-2e5e291911fb7893493a855712929db7.jpeg" title="AGU24 Images" width="800" height="450" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="AGU24_07" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_07-dea1654f5692045854f57b78b3d712a6.jpg" title="AGU24 Images" width="1600" height="1200" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="AGU24_03" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_03-3c9c69c1b5a3921c6538cfc4ae1592ce.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="AGU24_04" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_04-655be30f0b803f751457b66ecd6cd5d8.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="science" term="science"/>
+        <category label="conference" term="conference"/>
+        <category label="impact" term="impact"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community NextGen Updates]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/November Monthly Blog Update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/November Monthly Blog Update"/>
+        <updated>2024-11-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[November Monthly Blog Update]]></summary>
+        <content type="html"><![CDATA[<p>The Community NextGen framework has seen significant advancements in November 2024, with major updates across multiple components and exciting new resources for users. Let's dive into the key developments that are making hydrologic modeling more accessible and powerful than ever.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ngiab-cloudinfra-v130-a-major-milestone">🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-ngiab-cloudinfra-v130-a-major-milestone" class="hash-link" aria-label="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone" title="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone">​</a></h2>
+<p>The release of NGIAB-CloudInfra v1.3.0 marks a significant evolution in our Docker-based solution. This version introduces several groundbreaking improvements:</p>
+<ul>
+<li>Integration with CIROH-UA's forked repositories of <code>ngen</code> and <code>t-route</code></li>
+<li>Full compatibility with the latest hydrofabric v2.2</li>
+<li>New sample input data AWI-007</li>
+<li>Enhanced visualization capabilities through the NGIAB Visualizer</li>
+<li>Streamlined CI/CD pipeline with a unified Dockerfile</li>
+<li>TEEHR integration for improved evaluation capabilities</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-new-end-to-end-workflow-guide">📝 New End-to-End Workflow Guide<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-new-end-to-end-workflow-guide" class="hash-link" aria-label="Direct link to 📝 New End-to-End Workflow Guide" title="Direct link to 📝 New End-to-End Workflow Guide">​</a></h2>
+<p>We're excited to announce a comprehensive new end-to-end workflow video tutorial for NGIAB! This resource walks users through the entire process, making it easier than ever to get started with NextGen modeling. The tutorial is available in our <a href="https://docs.ciroh.org/docs/products/Community%20Hydrologic%20Modeling%20Framework/nextgeninaboxDocker/workflow" target="_blank" rel="noopener noreferrer">documentation</a> and provides step-by-step guidance for both new and experienced users.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-infrastructure-updates">🔄 Infrastructure Updates<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-infrastructure-updates" class="hash-link" aria-label="Direct link to 🔄 Infrastructure Updates" title="Direct link to 🔄 Infrastructure Updates">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ngiab-hpcinfra">NGIAB-HPCInfra<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#ngiab-hpcinfra" class="hash-link" aria-label="Direct link to NGIAB-HPCInfra" title="Direct link to NGIAB-HPCInfra">​</a></h3>
+<p>The Singularity-based solution for high-performance computing has been updated to maintain parity with the Docker implementation, including:</p>
+<ul>
+<li>Updated repositories alignment</li>
+<li>New sample data compatibility</li>
+<li>Enhanced documentation</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-processing-tools">Data Processing Tools<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#data-processing-tools" class="hash-link" aria-label="Direct link to Data Processing Tools" title="Direct link to Data Processing Tools">​</a></h3>
+<ul>
+<li><strong>NGIAB-data-preprocess v3.1.2</strong>: Major update ensuring seamless compatibility with hydrofabric v2.2</li>
+<li><strong>ngen-datastream</strong>: Significant improvements with 22 new commits enhancing data handling capabilities</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🌟 New Features<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-new-features" class="hash-link" aria-label="Direct link to 🌟 New Features" title="Direct link to 🌟 New Features">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="hydrofabric-v22">Hydrofabric v2.2<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#hydrofabric-v22" class="hash-link" aria-label="Direct link to Hydrofabric v2.2" title="Direct link to Hydrofabric v2.2">​</a></h3>
+<p>The latest hydrofabric data model brings improved spatial representation and data organization. This update enhances the framework's ability to represent complex hydrologic systems accurately.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="repository-updates">Repository Updates<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#repository-updates" class="hash-link" aria-label="Direct link to Repository Updates" title="Direct link to Repository Updates">​</a></h3>
+<ul>
+<li>The NextGen Model Framework now operates from CIROH-UA's main branch</li>
+<li>T-route implementation has been updated to use the specialized datastream branch</li>
+<li>Both updates provide better integration and enhanced functionality within the NGIAB ecosystem</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's Next?<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#whats-next" class="hash-link" aria-label="Direct link to What's Next?" title="Direct link to What's Next?">​</a></h2>
+<p>These November updates represent our ongoing commitment to improving the NextGen framework's accessibility and capabilities. With the new workflow video and documentation in place, we're making it easier than ever for the hydrologic modeling community to leverage these powerful tools.</p>
+<p>We encourage users to:</p>
+<ol>
+<li>Explore the new v1.3.0 release</li>
+<li>Watch the end-to-end workflow video</li>
+<li>Test out the updated data preprocess and NGIAB tools</li>
+<li>Provide feedback on your experience</li>
+</ol>
+<p>Stay tuned for more updates as we continue to enhance and expand the NextGen In A Box ecosystem!</p>
+<hr>
+<p>For detailed information about these updates, visit our repositories:</p>
+<ul>
+<li><a href="https://github.com/CIROH-UA/NGIAB-CloudInfra" target="_blank" rel="noopener noreferrer">NGIAB-CloudInfra</a></li>
+<li><a href="https://github.com/CIROH-UA/NGIAB-HPCInfra" target="_blank" rel="noopener noreferrer">NGIAB-HPCInfra</a></li>
+<li><a href="https://github.com/CIROH-UA/ngen-datastream" target="_blank" rel="noopener noreferrer">ngen-datastream</a></li>
+<li><a href="https://github.com/CIROH-UA/NGIAB_data_preprocess" target="_blank" rel="noopener noreferrer">NGIAB-data-preprocess</a></li>
+</ul>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ngiab" term="ngiab"/>
+        <category label="nextgen" term="nextgen"/>
+        <category label="workflow" term="workflow"/>
+        <category label="visualize" term="visualize"/>
+        <category label="evaluate" term="evaluate"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIROH Science Meeting 2024]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/October Monthly Blog Update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/October Monthly Blog Update"/>
+        <updated>2024-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[October Monthly Blog Update]]></summary>
+        <content type="html"><![CDATA[<p>The 2024 CIROH Science Meeting was a huge success, bringing together researchers, federal partners, and consortium members both in person and virtually. We're excited to share the valuable resources from this year's meeting with the wider CIROH community.</p>
+<p>Slides and pictures from the various sessions, keynotes, and the Federal Town Hall have all been uploaded to a shared drive for easy access. You can find links to these materials here: <a href="https://drive.google.com/drive/folders/1NsJEWHQBD92ndc3FD_bFEKgqTUqTxVM3" target="_blank" rel="noopener noreferrer">Access the Shared Drive with Presentation Slides</a></p>
+<p>Thank you to everyone who participated in making the 2024 CIROH Science Meeting a resounding success. We look forward to continuing our collaborative research efforts across the consortium.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ciroh-2024-science-meeting-fostering-innovation-in-hydrology">CIROH 2024 Science Meeting: Fostering Innovation in Hydrology<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#ciroh-2024-science-meeting-fostering-innovation-in-hydrology" class="hash-link" aria-label="Direct link to CIROH 2024 Science Meeting: Fostering Innovation in Hydrology" title="Direct link to CIROH 2024 Science Meeting: Fostering Innovation in Hydrology">​</a></h2>
+<p>The third annual CIROH Science Meeting, held at The University of Alabama from October 14-17, 2024, brought together our vibrant community of researchers, practitioners, and stakeholders. This four-day event showcased the remarkable progress in our mission to advance national water prediction capabilities.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="meeting-highlights">Meeting Highlights<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#meeting-highlights" class="hash-link" aria-label="Direct link to Meeting Highlights" title="Direct link to Meeting Highlights">​</a></h2>
+<ul>
+<li>
+<p>Over 300 participants gathered to share knowledge and forge new collaborations</p>
+</li>
+<li>
+<p>Engaging discussions spanning critical topics in hydrology</p>
+</li>
+<li>
+<p>Special focus on CIROH's four key research themes:</p>
+<ul>
+<li>
+<p>Next Generation Water Prediction</p>
+</li>
+<li>
+<p>Community Modeling</p>
+</li>
+<li>
+<p>Hydroinformatics</p>
+</li>
+<li>
+<p>Social Science in Water Resources</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="community-engagement">Community Engagement<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#community-engagement" class="hash-link" aria-label="Direct link to Community Engagement" title="Direct link to Community Engagement">​</a></h2>
+<p>The meeting featured presentations from our consortium members, research partners, and key stakeholders including NOAA/NWS. The diverse agenda included keynotes, project presentations, roundtable discussions, poster sessions, and HIF tour that fostered meaningful discussions about the future of water prediction.</p>
+<p>Representatives from our member institutions and various partnering organizations contributed to rich dialogues about advancing the National Water Model and related technologies. The collaborative atmosphere exemplified CIROH's commitment to building a stronger hydroinformatics community.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="key-outcomes">Key Outcomes<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#key-outcomes" class="hash-link" aria-label="Direct link to Key Outcomes" title="Direct link to Key Outcomes">​</a></h2>
+<ul>
+<li>
+<p>Strengthened partnerships across the consortium</p>
+</li>
+<li>
+<p>Shared progress on ongoing research initiatives</p>
+</li>
+<li>
+<p>Identified new opportunities for cross-institutional collaboration</p>
+</li>
+<li>
+<p>Advanced discussions on improving national water prediction capabilities</p>
+</li>
+<li>
+<p>Enhanced understanding of community needs and priorities</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="looking-forward">Looking Forward<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#looking-forward" class="hash-link" aria-label="Direct link to Looking Forward" title="Direct link to Looking Forward">​</a></h2>
+<p>The success of the 2024 Science Meeting reinforces CIROH's role in shaping the future of water prediction. The connections made and ideas shared during these four days will continue to influence our work throughout the year as we strive to improve water prediction capabilities for the nation.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="photo-gallery">Photo Gallery<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#photo-gallery" class="hash-link" aria-label="Direct link to Photo Gallery" title="Direct link to Photo Gallery">​</a></h2>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/2024CSM_GroupPano.png" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/2024CSM_WomenOfCIROH.png" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-2.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-3.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-1.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-4.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-5.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%"></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>The 2024 CIROH Science Meeting demonstrated the power of collaboration in advancing hydrology. As we move forward, the energy and insights from this gathering will fuel our continued efforts to enhance water prediction capabilities and serve our communities better.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="science" term="science"/>
+        <category label="conference" term="conference"/>
+        <category label="impact" term="impact"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessing National Water Model (NWM) Data via Google Cloud BigQuery API]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/September Monthly Blog Update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/September Monthly Blog Update"/>
+        <updated>2024-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[September Monthly Blog Update]]></summary>
+        <content type="html"><![CDATA[<img src="http://ciroh.org/img/gcp_architecture_diagram.png" alt="gcp architectrure diagram">
+<i>Image Source: <a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp"></a><a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp" target="_blank" rel="noopener noreferrer">https://github.com/BYU-Hydroinformatics/api-nwm-gcp</a> </i>
+<br>
+<br>
+<p>Several important historical and ongoing National Water Model (NWM) datasets are now available on Google Cloud BigQuery, which makes them queryable through SQL using Google Cloud console. Some of these data sets are also accessible through an API (e.g. using Python). These datasets and their current status are as follows:</p>
+<table style="width:100%;display:inline-table"><tbody><tr><td>Product</td><td>Cloud Console SQL</td><td>CIROH API</td><td>Historical</td><td>Daily Updates</td></tr><tr><td>Medium-range forecasts</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Long-range forecasts</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Analysis and Assimilation</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Retrospective Data (NWM v3)</td><td>X</td><td></td><td>X</td><td></td></tr><tr><td>Return Periods</td><td>X</td><td></td><td>X</td><td></td></tr></tbody></table>
+<p>To gain access and run queries on BigQuery:</p>
+<ul>
+<li>Submit the NWM BigQuery API Access Form, available <a href="https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigquery-api/" target="_blank" rel="noopener noreferrer">here.</a></li>
+<li>Once approved, the CIROH IT team will cover the costs associated with your queries.</li>
+<li>Initially, each organization or project may request a usage limit of up to $500 per month for accessing the data through BigQuery.</li>
+</ul>
+<p>This service offers a convenient and efficient way to interact with NWM data for your research and analysis needs.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="public-private-partnership-advancing-water-resource-management">Public-Private Partnership: Advancing Water Resource Management<a href="http://ciroh.org/docuhub-staging/blog/September%20Monthly%20Blog%20Update#public-private-partnership-advancing-water-resource-management" class="hash-link" aria-label="Direct link to Public-Private Partnership: Advancing Water Resource Management" title="Direct link to Public-Private Partnership: Advancing Water Resource Management">​</a></h2>
+<p>The National Water Model (NWM) BigQuery project exemplifies a successful collaboration between public and private sectors, uniting government-generated data with modern, cutting-edge cloud technology. This collaboration addresses several key aspects:</p>
+<ul>
+<li><strong>Improved Data Access</strong>: By leveraging Google Cloud BigQuery, a private sector platform, the project dramatically improves access to public NWM data. This partnership makes valuable water resource information more readily available to researchers, policymakers, and the public.</li>
+<li><strong>Technological Innovation</strong>: The integration of NWM data with BigQuery showcases how private sector technology can enhance the utility of public sector data. This synergy promotes innovation in data analysis and visualization techniques.</li>
+<li><strong>Cost-Effective Solutions</strong>: The CIROH DevOps team's commitment to covering query costs demonstrates how public funding can be strategically used to make private sector tools accessible to a wider audience, particularly in the academic and research communities.</li>
+<li><strong>Capacity Building</strong>: This initiative helps build capacity across sectors by providing researchers and organizations with powerful tools to analyze water resource data, potentially leading to better-informed decision-making in water management.</li>
+<li><strong>Scalability and Efficiency</strong>: By utilizing Google's cloud infrastructure, the project ensures that the growing volume of NWM data can be efficiently stored, accessed, and analyzed, addressing the scalability challenges often faced by public sector IT resources.</li>
+<li><strong>Cross-Sector Collaboration</strong>: This project fosters collaboration between government agencies, academic institutions, and private technology companies, creating a model for future partnerships in environmental and resource management.</li>
+<li><strong>Open Science Promotion</strong>: By making NWM data more accessible, this partnership supports the principles of open science, encouraging transparency and reproducibility in water resource research.</li>
+</ul>
+<p>This public-private partnership not only enhances the value of the National Water Model but also sets a precedent for future collaborations that can drive innovation in environmental data management and analysis.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="bigquery" term="bigquery"/>
+        <category label="byu" term="byu"/>
+        <category label="nwm" term="nwm"/>
+        <category label="ciroh" term="ciroh"/>
+        <category label="google" term="google"/>
+        <category label="cloud" term="cloud"/>
+        <category label="api" term="api"/>
+        <category label="partnership" term="partnership"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIROH Cloud User Success Story]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/August Monthly Blog Update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/August Monthly Blog Update"/>
+        <updated>2024-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[August Monthly Blog Update]]></summary>
+        <content type="html"><![CDATA[<p>This month, we are excited to showcase two case studies that utilized our cyberinfrastructure tools and services. These case studies demonstrate how CIROH's cyberinfrastructure is being utilized to support hydrological research and operational advancements.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-ngen-datastream-and-ngiab">1. ngen-datastream and NGIAB<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#1-ngen-datastream-and-ngiab" class="hash-link" aria-label="Direct link to 1. ngen-datastream and NGIAB" title="Direct link to 1. ngen-datastream and NGIAB">​</a></h2>
+<span class="hero-image" style="text-align:center"><img src="https://github.com/CIROH-UA/ngen-datastream/blob/main/docs/images/ngen-datastream.jpg?raw=true" alt="ngen-datastream image" style="width:80%"></span>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="overview">Overview:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#overview" class="hash-link" aria-label="Direct link to Overview:" title="Direct link to Overview:">​</a></h3>
+<p>CIROH’s cloud computing resources have allowed for the development of ngen-datastream, which automates the process of collecting and formatting input data for NextGen, orchestrating the NextGen run through NextGen In a Box (NGIAB), and handling outputs. This software allows users to run NextGen in an efficient, relatively painless, and reproducible fashion, increasing community access to the NextGen framework. ngen-datastream is already community accessible (<a href="https://github.com/CIROH-UA/ngen-datastream/tree/main" target="_blank" rel="noopener noreferrer">https://github.com/CIROH-UA/ngen-datastream/tree/main</a>) and making an impact on research.  A major component of this software is the Amazon Web Services (AWS) cloud-based research datastream (<a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/research_datastream" target="_blank" rel="noopener noreferrer">https://github.com/CIROH-UA/ngen-datastream/tree/main/research_datastream</a>). The research datastream is a CONUS-wide recurring NextGen simulation configured by the community. The terraform to build the AWS infrastructure exists in the ngen-datastream repository and current development focuses on CI/CD and enabling community contribution to the research datastream via edits to the NextGen configuration. Ultimately, these tools help distribute access throughout the community to cutting edge hydrologic research, maximizing the pace of progress of research to operations in hydrology.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="contribution-to-ciroh">Contribution to CIROH:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#contribution-to-ciroh" class="hash-link" aria-label="Direct link to Contribution to CIROH:" title="Direct link to Contribution to CIROH:">​</a></h3>
+<ul>
+<li><strong>Automation</strong>: It automates the process of collecting, formatting, and validating input data for NextGen, streamlining model preparation.</li>
+<li><strong>Flexibility</strong>: It allows users to provide their own input files to run NextGen.</li>
+<li><strong>Scalable Infrastructure</strong>: It utilizes AWS state machine to provide access to high-performance computing (HPC) resources.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure-utilized">Infrastructure Utilized:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#infrastructure-utilized" class="hash-link" aria-label="Direct link to Infrastructure Utilized:" title="Direct link to Infrastructure Utilized:">​</a></h3>
+<ul>
+<li><strong>Elastic Compute Cloud (EC2)</strong></li>
+<li><strong>Simple Storage Service (S3)</strong></li>
+<li><strong>AWS Lamda and Step Functions</strong></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-teehr">2. TEEHR<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#2-teehr" class="hash-link" aria-label="Direct link to 2. TEEHR" title="Direct link to 2. TEEHR">​</a></h2>
+<ul>
+<li><strong>PI</strong> : Katie van Wekhoven</li>
+<li><strong>Co-PI</strong> : Matt Denno (Development Lead)</li>
+<li><strong>Developer</strong> : Sam Lamont</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="project-overview">Project Overview:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#project-overview" class="hash-link" aria-label="Direct link to Project Overview:" title="Direct link to Project Overview:">​</a></h3>
+<p>The goal of this project is to investigate, design, and build a prototype hydrologic model/forecast evaluation system (TEEHR) that will significantly improve our ability to evaluate continental-scale datasets and will provide a robust and consistent evaluation tool for CIROH and OWP research. Design priorities include easy integration into common research workflows, rapid execution of large-scale evaluations, simplified exploration of performance trends and drivers, inclusion of common and emergent evaluation methods, efficient data structures, open-source and community development, and easy extensibility.</p>
+<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/teehr-image.png" alt="teehr image" style="width:40%"></span>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="contribution-to-ciroh-1">Contribution to CIROH:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#contribution-to-ciroh-1" class="hash-link" aria-label="Direct link to Contribution to CIROH:" title="Direct link to Contribution to CIROH:">​</a></h3>
+<ul>
+<li><strong>TEEHR-HUB</strong>: It is a JupyterHub environment, running the TEEHR image, with AWS services (EFS and S3) to provide a scalable platform for hydrologic research.</li>
+<li><strong>Data Processing</strong>: TEEHR-HUB has successfully processed the AORC (v3.0 retrospective) gridded precipitation data to the MERIT basins, as well as the CONUS 40-year retrospective (v3.0 and USGS).</li>
+<li><strong>Testbed Integration</strong>: TEEHR-HUB’s compatibility with various testbeds allows researchers to experiment with different hydrologic models and datasets.</li>
+<li><strong>Evaluation</strong> - TEEHR is being used (or is planned for use) by several CIROH research teams to evaluate large scale model results.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure-utilized-1">Infrastructure Utilized:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#infrastructure-utilized-1" class="hash-link" aria-label="Direct link to Infrastructure Utilized:" title="Direct link to Infrastructure Utilized:">​</a></h3>
+<ul>
+<li><strong>Elastic Kubernetes Service (EKS)</strong> (including supporting AWS services) - Scalable computing resources to host JupyterHub Dask and Spark</li>
+<li><strong>Elastic File System (EFS)</strong> - Shared data drive for cached data and shared documents (notebooks, etc.)</li>
+<li><strong>Simple Storage Service (S3)</strong> - Bucket storage for large public and private datasets</li>
+</ul>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="2i2c" term="2i2c"/>
+        <category label="aws" term="aws"/>
+        <category label="google" term="google"/>
+        <category label="nextgen" term="nextgen"/>
+        <category label="jupyterhub" term="jupyterhub"/>
+        <category label="hpc" term="hpc"/>
+        <category label="teehr" term="teehr"/>
+        <category label="ngen" term="ngen"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIROH Research CyberInfrastructure Update]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/July Monthly IT Update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/July Monthly IT Update"/>
+        <updated>2024-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[July Monthly IT Update]]></summary>
+        <content type="html"><![CDATA[<p>We're excited to share some recent developments and updates from CIROH's Research CyberInfrastructure team:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cloud-infrastructure">Cloud Infrastructure<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#cloud-infrastructure" class="hash-link" aria-label="Direct link to Cloud Infrastructure" title="Direct link to Cloud Infrastructure">​</a></h3>
+<ul>
+<li>CIROH's Google Cloud Account is now fully operational and managed by our team. You can find more information <a href="https://docs.ciroh.org/docs/services/cloudservices/google%20cloud/" target="_blank" rel="noopener noreferrer">here.</a></li>
+<li>We're in the process of migrating our 2i2c JupyterHub to CIROH's Google Cloud account.</li>
+<li>We've successfully deployed the Google BigQuery API (developed by BYU and Google) for NWM data in our cloud. To access this API, please contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Please refer to <a href="https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigqeury-api/" target="_blank" rel="noopener noreferrer">NWM BigQuery API</a> to learn more.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-and-services">Support and Services<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#support-and-services" class="hash-link" aria-label="Direct link to Support and Services" title="Direct link to Support and Services">​</a></h3>
+<ul>
+<li>Monthly AWS office hours are ongoing. For more details on how to join, email us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</li>
+<li>We provided IT support for the Summer Institute 2024, REU students, and team leads this summer.</li>
+</ul>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/summer-institute.jpg" alt="summer-institute-students" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/reu.jpg" alt="reu-institute-students" style="width:80%"></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-enhancements">Security Enhancements<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#security-enhancements" class="hash-link" aria-label="Direct link to Security Enhancements" title="Direct link to Security Enhancements">​</a></h3>
+<ul>
+<li>New security features have been added to our CIROH-UA GitHub repository to prevent commits containing sensitive information.</li>
+<li>We've updated our AWS best practices, particularly regarding key management. If your project uses CIROH AWS resources, please review these updates at <a href="https://docs.ciroh.org/docs/services/cloudservices/aws/AWS%20best%20Practices/" target="_blank" rel="noopener noreferrer">AWS Best Practices</a>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="resources-and-access">Resources and Access<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#resources-and-access" class="hash-link" aria-label="Direct link to Resources and Access" title="Direct link to Resources and Access">​</a></h3>
+<ul>
+<li>For external IT resources needed for your projects, check out NSF Access Allocations <a href="https://docs.ciroh.org/docs/services/external-resources/nsf-access/" target="_blank" rel="noopener noreferrer">here.</a></li>
+<li>GPU allocation is now available on CIROH's 2i2c JupyterHub. To request access, please fill out <a href="https://forms.office.com/pages/responsepage.aspx?id=jnIAKtDwtECk6M5DPz-8p4IIpHdEnmhNgjOa9FjrwGtUNlpMNTIwT0ZHUjg5VzdTNzNOSVk5OEFNMC4u" target="_blank" rel="noopener noreferrer">this form.</a></li>
+</ul>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/si.jpg" alt="summer-institute-students" style="width:80%"></div>
+<p>For more information on our services, please refer to our <a href="https://docs.ciroh.org/docs/services/intro" target="_blank" rel="noopener noreferrer">services page</a>.</p>
+<p>We're continually working to improve our IT infrastructure and support. If you have any questions or need assistance, don't hesitate to reach out to us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="2i2c" term="2i2c"/>
+        <category label="google" term="google"/>
+        <category label="gpu" term="gpu"/>
+        <category label="reu" term="reu"/>
+        <category label="bigquery" term="bigquery"/>
+        <category label="api" term="api"/>
+        <category label="aws" term="aws"/>
+        <category label="nsf" term="nsf"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIROH Developers Conference 2024]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/CIROH Developers Conference 2024</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/CIROH Developers Conference 2024"/>
+        <updated>2024-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CIROH Developers Conference 2024]]></summary>
+        <content type="html"><![CDATA[<p><strong>CIROH Developers Conference 2024</strong></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_01.jpeg" alt="DevCon2024" style="width:80%"></div>
+<p>The CIROH team recently participated in the <strong>2nd Annual CIROH Developers Conference (DevCon24)</strong>, held from May 29th to June 1st,2024. The conference brought together a diverse group of water professionals to exchange knowledge and explore cutting-edge research in the field of hydrological forecasting.</p>
+<p>Reflecting CIROH's current research focus, the conference explored topics including hydrological modeling (NextGen), flood inundation mapping, hydroinformatics, social science, and community engagement. Attendees got the opportunity to delve deeper into specific areas through its well-structured training track. This year the tracks were:</p>
+<ul>
+<li><strong>NextGen</strong></li>
+<li><strong>Flood Inundation Mapping (FIM)</strong></li>
+<li><strong>Hydrological Applications of Machine Learning (ML)</strong></li>
+<li><strong>Hydroinformatics</strong></li>
+<li><strong>Cross-cutting</strong></li>
+</ul>
+<p>This year, various workshops leveraged cloud technologies. Notably, we provided access to the 2i2c JupyterHub environment, a cloud-based platform for interactive computing, for ten workshops. This facilitated seamless access to powerful computing resources for participants. Additionally, we provided AWS instances to support four workshops.</p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_04.JPG" alt="DevCon2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_06.png" alt="DevCon2024" style="width:80%"></div>
+<br>
+<p><strong>Presentation Slides:</strong></p>
+<p>You can find the presentation slides <a href="https://github.com/CIROH-UA/Conferences/tree/main/CIROHDevCon2024/NextGenTrack" target="_blank" rel="noopener noreferrer">here</a>. To learn more about CIROH's work or connect with the team, visit our website at <a href="https://ciroh.ua.edu/" target="_blank" rel="noopener noreferrer">CIROH-website</a>.</p>
+<p><strong>Conference Website:</strong></p>
+<p><a href="https://ciroh.ua.edu/devconference/" target="_blank" rel="noopener noreferrer">Learn More</a></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_02.jpeg" alt="DevCon2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_05.jpg" alt="DevCon2024" style="width:80%"></div>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="conference" term="conference"/>
+        <category label="hydrology" term="hydrology"/>
+        <category label="training" term="training"/>
+        <category label="nextgen" term="nextgen"/>
+        <category label="resources" term="resources"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWRA 2024 Spring Conference]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/AWRA 2024 Spring Conference</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/AWRA 2024 Spring Conference"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWRA 2024 Spring Conference]]></summary>
+        <content type="html"><![CDATA[<p><strong>AWRA 2024 Spring Conference</strong></p>
+<p>The <strong>CIROH CyberInfrastructure team</strong> recently participated in the <strong>AWRA 2024 Spring Conference</strong>, co-hosted by <strong>the Alabama Water Institute at the University of Alabama.</strong></p>
+<p>Themed "Water Risk and Resilience: Research and Sustainable Solutions," the conference brought together a diverse group of water professionals to exchange knowledge and explore cutting-edge research in the field.</p>
+<p>CIROH CyberInfrastructure team presented on these topics:</p>
+<ul>
+<li><strong>Accelerating Community Contribution to the Next Generation Water Resources Modeling Framework</strong></li>
+<li><strong>Creating a community dataset for high-speed national water model data access</strong></li>
+<li><strong>Model structure selection for the flood and drought predictions using the NextGen Framework based on the extreme event simulations</strong></li>
+</ul>
+<p>CIROH team member <strong>James Halgren</strong> presented the work on <strong>"Accelerating Community Contribution to the Next Generation Water Resources Modeling Framework." The presentation focused on building and sharing a continuous research data stream using the NextGen Water Resources Modeling Framework with NextGen IN A Box (NGIAB).</strong> This project, a collaboration with Lynker members, showcases the potential for open-source tools and community-driven efforts to advance water resources modeling and research.</p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/awra2024.jpeg" alt="AWRA2024Spring" style="width:80%"></div>
+<p>CIROH team member <strong>Sepehr Karimi</strong> presented the work on <strong>"Creating a community dataset for high-speed national water model data access"</strong></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/AWRA2024-2.png" alt="AWRA2024Spring-2" style="width:80%"></div>
+<p>CIROH team member <strong>Shahab Alam</strong> presented the work on <strong>"Model structure selection for the flood and drought predictions using the NextGen Framework based on the extreme event simulations"</strong></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/AWRA2024-3.png" alt="AWRA2024Spring-3" style="width:80%"></div>
+<p>These presentations showcased CIROH's expertise in open-source tools, community-driven efforts, and water resources modeling. The team's contributions sparked insightful discussions and potential collaborations for future projects.</p>
+<p><strong>Call to Action:</strong></p>
+<p>To learn more about CIROH's work or connect with the team, visit our website at <a href="https://ciroh.ua.edu/" target="_blank" rel="noopener noreferrer">CIROH-website</a>.</p>
+<p><strong>Conference Website:</strong></p>
+<p><a href="https://www.awra.org/Members/Events_and_Education/Events/2024-Spring-Conference/2024_Spring_Conference.aspx" target="_blank" rel="noopener noreferrer">AWRA 2024 Spring Conference website link</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="awra" term="awra"/>
+        <category label="tuscaloosa" term="tuscaloosa"/>
+        <category label="conference" term="conference"/>
+        <category label="water resources" term="water resources"/>
+        <category label="modeling" term="modeling"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Next '24: A Flood of Innovation and Inspiration]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/Google Cloud Next 2024</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/Google Cloud Next 2024"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud Next '24: Las Vegas]]></summary>
+        <content type="html"><![CDATA[<p><strong>Google Cloud Next '24</strong></p>
+<p>Hello everyone, and thanks for stopping by!</p>
+<p>I recently had the incredible opportunity to attend Google Cloud Next 2024 in person for the first time, and it was truly an <strong>amazing experience</strong>. From <strong>insightful keynote presentations and workshops to vibrant booths</strong> buzzing with connections, the event was a whirlwind of innovation and inspiration.</p>
+<p>One of the highlights was undoubtedly the abundance of AI announcements and advancements. Google continues to push the boundaries of what's possible, and it was exciting to witness the future of technology unfold.</p>
+<p>Among the many highlights, <strong>CIROH</strong> achieved a significant milestone with its <strong>first-ever session at Google Cloud Next</strong>. The presentation, titled <strong>"Channel the Flood Data Deluge: Unlocking the American National Water Model,"</strong> <a href="https://cloud.withgoogle.com/next/session-library?session=DEV209&amp;utm_source=copylink&amp;utm_medium=unpaidsoc&amp;utm_campaign=FY24-Q2-global-ENDM33-physicalevent-er-next-2024-mc&amp;utm_content=next-homepage-social-share&amp;utm_term=-#all%3E" target="_blank" rel="noopener noreferrer">link</a> led by <strong>Kel Markert (Google), Dr. Dan Ames (BYU), and Michael Ames(SADA)</strong> was a resounding success. The session <a href="https://assets.swoogo.com/uploads/3771985-6615e3b5da2cf.pdf" target="_blank" rel="noopener noreferrer">link</a> shed light on the immense potential of the National Water Model and its ability to revolutionize water resource management.</p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/GoogleCloudNext2024.png" alt="GoogleCloudNext2024" style="width:80%"></div>
+<p>The conference was a truly enjoyable experience, especially collaborating with Dan, Kel, Michael and others. We had a great time  together and sharing our insights.</p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/googlenext-1.jpeg" alt="GoogleNext-1" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/googlenext-2.jpeg" alt="GoogleNext-2" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/googlenext-3.jpeg" alt="GoogleNext-3" style="width:80%"></div>
+<p>The <strong>energy and enthusiasm</strong> throughout the event were contagious, and I left feeling incredibly <strong>motivated and inspired</strong>. I connected with numerous individuals from diverse backgrounds, fostering <strong>new collaborations</strong> and sparking exciting ideas for the future of water research and technology.</p>
+<p>If you're curious to see more about my Google Cloud Next experience, head over to <strong>my LinkedIn post <a href="https://www.linkedin.com/in/arpita0911patel/" target="_blank" rel="noopener noreferrer">link</a></strong> where I've shared pictures from all three days.</p>
+<p>Thank you for reading and stay tuned for more updates on the exciting advancements in water research and technology!</p>
+<p><strong>Want to delve deeper into the insights and announcements from Google Cloud Next?</strong> Check out these valuable resources:</p>
+<p><strong>SADA Live:</strong> Recap Key Cloud Technology Insights from Google Cloud Next '24: <a href="https://www.linkedin.com/events/sadalive-recapkeycloudtechnolog7181342146724073472/" target="_blank" rel="noopener noreferrer">link</a>
+This LinkedIn event offers a comprehensive overview of the key takeaways and technological advancements unveiled at the conference.</p>
+<p><strong>Day 2 Google Blog Recap:</strong> Dive into the specifics of Day 2 at Google Cloud Next with this insightful blog post, covering topics ranging from AI and data analytics to infrastructure and security. <a href="https://cloud.google.com/blog/topics/google-cloud-next/next24-day-2-recap?utm_source=linkedin&amp;utm_medium=unpaidsoc&amp;utm_campaign=fy24q1-googlecloud-blog-ai-in_feed-no-brand-global&amp;utm_content=-&amp;utm_term=-" target="_blank" rel="noopener noreferrer">link</a></p>
+<p><strong>AI Takes Center Stage:</strong></p>
+<ul>
+<li><strong>Gemini for Google Cloud:</strong> The introduction of Gemini 1.5 Pro, integrated with various Google Cloud services, promises enhanced functionality, security, and AI performance across diverse applications.</li>
+<li><strong>AI Infrastructure Advancements:</strong> The AI Hypercomputer provides exceptional computational power for complex AI tasks, while Gemini API now offers models tailored for various scales, enriching the development environment.</li>
+<li><strong>Vertex AI Enhancements:</strong> New tools for low-latency applications and improved Gemini integration empower developers to build more efficient and sophisticated AI-driven applications.</li>
+<li><strong>Secure AI Framework (SAIF):</strong> Establishes rigorous security standards for AI implementations, ensuring secure and responsible AI integrations.</li>
+<li><strong>AI Database Assistant:</strong> Leverages Gemini to simplify complex queries and deepen AI integration into database management.</li>
+<li><strong>Google Vids:</strong> This innovative Workspace feature utilizes Gemini and Vertex AI to enhance digital storytelling and collaboration, revolutionizing workplace communication.</li>
+</ul>
+<p><strong>Infrastructure and Development:</strong></p>
+<ul>
+<li>
+<p><strong>Google Axion Processor:</strong> This cutting-edge processor boasts significant performance and energy efficiency improvements compared to traditional x86 instances, setting a new standard for computational efficiency.
+<a href="https://lnkd.in/g544-Tdt" target="_blank" rel="noopener noreferrer">link</a></p>
+</li>
+<li>
+<p><strong>Google Distributed Cloud (GDC) Sandbox:</strong> Enables developers to build and test services for GDC within a Google Cloud environment, simplifying the development process.
+<a href="https://lnkd.in/gcDBFt4t" target="_blank" rel="noopener noreferrer">link</a></p>
+</li>
+<li>
+<p><strong>Migrate to Containers (M2C) CLI:</strong> This new tool facilitates seamless migration of applications to containers, supporting deployment on GKE or Cloud Run.
+<a href="https://lnkd.in/gz_AmHCY" target="_blank" rel="noopener noreferrer">link</a></p>
+</li>
+</ul>
+<p><strong>Security and Data Analytics:</strong></p>
+<ul>
+<li><strong>AI Cyber Defense Initiative:</strong> Revolutionizes cybersecurity by leveraging AI for innovative solutions against cyber threats.</li>
+<li><strong>BigQuery as a Unified Platform:</strong> Transforms BigQuery into a comprehensive platform for managing multimodal data and executing AI tasks, seamlessly integrated with Gemini.<br>
+<!-- -->Check out all the announcements:  <a href="https://lnkd.in/gNGYrg44" target="_blank" rel="noopener noreferrer">link</a></li>
+</ul>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="google" term="google"/>
+        <category label="googlecloud" term="googlecloud"/>
+        <category label="googlecloudnext" term="googlecloudnext"/>
+        <category label="conference" term="conference"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly News Update - March 2024]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/Community NextGen Updates March 2024</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/Community NextGen Updates March 2024"/>
+        <updated>2024-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for Community NextGen]]></summary>
+        <content type="html"><![CDATA[<strong>Accelerating Innovation: CIROH's March 2024 Update</strong>
+<p>The CIROH team has been diligently accelerating research cyberinfrastructure capabilities this month. We're thrilled to share key milestones achieved in enhancing the Community NextGen project and our cloud/on-premises platforms.</p>
+<p>A significant highlight was the successful launch of our new fully operational on-premises infrastructure. Comprehensive documentation is now available <a href="http://ciroh.org/docuhub-staging/docs/services/on-prem/">here</a>, ensuring seamless access and utilization. Additionally, we've fortified the NextGen in a Box (NGIAB) ecosystem with bug fixes, repository enhancements, and initiated work on automating the CI pipeline for the <a href="https://github.com/CIROH-UA/Ngen-Singularity" target="_blank" rel="noopener noreferrer">Singularity Repo</a></p>
+<p>Empowering our community remains a top priority. We've expanded the DocuHub knowledge base with dedicated sections on on-premises access guidelines, as well as policies and best practices for optimized infrastructure usage <a href="http://ciroh.org/docuhub-staging/docs/policies/intro">here</a> . Furthermore, our team represented CIROH at the AWRA Geospatial Water Technology Conference in Orlando, sharing insights on leveraging geospatial data for water research. Refer <a href="https://github.com/CIROH-UA/Conferences/tree/main/2024-03-26_AWRA_GeospatialWaterTechnology" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>As we continue driving advancements, we extend our gratitude for your unwavering support of the Community NextGen project and CIROH's cyberinfrastructure endeavors. Be on the lookout for more exciting updates next month as we strive to unlock new frontiers in water science through robust computing capabilities.</p>
+<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Click Here to Visit Community NextGen and NGIAB News from March 2024</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="community-nextgen" term="community-nextgen"/>
+        <category label="news" term="news"/>
+        <category label="singularity" term="singularity"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly News Update - February 2024]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/Community NextGen Updates Feb 2024</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/Community NextGen Updates Feb 2024"/>
+        <updated>2024-02-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for Community NextGen]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the February edition of the CIROH DocuHub blog, where we bring you the latest updates and news about the Community NextGen project and CIROH's Cloud and on-premise Infrastructure.</p>
+<p>Our team has been hard at work enhancing CIROH's Infrastructure and Community NextGen tools. Here are some highlights from February 2024:</p>
+<ol>
+<li>We successfully launched our new On-premises Infrastructure, which is now fully operational. You can find documentation for it <a href="http://ciroh.org/docuhub-staging/docs/services/on-prem/">here</a>.</li>
+</ol>
+<ol start="2">
+<li>
+<p>For NGIAB, we've made improvements to the CI pipeline for pull requests submitted with forked repositories. Now, we automatically build and test these submissions using the CI pipeline.</p>
+</li>
+<li>
+<p>We've added documentation for the NWMURL python package, which offers utility functions tailored for accessing National Water Model (NWM) data URLs. This library streamlines the process of accessing NWM data for various purposes, including analysis, modeling, and visualization. You can explore the documentation <a href="http://ciroh.org/docuhub-staging/docs/products/Data%20Management%20and%20Access%20Tools/dataaccess/">here</a>.</p>
+</li>
+<li>
+<p>We're thrilled to announce the NextGen Track for DevCon24. The schedule is now available at: <a href="https://ciroh.ua.edu/devconference/" target="_blank" rel="noopener noreferrer">DevCon24 Schedule</a>.</p>
+</li>
+</ol>
+<p>Thank you for your ongoing interest and support in the Community NextGen project. Stay tuned for more exciting updates and developments next month. 😊</p>
+<p><a href="https://docs.ciroh.org/news/" target="_blank" rel="noopener noreferrer">Click Here to Visit Community NextGen and NGIAB News from Feb 2024</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="community-nextgen" term="community-nextgen"/>
+        <category label="on-premises" term="on-premises"/>
+        <category label="nwm" term="nwm"/>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextGen Monthly News Update - January 2024]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/NextGen Updates Jan 2024</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/NextGen Updates Jan 2024"/>
+        <updated>2024-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for NextGen]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the January edition of the CIROH DocuHub blog, where we share the latest updates and news about the Community NextGen project monthly. NextGen is a cutting-edge hydrologic modeling framework that aims to advance the science and practice of hydrology and water resources management. In this month's blog, we will highlight some of the recent achievements and developments of the Community NextGen team.</p>
+<p>First, we are excited to announce that NextGen In A Box (NGIAB) is now available with Singularity support. This means that you can run NGIAB on any HPC system that does not support Docker, using Singularity containers. Singularity is a popular tool for creating and running portable and reproducible computational environments. To learn how to use NGIAB with Singularity, please visit our GitHub repository: <a href="https://github.com/CIROH-UA/Ngen-Singularity" target="_blank" rel="noopener noreferrer">Ngen-Singularity</a>.</p>
+<p>Second, we have made several improvements and enhancements to NGIAB, such as updating the sample input data, upgrading the Boost library, adding auto mode run, and supporting geopackage format. You can find more details about these updates on our GitHub repository: <a href="https://github.com/CIROH-UA/NGIAB-CloudInfra" target="_blank" rel="noopener noreferrer">NGIAB-CloudInfra</a>.</p>
+<p>Third, we would like to share with you is the development of NextGen Datastream, a tool that automates the process of collecting and formatting input data for NextGen, orchestrating the NextGen run through NextGen In a Box (NGIAB), and handling outputs. The NextGen Datastream is a shell script that orchestrates each step in the process, using a configuration file that specifies the data sources, parameters, and options for the NextGen run. The NextGen Datastream can also generate its own internal configs and modify the configuration file as needed. You can find more details and instructions on how to use the NextGen Datastream on our GitHub repository: <a href="https://github.com/CIROH-UA/ngen-datastream/blob/main/README.md" target="_blank" rel="noopener noreferrer">ngen-datastream</a>.</p>
+<p>We hope you enjoyed this blog and found it informative and useful. If you have any questions, comments, or feedback, please feel free to contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Thank you for your interest and support in the Community NextGen project. Stay tuned for more exciting news and developments in the next month. 😊</p>
+<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextGen Monthly News Update - December 2023]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/NextGen Updates Dec 2023</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/NextGen Updates Dec 2023"/>
+        <updated>2023-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for NextGen]]></summary>
+        <content type="html"><![CDATA[<p>Happy New Year!!! We are back from SFO after attending AGU last month. We are excited to share the latest updates for NGIAB, NextGen, T-route, Hydrofabric, NextGen forcings, and Community Support from December 2023.</p>
+<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Zach Wills</name>
+            <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextGen In A Box v1.1.0 Release]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/NextGen In A Box Release Notes</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/NextGen In A Box Release Notes"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for NGIAB]]></summary>
+        <content type="html"><![CDATA[<p>We've release NGIAB v1.1.0! This release fixes issues:</p>
+<ul>
+<li><a href="https://github.com/CIROH-UA/NGIAB-CloudInfra/issues/21" target="_blank" rel="noopener noreferrer">#21</a></li>
+<li><a href="https://github.com/CIROH-UA/NGIAB-CloudInfra/issues/67" target="_blank" rel="noopener noreferrer">#67</a></li>
+<li><a href="https://github.com/CIROH-UA/NGIAB-CloudInfra/issues/44" target="_blank" rel="noopener noreferrer">#44</a></li>
+</ul>
+<p>More info: <a href="https://github.com/CIROH-UA/NGIAB-CloudInfra/releases/tag/v1.1.0" target="_blank" rel="noopener noreferrer">https://github.com/CIROH-UA/NGIAB-CloudInfra/releases/tag/v1.1.0</a></p>
+<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Zach Wills</name>
+            <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
+        </author>
+        <category label="nextgen" term="nextgen"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextGen Monthly News Update - November 2023]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/NextGen Updates Nov 2023</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/NextGen Updates Nov 2023"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for NextGen]]></summary>
+        <content type="html"><![CDATA[<p>We are excited to share the latest updates for NGIAB, NextGen, T-route, Hydrofabric, NextGen forcings and Community Support.</p>
+<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Zach Wills</name>
+            <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextGen In A Box Updates]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/NextGen-In-A-Box Release Notes</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/NextGen-In-A-Box Release Notes"/>
+        <updated>2023-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for NGIAB]]></summary>
+        <content type="html"><![CDATA[<p>We've introduced a fresh addition within the NGIAB, offering the most up-to-date insights on NGIAB and NextGen monthly updates.</p>
+<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB Release Notes Page</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Zach Wills</name>
+            <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
+        </author>
+        <category label="nextgen" term="nextgen"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextGen Framework Forcings]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/NextGen Forcings</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/NextGen Forcings"/>
+        <updated>2023-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NextGen Framework Forcings]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nextgen-framework-forcings">NextGen Framework Forcings<a href="http://ciroh.org/docuhub-staging/blog/NextGen%20Forcings#nextgen-framework-forcings" class="hash-link" aria-label="Direct link to NextGen Framework Forcings" title="Direct link to NextGen Framework Forcings">​</a></h2>
+<p>A new <a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/forcingprocessor" target="_blank" rel="noopener noreferrer">forcing processor</a> tool has been made public. This tool converts any National Water Model based forcing files into ngen forcing files. This process can be an intensive operation in compute, memory, and IO, so this tool facilitates generating ngen input and ultimately makes running ngen more accessible.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="read-more">Read more<a href="http://ciroh.org/docuhub-staging/blog/NextGen%20Forcings#read-more" class="hash-link" aria-label="Direct link to Read more" title="Direct link to Read more">​</a></h3>
+<p><a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/forcingprocessor" target="_blank" rel="noopener noreferrer">Visit Github</a></p>]]></content>
+        <author>
+            <name>Jordan Laser</name>
+            <uri>https://github.com/JordanLaserGit</uri>
+        </author>
+        <category label="nextgen" term="nextgen"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome DocuHub's Blog]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog"/>
+        <updated>2023-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is first post on DocuHub about Blog.]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="adding-posts">Adding posts<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#adding-posts" class="hash-link" aria-label="Direct link to Adding posts" title="Direct link to Adding posts">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-file-name-to-use">What file name to use?<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#what-file-name-to-use" class="hash-link" aria-label="Direct link to What file name to use?" title="Direct link to What file name to use?">​</a></h3>
+<p>DocuHub will extract a YYYY-MM-DD date from many patterns such as <code>YYYY-MM-DD-my-blog-post-title.md</code> or <code>YYYY/MM/DD/my-blog-post-title.md</code>. This enables you to easily group blog posts by year, by month, or to use a flat structure.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="example-with-metadatafront-matter">Example (with Metadata/Front matter)<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#example-with-metadatafront-matter" class="hash-link" aria-label="Direct link to Example (with Metadata/Front matter)" title="Direct link to Example (with Metadata/Front matter)">​</a></h3>
+<p>To publish in the blog, create a Markdown file within the blog directory.
+For example, create a file at <code>/blog/2019-09-05-hello-docuhub.md</code></p>
+<p>e.g.</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">title: Welcome DocuHub</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">description: This is my first post on DocuHub.</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">slug: welcome-DocuHub</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">authors:</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - name: John Doe</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    title: Co-creator of Product 1</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    url: &lt;Youe github product or external article link&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    image_url: &lt;Author pic url&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - name: Jane Doe</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    title: Co-creator of Product 2</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    url: &lt;Youe github product or external article link&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    image_url: &lt;Author pic url&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">tags: [hello, docuhub, nextgen]</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">hide_table_of_contents: false</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">Welcome to this blog. This blog is created with [**DocuHub 2**](https://docs.ciroh.org/).</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">&lt;!-- truncate --&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">This is my first post on DocuHub.</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">A whole bunch of exploration to follow.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-metadatafront-matter">What is Metadata/Front Matter<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#what-is-metadatafront-matter" class="hash-link" aria-label="Direct link to What is Metadata/Front Matter" title="Direct link to What is Metadata/Front Matter">​</a></h2>
+<p>The front matter is useful to add more metadata to your blog post, for example, author information, but Docusaurus will be able to infer all necessary metadata without the front matter.</p>
+<p>Front matter is provided at the very top of the file, enclosed by three dashes ---. The content is parsed as YAML.</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">title: My Doc Title</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">more_data:</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - Can be provided</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - as: objects</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    or: arrays</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="docuhub" term="docuhub"/>
+        <category label="nextgen" term="nextgen"/>
+        <category label="ciroh" term="ciroh"/>
+    </entry>
+</feed>
