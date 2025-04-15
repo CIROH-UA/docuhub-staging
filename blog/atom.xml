@@ -2,11 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/docuhub-staging/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-03-28T00:00:00.000Z</updated>
+    <updated>2025-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/docuhub-staging/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/docuhub-staging/img/docuhub-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Next 2025: Innovation at Scale ✨]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/april-2025-update</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/april-2025-update"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud Next 2025]]></summary>
+        <content type="html"><![CDATA[<p>Always on the lookout for transformative technologies that can reshape how organizations operate. Another #GoogleCloudNext in the books. With more than 30,000 participants, Google Next always amazes me! It's huge, engaging on so many levels! Engaging booths, networking opportunities, great presentations, workshops, AI coach for basketball, incredible keynote from an amazing team! Event was not just a conference, but a celebration of innovation and a glimpse into the future of cloud computing!
+Great to see how Gemini is transforming data manipulation in BigQuery. The ability to use natural language to query, transform, and visualize data is revolutionizing how we interact with massive datasets. Gabe Weiss's demo particularly showcased the potential for non-specialists to derive insights from complex data.</p>
+<p>If you missed the keynote, I highly recommend watching the recording here: <a href="https://www.youtube.com/live/VABwMpL3JCo?t=3564s" target="_blank" rel="noopener noreferrer">GCN25 Keynote Video</a></p>
+<div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;max-width:1200px;margin:0 auto"><div style="flex:1 0 300px;max-width:600px;text-align:center;transition:transform 0.3s ease"><img src="http://ciroh.org/img/googlecloudblog25/gcp-1.jpg" alt="GoogleNext-1" style="width:100%;height:auto;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)"></div><div style="flex:1 0 300px;max-width:400px;text-align:center;transition:transform 0.3s ease"><img src="http://ciroh.org/img/googlecloudblog25/gcp-4.jpg" alt="GoogleNext-1" style="width:100%;height:auto;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)"></div><div style="flex:1 0 300px;max-width:600px;text-align:center;transition:transform 0.3s ease"><img src="http://ciroh.org/img/googlecloudblog25/gcp-2.jpg" alt="GoogleNext-2" style="width:100%;height:auto;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)"></div><div style="flex:1 0 300px;max-width:600px;text-align:center;transition:transform 0.3s ease"><img src="http://ciroh.org/img/googlecloudblog25/gcp-3.jpg" alt="GoogleNext-3" style="width:100%;height:auto;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)"></div><div style="flex:1 0 300px;max-width:400px;text-align:center;transition:transform 0.3s ease"><img src="http://ciroh.org/img/googlecloudblog25/gcp-4.jpg" alt="GoogleNext-1" style="width:100%;height:auto;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)"></div><div style="flex:1 0 300px;max-width:600px;text-align:center;transition:transform 0.3s ease"><img src="http://ciroh.org/img/googlecloudblog25/gcp-5.jpg" alt="GoogleNext-2" style="width:100%;height:auto;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)"></div><div style="flex:1 0 300px;max-width:600px;text-align:center;transition:transform 0.3s ease"><img src="http://ciroh.org/img/googlecloudblog25/gcp-6.jpg" alt="GoogleNext-3" style="width:100%;height:auto;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)"></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-google-distributed-cloud-bringing-gemini-on-premises">📢 Google Distributed Cloud: Bringing Gemini On-Premises<a href="http://ciroh.org/docuhub-staging/blog/april-2025-update#-google-distributed-cloud-bringing-gemini-on-premises" class="hash-link" aria-label="Direct link to 📢 Google Distributed Cloud: Bringing Gemini On-Premises" title="Direct link to 📢 Google Distributed Cloud: Bringing Gemini On-Premises">​</a></h2>
+<p>Perhaps the most exciting announcement was that Gemini is now available on-premises via Google Distributed Cloud. This is a game-changer for organizations with strict data sovereignty requirements or specialized computing needs. Running on NVIDIA Confidential Computing and NVIDIA Blackwell infrastructure, this solution brings together:</p>
+<ul>
+<li>Cutting-edge AI innovation</li>
+<li>Robust data sovereignty controls</li>
+<li>Enterprise-grade security</li>
+</ul>
+<p>This addresses the most significant barriers many organizations face when adopting advanced AI capabilities. Learn more about this integration here: <a href="https://blogs.nvidia.com/blog/google-cloud-next-agentic-ai-reasoning/?ncid=so-link-994345" target="_blank" rel="noopener noreferrer">NVIDIA and Google Cloud Partnership</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-infrastructure-advances-power-to-transform">📢 Infrastructure Advances: Power to Transform<a href="http://ciroh.org/docuhub-staging/blog/april-2025-update#-infrastructure-advances-power-to-transform" class="hash-link" aria-label="Direct link to 📢 Infrastructure Advances: Power to Transform" title="Direct link to 📢 Infrastructure Advances: Power to Transform">​</a></h2>
+<p>The infrastructure announcements were equally impressive, with serious power upgrades including:</p>
+<ul>
+<li>Ironwood TPUs offering massive acceleration for machine learning workloads</li>
+<li>NVIDIA Blackwell GPUs providing unprecedented computing power</li>
+<li>Rubin GPUs extending capabilities for specialized workloads</li>
+</ul>
+<p>These hardware innovations will enable entirely new classes of applications and make existing workloads significantly more efficient.</p>
+<hr>
+<p>Check out all the online content that's now available, including:</p>
+<ul>
+<li>
+<p>A 10-minute recap of the <strong><a href="https://www.youtube.com/watch?v=dwgmfSOZNoQ" target="_blank" rel="noopener noreferrer">opening keynote</a></strong></p>
+</li>
+<li>
+<p>A replay of the <strong><a href="https://cloud.withgoogle.com/next/25/session-library?session=DEVKEY&amp;utm_source=cloud_sfdc&amp;utm_medium=email&amp;utm_campaign=FY25-Q2-global-EXP106-physicalevent-er-next25-mc&amp;utm_content=global_next25_15a_Op_TY_Gen_Physical_P0&amp;utm_term=-&amp;pref=K&amp;mkt_tok=ODA4LUdKVy0zMTQAAAGZ0-XTI1zyO8s06QZoyvgraE3UtbUUHR0uePcaqzFX_xqCAKR4ho4Qwooku00DFireAGAYlcr90vjFdOkYug_UvoFWtCCvWZQ2D0Bc0I3mEv-Pq4aQOho#all" target="_blank" rel="noopener noreferrer">developer keynote</a></strong></p>
+</li>
+<li>
+<p><strong><a href="https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2025-wrap-up?e=48754805&amp;utm_source=cloud_sfdc&amp;utm_medium=email&amp;utm_campaign=FY25-Q2-global-EXP106-physicalevent-er-next25-mc&amp;utm_content=global_next25_15a_Op_TY_Gen_Physical_P0&amp;utm_term=-&amp;pref=K&amp;mkt_tok=ODA4LUdKVy0zMTQAAAGZ0-XTI69fG5pO1vzMqcs_tymd4-sQLUtRJH6j9g_F6FnNE3GwFkGx5qaC_d7bpF6BtvFK849zOz5VS6dCHtDlYAj-Pu4us2FvFnOic887xHl2eU-7N7U" target="_blank" rel="noopener noreferrer">All 200+ announcements at Next 25</a></strong></p>
+</li>
+<li>
+<p><strong><a href="https://cloud.withgoogle.com/next/25/session-library?mkt_tok=ODA4LUdKVy0zMTQAAAGZ0-XTI3kqz4RKnkWcKk0PQCYROhFCDELXMik1KDwmzDWf41vgL_ELHIf_FBVQXs_dqY4WynUDvgOkY-uWPcTqY1LFvQ5_ZTu-4G3DF3Kiw3jjD2WoUlc#all" target="_blank" rel="noopener noreferrer">More than 150 sessions, demos, and workshops</a></strong></p>
+</li>
+<li>
+<p><strong><a href="https://blog.google/products/google-cloud/next-2025/?utm_source=cloud_sfdc&amp;utm_medium=email&amp;utm_campaign=FY25-Q2-global-EXP106-physicalevent-er-next25-mc&amp;utm_content=global_next25_15a_Op_TY_Gen_Physical_P0&amp;utm_term=-&amp;pref=K&amp;mkt_tok=ODA4LUdKVy0zMTQAAAGZ0-XTI_yfyMB7QGUk4YFUIc7l-BY4tQW4ngSexZ5T54GQiwNwRk29ld_8wAYWVv39I8lBbtKokyjv8Wrdht9YFpHFVhMj8QeYF5Npd2zgjzvC_iX5wnQ" target="_blank" rel="noopener noreferrer">A recap of the event's biggest announcements</a></strong>, all in one place</p>
+</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-agent-development-the-next-frontier">📢 Agent Development: The Next Frontier<a href="http://ciroh.org/docuhub-staging/blog/april-2025-update#-agent-development-the-next-frontier" class="hash-link" aria-label="Direct link to 📢 Agent Development: The Next Frontier" title="Direct link to 📢 Agent Development: The Next Frontier">​</a></h2>
+<p>What particularly caught my attention was Google's focus on agent development technologies:</p>
+<ul>
+<li><strong>google-adk</strong>: The Agent Development Kit makes building multi-agent applications accessible to developers without deep AI expertise. <a href="https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/" target="_blank" rel="noopener noreferrer">Learn more</a></li>
+<li><strong>A2A (Agent-to-Agent Communication)</strong>: The frameworks for agent-to-agent interaction open up possibilities for complex automated workflows that were previously impossible. <a href="https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/" target="_blank" rel="noopener noreferrer">Explore A2A</a> or jump straight to the <a href="https://google.github.io/A2A/#/" target="_blank" rel="noopener noreferrer">quickstart code samples</a></li>
+<li><strong>Agentspace</strong>: This collaboration environment for multiple agents feels like the beginning of something truly transformative. <a href="https://cloud.google.com/blog/products/ai-machine-learning/google-agentspace-enables-the-agent-driven-enterprise" target="_blank" rel="noopener noreferrer">Check it out</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="final-thoughts">Final Thoughts<a href="http://ciroh.org/docuhub-staging/blog/april-2025-update#final-thoughts" class="hash-link" aria-label="Direct link to Final Thoughts" title="Direct link to Final Thoughts">​</a></h2>
+<p>As I reflect on my time at Google Cloud Next 2025, I'm struck by how the landscape of cloud computing and AI is evolving faster than ever. The convergence of powerful infrastructure, sophisticated AI models like Gemini, and new paradigms for agent-based computing signals a fundamental shift in how we'll architect and manage enterprise systems in the coming years.</p>
+<p>I left the conference not just with new knowledge but with a renewed sense of excitement about the possibilities ahead. The future of cloud computing isn't just about faster or cheaper computing resources—it's about fundamentally new ways of solving problems and creating value.</p>
+<p>#GoogleCloudNext25 #CloudAdvocate #AI #A2A #VertexAI #GoogleDistributedCloud #DevOps #EnterpriseArchitecture</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="cloudcomputing" term="cloudcomputing"/>
+        <category label="googlecloud" term="googlecloud"/>
+        <category label="AI" term="AI"/>
+        <category label="infrastructure" term="infrastructure"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌟 UA's Alabama Water Institute Showcases 30-Minute Hydrological Modeling Revolution🌟]]></title>
         <id>http://ciroh.org/docuhub-staging/blog/march-2025-update</id>
@@ -145,7 +212,7 @@ and community water modeling.</p>
         <updated>2024-11-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[November Monthly Blog Update]]></summary>
         <content type="html"><![CDATA[<p>The Community NextGen framework has seen significant advancements in November 2024, with major updates across multiple components and exciting new resources for users. Let's dive into the key developments that are making hydrologic modeling more accessible and powerful than ever.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ngiab-cloudinfra-v130-a-major-milestone">🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-ngiab-cloudinfra-v130-a-major-milestone" class="hash-link" aria-label="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone" title="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ngiab-cloudinfra-v130-a-major-milestone">🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-ngiab-cloudinfra-v130-a-major-milestone" class="hash-link" aria-label="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone" title="Direct link to ��🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone">​</a></h2>
 <p>The release of NGIAB-CloudInfra v1.3.0 marks a significant evolution in our Docker-based solution. This version introduces several groundbreaking improvements:</p>
 <ul>
 <li>Integration with CIROH-UA's forked repositories of <code>ngen</code> and <code>t-route</code></li>
@@ -738,32 +805,5 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <uri>https://github.com/JordanLaserGit</uri>
         </author>
         <category label="nextgen" term="nextgen"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome DocuHub's Blog]]></title>
-        <id>http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog</id>
-        <link href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog"/>
-        <updated>2023-10-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is first post on DocuHub about Blog.]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="adding-posts">Adding posts<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#adding-posts" class="hash-link" aria-label="Direct link to Adding posts" title="Direct link to Adding posts">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-file-name-to-use">What file name to use?<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#what-file-name-to-use" class="hash-link" aria-label="Direct link to What file name to use?" title="Direct link to What file name to use?">​</a></h3>
-<p>DocuHub will extract a YYYY-MM-DD date from many patterns such as <code>YYYY-MM-DD-my-blog-post-title.md</code> or <code>YYYY/MM/DD/my-blog-post-title.md</code>. This enables you to easily group blog posts by year, by month, or to use a flat structure.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="example-with-metadatafront-matter">Example (with Metadata/Front matter)<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#example-with-metadatafront-matter" class="hash-link" aria-label="Direct link to Example (with Metadata/Front matter)" title="Direct link to Example (with Metadata/Front matter)">​</a></h3>
-<p>To publish in the blog, create a Markdown file within the blog directory.
-For example, create a file at <code>/blog/2019-09-05-hello-docuhub.md</code></p>
-<p>e.g.</p>
-<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">title: Welcome DocuHub</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">description: This is my first post on DocuHub.</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">slug: welcome-DocuHub</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">authors:</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - name: John Doe</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    title: Co-creator of Product 1</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    url: &lt;Youe github product or external article link&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    image_url: &lt;Author pic url&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - name: Jane Doe</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    title: Co-creator of Product 2</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    url: &lt;Youe github product or external article link&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    image_url: &lt;Author pic url&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">tags: [hello, docuhub, nextgen]</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">hide_table_of_contents: false</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">Welcome to this blog. This blog is created with [**DocuHub 2**](https://docs.ciroh.org/).</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">&lt;!-- truncate --&gt;</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">This is my first post on DocuHub.</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">A whole bunch of exploration to follow.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-metadatafront-matter">What is Metadata/Front Matter<a href="http://ciroh.org/docuhub-staging/blog/Welcome-DocuHub-Blog#what-is-metadatafront-matter" class="hash-link" aria-label="Direct link to What is Metadata/Front Matter" title="Direct link to What is Metadata/Front Matter">​</a></h2>
-<p>The front matter is useful to add more metadata to your blog post, for example, author information, but Docusaurus will be able to infer all necessary metadata without the front matter.</p>
-<p>Front matter is provided at the very top of the file, enclosed by three dashes ---. The content is parsed as YAML.</p>
-<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">title: My Doc Title</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">more_data:</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - Can be provided</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  - as: objects</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    or: arrays</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">---</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
-        <author>
-            <name>Arpita Patel</name>
-            <uri>https://github.com/arpita0911patel</uri>
-        </author>
-        <category label="blog" term="blog"/>
-        <category label="docuhub" term="docuhub"/>
-        <category label="nextgen" term="nextgen"/>
-        <category label="ciroh" term="ciroh"/>
     </entry>
 </feed>
