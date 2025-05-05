@@ -82,7 +82,7 @@ Great to see how Gemini is transforming data manipulation in BigQuery. The abili
 <li>🚀<strong>30-minute setup</strong> vs days/weeks of configuration</li>
 <li>📖 <strong>Provo River Basin Case Study</strong> demonstrating rapid deployment</li>
 </ul>
-<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/NGIAB-logo.jpg" alt="ngiab image" style="width:30%"></span>
+<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/logos/ngiab.png" alt="ngiab image" style="width:30%"></span>
 <p><a href="https://awi.ua.edu/news/nextgen-in-a-box-ngiab-revolutionizing-hydrological-modeling-with-a-30-minute-setup/" target="_blank" rel="noopener noreferrer">➡️ Read the full press release here!</a></p>
 <hr>]]></content:encoded>
             <category>CIROH</category>
@@ -318,13 +318,13 @@ and community water modeling.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="looking-forward">Looking Forward<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#looking-forward" class="hash-link" aria-label="Direct link to Looking Forward" title="Direct link to Looking Forward">​</a></h2>
 <p>The success of the 2024 Science Meeting reinforces CIROH's role in shaping the future of water prediction. The connections made and ideas shared during these four days will continue to influence our work throughout the year as we strive to improve water prediction capabilities for the nation.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="photo-gallery">Photo Gallery<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#photo-gallery" class="hash-link" aria-label="Direct link to Photo Gallery" title="Direct link to Photo Gallery">​</a></h2>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/2024CSM_GroupPano.png" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/2024CSM_WomenOfCIROH.png" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-2.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-3.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-1.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-4.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-5.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-10-sci-meet/2024CSM_GroupPano.png" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-10-sci-meet/2024CSM_WomenOfCIROH.png" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-10-sci-meet/science-meeting2024-2.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-10-sci-meet/science-meeting2024-3.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-10-sci-meet/science-meeting2024-1.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-10-sci-meet/science-meeting2024-4.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%;margin-bottom:2rem"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-10-sci-meet/science-meeting2024-5.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%"></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="http://ciroh.org/docuhub-staging/blog/October%20Monthly%20Blog%20Update#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p>The 2024 CIROH Science Meeting demonstrated the power of collaboration in advancing hydrology. As we move forward, the energy and insights from this gathering will fuel our continued efforts to enhance water prediction capabilities and serve our communities better.</p>]]></content:encoded>
             <category>Blog</category>
@@ -380,7 +380,7 @@ and community water modeling.</p>
             <description><![CDATA[August Monthly Blog Update]]></description>
             <content:encoded><![CDATA[<p>This month, we are excited to showcase two case studies that utilized our cyberinfrastructure tools and services. These case studies demonstrate how CIROH's cyberinfrastructure is being utilized to support hydrological research and operational advancements.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-ngen-datastream-and-ngiab">1. ngen-datastream and NGIAB<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#1-ngen-datastream-and-ngiab" class="hash-link" aria-label="Direct link to 1. ngen-datastream and NGIAB" title="Direct link to 1. ngen-datastream and NGIAB">​</a></h2>
-<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/ngen-datastream-august-blog.jpg" alt="ngen-datastream image" style="width:80%"></span>
+<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-08-case-studies/ngen-datastream-august-blog.jpg" alt="ngen-datastream image" style="width:80%"></span>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="overview">Overview:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#overview" class="hash-link" aria-label="Direct link to Overview:" title="Direct link to Overview:">​</a></h3>
 <p>CIROH’s cloud computing resources have allowed for the development of ngen-datastream, which automates the process of collecting and formatting input data for NextGen, orchestrating the NextGen run through NextGen In a Box (NGIAB), and handling outputs. This software allows users to run NextGen in an efficient, relatively painless, and reproducible fashion, increasing community access to the NextGen framework. ngen-datastream is already community accessible (<a href="https://github.com/CIROH-UA/ngen-datastream/tree/main" target="_blank" rel="noopener noreferrer">https://github.com/CIROH-UA/ngen-datastream/tree/main</a>) and making an impact on research.  A major component of this software is the Amazon Web Services (AWS) cloud-based research datastream (<a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/research_datastream" target="_blank" rel="noopener noreferrer">https://github.com/CIROH-UA/ngen-datastream/tree/main/research_datastream</a>). The research datastream is a CONUS-wide recurring NextGen simulation configured by the community. The terraform to build the AWS infrastructure exists in the ngen-datastream repository and current development focuses on CI/CD and enabling community contribution to the research datastream via edits to the NextGen configuration. Ultimately, these tools help distribute access throughout the community to cutting edge hydrologic research, maximizing the pace of progress of research to operations in hydrology.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="contribution-to-ciroh">Contribution to CIROH:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#contribution-to-ciroh" class="hash-link" aria-label="Direct link to Contribution to CIROH:" title="Direct link to Contribution to CIROH:">​</a></h3>
@@ -403,7 +403,7 @@ and community water modeling.</p>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="project-overview">Project Overview:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#project-overview" class="hash-link" aria-label="Direct link to Project Overview:" title="Direct link to Project Overview:">​</a></h3>
 <p>The goal of this project is to investigate, design, and build a prototype hydrologic model/forecast evaluation system (TEEHR) that will significantly improve our ability to evaluate continental-scale datasets and will provide a robust and consistent evaluation tool for CIROH and OWP research. Design priorities include easy integration into common research workflows, rapid execution of large-scale evaluations, simplified exploration of performance trends and drivers, inclusion of common and emergent evaluation methods, efficient data structures, open-source and community development, and easy extensibility.</p>
-<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/teehr-image.png" alt="teehr image" style="width:40%"></span>
+<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-08-case-studies/teehr-image.png" alt="teehr image" style="width:40%"></span>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="contribution-to-ciroh-1">Contribution to CIROH:<a href="http://ciroh.org/docuhub-staging/blog/August%20Monthly%20Blog%20Update#contribution-to-ciroh-1" class="hash-link" aria-label="Direct link to Contribution to CIROH:" title="Direct link to Contribution to CIROH:">​</a></h3>
 <ul>
 <li><strong>TEEHR-HUB</strong>: It is a JupyterHub environment, running the TEEHR image, with AWS services (EFS and S3) to provide a scalable platform for hydrologic research.</li>
@@ -449,8 +449,8 @@ and community water modeling.</p>
 <li>Monthly AWS office hours are ongoing. For more details on how to join, email us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</li>
 <li>We provided IT support for the Summer Institute 2024, REU students, and team leads this summer.</li>
 </ul>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/summer-institute.jpg" alt="summer-institute-students" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/reu.jpg" alt="reu-institute-students" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-07-it/summer-institute.jpg" alt="summer-institute-students" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-07-it/reu.jpg" alt="reu-institute-students" style="width:80%"></div>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-enhancements">Security Enhancements<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#security-enhancements" class="hash-link" aria-label="Direct link to Security Enhancements" title="Direct link to Security Enhancements">​</a></h3>
 <ul>
 <li>New security features have been added to our CIROH-UA GitHub repository to prevent commits containing sensitive information.</li>
@@ -461,7 +461,7 @@ and community water modeling.</p>
 <li>For external IT resources needed for your projects, check out NSF Access Allocations <a href="https://docs.ciroh.org/docs/services/external-resources/nsf-access/" target="_blank" rel="noopener noreferrer">here.</a></li>
 <li>GPU allocation is now available on CIROH's 2i2c JupyterHub. To request access, please fill out <a href="https://forms.office.com/pages/responsepage.aspx?id=jnIAKtDwtECk6M5DPz-8p4IIpHdEnmhNgjOa9FjrwGtUNlpMNTIwT0ZHUjg5VzdTNzNOSVk5OEFNMC4u" target="_blank" rel="noopener noreferrer">this form.</a></li>
 </ul>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/si.jpg" alt="summer-institute-students" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-07-it/si.jpg" alt="summer-institute-students" style="width:80%"></div>
 <p>For more information on our services, please refer to our <a href="https://docs.ciroh.org/docs/services/intro" target="_blank" rel="noopener noreferrer">services page</a>.</p>
 <p>We're continually working to improve our IT infrastructure and support. If you have any questions or need assistance, don't hesitate to reach out to us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</p>]]></content:encoded>
             <category>Blog</category>
@@ -482,7 +482,7 @@ and community water modeling.</p>
             <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[CIROH Developers Conference 2024]]></description>
             <content:encoded><![CDATA[<p><strong>CIROH Developers Conference 2024</strong></p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_01.jpeg" alt="DevCon2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-05-devcon24/devcon24_01.jpeg" alt="DevCon2024" style="width:80%"></div>
 <p>The CIROH team recently participated in the <strong>2nd Annual CIROH Developers Conference (DevCon24)</strong>, held from May 29th to June 1st,2024. The conference brought together a diverse group of water professionals to exchange knowledge and explore cutting-edge research in the field of hydrological forecasting.</p>
 <p>Reflecting CIROH's current research focus, the conference explored topics including hydrological modeling (NextGen), flood inundation mapping, hydroinformatics, social science, and community engagement. Attendees got the opportunity to delve deeper into specific areas through its well-structured training track. This year the tracks were:</p>
 <ul>
@@ -493,15 +493,15 @@ and community water modeling.</p>
 <li><strong>Cross-cutting</strong></li>
 </ul>
 <p>This year, various workshops leveraged cloud technologies. Notably, we provided access to the 2i2c JupyterHub environment, a cloud-based platform for interactive computing, for ten workshops. This facilitated seamless access to powerful computing resources for participants. Additionally, we provided AWS instances to support four workshops.</p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_04.JPG" alt="DevCon2024" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_06.png" alt="DevCon2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-05-devcon24/devcon24_04.JPG" alt="DevCon2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-05-devcon24/devcon24_06.png" alt="DevCon2024" style="width:80%"></div>
 <br>
 <p><strong>Presentation Slides:</strong></p>
 <p>You can find the presentation slides <a href="https://github.com/CIROH-UA/Conferences/tree/main/CIROHDevCon2024/NextGenTrack" target="_blank" rel="noopener noreferrer">here</a>. To learn more about CIROH's work or connect with the team, visit our website at <a href="https://ciroh.ua.edu/" target="_blank" rel="noopener noreferrer">CIROH-website</a>.</p>
 <p><strong>Conference Website:</strong></p>
 <p><a href="https://ciroh.ua.edu/devconference/" target="_blank" rel="noopener noreferrer">Learn More</a></p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_02.jpeg" alt="DevCon2024" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_05.jpg" alt="DevCon2024" style="width:80%"></div>]]></content:encoded>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-05-devcon24/devcon24_02.jpeg" alt="DevCon2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-05-devcon24/devcon24_05.jpg" alt="DevCon2024" style="width:80%"></div>]]></content:encoded>
             <category>Blog</category>
             <category>CIROH</category>
             <category>Conference</category>
@@ -526,11 +526,11 @@ and community water modeling.</p>
 <li><strong>Model structure selection for the flood and drought predictions using the NextGen Framework based on the extreme event simulations</strong></li>
 </ul>
 <p>CIROH team member <strong>James Halgren</strong> presented the work on <strong>"Accelerating Community Contribution to the Next Generation Water Resources Modeling Framework." The presentation focused on building and sharing a continuous research data stream using the NextGen Water Resources Modeling Framework with NextGen IN A Box (NGIAB).</strong> This project, a collaboration with Lynker members, showcases the potential for open-source tools and community-driven efforts to advance water resources modeling and research.</p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/awra2024.jpeg" alt="AWRA2024Spring" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-04-AWRA/awra2024.jpeg" alt="AWRA2024Spring" style="width:80%"></div>
 <p>CIROH team member <strong>Sepehr Karimi</strong> presented the work on <strong>"Creating a community dataset for high-speed national water model data access"</strong></p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/AWRA2024-2.png" alt="AWRA2024Spring-2" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-04-AWRA/AWRA2024-2.png" alt="AWRA2024Spring-2" style="width:80%"></div>
 <p>CIROH team member <strong>Shahab Alam</strong> presented the work on <strong>"Model structure selection for the flood and drought predictions using the NextGen Framework based on the extreme event simulations"</strong></p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/AWRA2024-3.png" alt="AWRA2024Spring-3" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-04-AWRA/AWRA2024-3.png" alt="AWRA2024Spring-3" style="width:80%"></div>
 <p>These presentations showcased CIROH's expertise in open-source tools, community-driven efforts, and water resources modeling. The team's contributions sparked insightful discussions and potential collaborations for future projects.</p>
 <p><strong>Call to Action:</strong></p>
 <p>To learn more about CIROH's work or connect with the team, visit our website at <a href="https://ciroh.ua.edu/" target="_blank" rel="noopener noreferrer">CIROH-website</a>.</p>
@@ -555,11 +555,11 @@ and community water modeling.</p>
 <p>I recently had the incredible opportunity to attend Google Cloud Next 2024 in person for the first time, and it was truly an <strong>amazing experience</strong>. From <strong>insightful keynote presentations and workshops to vibrant booths</strong> buzzing with connections, the event was a whirlwind of innovation and inspiration.</p>
 <p>One of the highlights was undoubtedly the abundance of AI announcements and advancements. Google continues to push the boundaries of what's possible, and it was exciting to witness the future of technology unfold.</p>
 <p>Among the many highlights, <strong>CIROH</strong> achieved a significant milestone with its <strong>first-ever session at Google Cloud Next</strong>. The presentation, titled <strong>"Channel the Flood Data Deluge: Unlocking the American National Water Model,"</strong> <a href="https://cloud.withgoogle.com/next/session-library?session=DEV209&amp;utm_source=copylink&amp;utm_medium=unpaidsoc&amp;utm_campaign=FY24-Q2-global-ENDM33-physicalevent-er-next-2024-mc&amp;utm_content=next-homepage-social-share&amp;utm_term=-#all%3E" target="_blank" rel="noopener noreferrer">link</a> led by <strong>Kel Markert (Google), Dr. Dan Ames (BYU), and Michael Ames(SADA)</strong> was a resounding success. The session <a href="https://assets.swoogo.com/uploads/3771985-6615e3b5da2cf.pdf" target="_blank" rel="noopener noreferrer">link</a> shed light on the immense potential of the National Water Model and its ability to revolutionize water resource management.</p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/GoogleCloudNext2024.png" alt="GoogleCloudNext2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-04-gcn/GoogleCloudNext2024.png" alt="GoogleCloudNext2024" style="width:80%"></div>
 <p>The conference was a truly enjoyable experience, especially collaborating with Dan, Kel, Michael and others. We had a great time  together and sharing our insights.</p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/googlenext-1.jpeg" alt="GoogleNext-1" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/googlenext-2.jpeg" alt="GoogleNext-2" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/googlenext-3.jpeg" alt="GoogleNext-3" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-04-gcn/googlenext-1.jpeg" alt="GoogleNext-1" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-04-gcn/googlenext-2.jpeg" alt="GoogleNext-2" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/blog/2024-04-gcn/googlenext-3.jpeg" alt="GoogleNext-3" style="width:80%"></div>
 <p>The <strong>energy and enthusiasm</strong> throughout the event were contagious, and I left feeling incredibly <strong>motivated and inspired</strong>. I connected with numerous individuals from diverse backgrounds, fostering <strong>new collaborations</strong> and sparking exciting ideas for the future of water research and technology.</p>
 <p>If you're curious to see more about my Google Cloud Next experience, head over to <strong>my LinkedIn post <a href="https://www.linkedin.com/in/arpita0911patel/" target="_blank" rel="noopener noreferrer">link</a></strong> where I've shared pictures from all three days.</p>
 <p>Thank you for reading and stay tuned for more updates on the exciting advancements in water research and technology!</p>
