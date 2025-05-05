@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://ciroh.org/docuhub-staging/release-notes</id>
+    <title>CIROH DocuHub Blog</title>
+    <updated>2025-05-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://ciroh.org/docuhub-staging/release-notes"/>
+    <subtitle>CIROH DocuHub Blog</subtitle>
+    <icon>http://ciroh.org/docuhub-staging/img/logos/docuhub.png</icon>
+    <entry>
+        <title type="html"><![CDATA[05-05-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20250505</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20250505"/>
+        <updated>2025-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major DocuHub update for May 2025!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/v20250505#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content">​</a></h2>
+<ul>
+<li>Added researcher testimonials to homepage (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/358" target="_blank" rel="noopener noreferrer">#358</a>)</li>
+<li>DocuHub now has a release notes feed! (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/318" target="_blank" rel="noopener noreferrer">#318</a>)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250505#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
+<ul>
+<li>Added workshop IT support form to services access page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/362" target="_blank" rel="noopener noreferrer">#362</a>)</li>
+<li>Reorganized links to blogs for cloud services (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/360" target="_blank" rel="noopener noreferrer">#360</a>)</li>
+<li>Video tutorial added to "HydroShare and CIROH JupyterHub Intergration" product page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/357" target="_blank" rel="noopener noreferrer">#357</a>)</li>
+<li>Reworked homepage display of CIROH sponsors, members, and partners (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/356" target="_blank" rel="noopener noreferrer">#356</a>)</li>
+<li>Added link to CIROH Portal in DocuHub navbar (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/355" target="_blank" rel="noopener noreferrer">#355</a>)</li>
+<li>All page tags have been refactored and condensed (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/352" target="_blank" rel="noopener noreferrer">#352</a>)</li>
+<li>New landing page images for Products, Public Cloud Services, and Policies pages (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/351" target="_blank" rel="noopener noreferrer">#351</a>)</li>
+<li>DataStream CLI key features clarified (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/349" target="_blank" rel="noopener noreferrer">#349</a>)</li>
+<li>New social media icons in footer (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/341" target="_blank" rel="noopener noreferrer">#341</a>)</li>
+</ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="DocuHub" term="DocuHub"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04-16-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20250416</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20250416"/>
+        <updated>2025-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new blog post has been added for April 2025!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250416#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates">​</a></h2>
+<ul>
+<li>Blog post: <a href="http://ciroh.org/docuhub-staging/blog/april-2025-update">"Google Cloud Next 2025: Innovation at Scale"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/345" target="_blank" rel="noopener noreferrer">#345</a>)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250416#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
+<ul>
+<li>Blog's left sidebar now correctly displays all posts (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/350" target="_blank" rel="noopener noreferrer">#350</a>)</li>
+<li>News and Contribute pages improved on mobile (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/340" target="_blank" rel="noopener noreferrer">#340</a>)</li>
+</ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="DocuHub" term="DocuHub"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04-08-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20250408</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20250408"/>
+        <updated>2025-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major DocuHub update for April 2025!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/v20250408#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content">​</a></h2>
+<ul>
+<li>Community Hydrologic Modeling page now features tables detailing features and access methods (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/290" target="_blank" rel="noopener noreferrer">#290</a>)</li>
+<li>Added NGIAB-TEEHR and NGIAB-CLIENT to products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/320" target="_blank" rel="noopener noreferrer">#320</a>)</li>
+<li>Added Flood Inundation Mapping Framework to products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/300" target="_blank" rel="noopener noreferrer">#300</a>)</li>
+<li>Added documentation on debugging Python package conflicts in CIROH JupyterHub (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/308" target="_blank" rel="noopener noreferrer">#308</a>)</li>
+<li>Added tutorial for running datapreprocess on CIROH JupyterHub (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/299" target="_blank" rel="noopener noreferrer">#299</a>)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250408#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates">​</a></h2>
+<ul>
+<li>Blog post: <a href="http://ciroh.org/docuhub-staging/blog/march-2025-update">"UA's Alabama Water Institute Showcases 30-Minute Hydrological Modeling Revolution"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/310" target="_blank" rel="noopener noreferrer">#310</a>)</li>
+<li>News update: March 2025 (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/306" target="_blank" rel="noopener noreferrer">#306</a>)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250408#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
+<ul>
+<li>Office Hours page updated; added to homepage and Contact page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/337" target="_blank" rel="noopener noreferrer">#337</a>)</li>
+<li>Contribute page heavily reworked; now features GitHub issue templates (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/309" target="_blank" rel="noopener noreferrer">#309</a>)</li>
+<li>Added link to National Water Model API documentation (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/307" target="_blank" rel="noopener noreferrer">#307</a>)</li>
+<li>Added graphical headers to News tab (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/305" target="_blank" rel="noopener noreferrer">#305</a>)</li>
+<li>Guidance on accessing services and resources refactored (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/287" target="_blank" rel="noopener noreferrer">#287</a>, <a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/294" target="_blank" rel="noopener noreferrer">#294</a>)</li>
+</ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="DocuHub" term="DocuHub"/>
+    </entry>
+</feed>
