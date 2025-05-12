@@ -2,29 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/docuhub-staging/release-notes</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-05-05T19:13:17.000Z</updated>
+    <updated>2025-05-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/docuhub-staging/release-notes"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/docuhub-staging/img/logos/docuhub.png</icon>
     <entry>
-        <title type="html"><![CDATA[Upcoming Release Notes]]></title>
-        <id>http://ciroh.org/docuhub-staging/release-notes/vTBD</id>
-        <link href="http://ciroh.org/docuhub-staging/release-notes/vTBD"/>
-        <updated>2025-05-05T19:13:17.000Z</updated>
-        <summary type="html"><![CDATA[Major DocuHub update for [TBD]!]]></summary>
-        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</div><div class="admonitionContent_BuS1"><p>This is a prospective set of release notes for the next update! Currently unmerged PRs are included.</p><p>Please be sure to update this file's metadata and remove any work-in-progress filler before pushing to production.</p></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/vTBD#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content">​</a></h2>
+        <title type="html"><![CDATA[05-09-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20250509</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20250509"/>
+        <updated>2025-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor DocuHub update for May 2025!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250509#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
 <ul>
-<li>Added Community Hydrofabric Patcher under Products tab (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/354" target="_blank" rel="noopener noreferrer">#354</a>)</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/docuhub-staging/release-notes/vTBD#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates">​</a></h2>
-<ul>
-<li>(None yet - remove before release if appropriate)</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/vTBD#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
-<ul>
-<li>(None yet - remove before release if appropriate)</li>
+<li>Added message from CIROH DocuHub team in footer (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/372" target="_blank" rel="noopener noreferrer">#372</a>)</li>
+<li>Added descriptive headers to News and Blog pages (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/371" target="_blank" rel="noopener noreferrer">#371</a>)</li>
+<li>Updated CIROH funding acknowledgement (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/370" target="_blank" rel="noopener noreferrer">#370</a>)</li>
 </ul>]]></content>
         <category label="Release Notes" term="Release Notes"/>
         <category label="DocuHub" term="DocuHub"/>
