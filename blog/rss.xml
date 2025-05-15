@@ -4,10 +4,31 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[δHBV2.0: How NGIAB Streamlined Advanced Hydrologic Modeling]]></title>
+            <link>http://ciroh.org/docuhub-staging/blog/may-2025-update</link>
+            <guid>http://ciroh.org/docuhub-staging/blog/may-2025-update</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here's how NGIAB enabled researchers at Pennsylvania State University to create advanced models!]]></description>
+            <content:encoded><![CDATA[<p>Predicting water flow with precision across the vast U.S. landscape is a complex challenge. That's why Song et al. 2024 developed δHBV2.0, a cutting-edge hydrologic model. It’s built with high-resolution modeling of physics to deliver seamless, highly accurate streamflow simulations, even down to individual sub-basins. It's already proven to be a major improvement, performing better than older tools at about 4,000 measurement sites. We also provide a comprehensive 40-year water dataset for ~180,000 river reaches to support this.</p>
+<p>Penn State research group pushed δHBV2.0 further, training it with even more detailed river data and integrating other trusted models, aiming to make it a key part of the NextGen national water modeling system (as a potential NWM3.0 successor). But here’s a common hurdle: making powerful scientific tools like this easy and reliable for everyone to use within a larger framework can be tough. Setup issues, runtime errors, and inconsistent results can frustrate users.</p>
+<p>NGIAB stepped in to solve exactly this problem. Team has taken the complexity out of using the operations-ready models within NextGen by creating one unified, reliable package. Thanks to NGIAB, users don't have to worry about tricky setups or whether the model will run correctly. NGIAB ensures that our models are compatible everywhere and, most importantly, that they run exactly as designed, consistently and faithfully, every single time, no babysitting required. This means users get the full power of our advanced modeling, without the headaches.</p>]]></content:encoded>
+            <category>CIROH</category>
+            <category>Blog</category>
+            <category>Pennsylvania State University</category>
+            <category>Monthly Update</category>
+            <category>Wukong</category>
+            <category>AWS</category>
+            <category>HPC</category>
+            <category>NGIAB</category>
+            <category>National Water Model</category>
+            <category>On-Premises Services</category>
+            <category>Cloud Services</category>
+        </item>
         <item>
             <title><![CDATA[Google Cloud Next 2025: Innovation at Scale ✨]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/april-2025-update</link>
@@ -733,22 +754,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
 <p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB Release Notes Page</a></p>]]></content:encoded>
             <category>Blog</category>
             <category>DocuHub</category>
-        </item>
-        <item>
-            <title><![CDATA[NextGen Framework Forcings]]></title>
-            <link>http://ciroh.org/docuhub-staging/blog/NextGen Forcings</link>
-            <guid>http://ciroh.org/docuhub-staging/blog/NextGen Forcings</guid>
-            <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[NextGen Framework Forcings]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nextgen-framework-forcings">NextGen Framework Forcings<a href="http://ciroh.org/docuhub-staging/blog/NextGen%20Forcings#nextgen-framework-forcings" class="hash-link" aria-label="Direct link to NextGen Framework Forcings" title="Direct link to NextGen Framework Forcings">​</a></h2>
-<p>A new <a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/forcingprocessor" target="_blank" rel="noopener noreferrer">forcing processor</a> tool has been made public. This tool converts any National Water Model based forcing files into ngen forcing files. This process can be an intensive operation in compute, memory, and IO, so this tool facilitates generating ngen input and ultimately makes running ngen more accessible.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="read-more">Read more<a href="http://ciroh.org/docuhub-staging/blog/NextGen%20Forcings#read-more" class="hash-link" aria-label="Direct link to Read more" title="Direct link to Read more">​</a></h3>
-<p><a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/forcingprocessor" target="_blank" rel="noopener noreferrer">Visit Github</a></p>]]></content:encoded>
-            <category>NGIAB</category>
-            <category>NextGen Datastream</category>
-            <category>National Water Model</category>
-            <category>Blog</category>
-            <category>CIROH</category>
         </item>
     </channel>
 </rss>
