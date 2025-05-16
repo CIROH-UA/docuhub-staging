@@ -8,11 +8,11 @@
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/docuhub-staging/img/logos/docuhub.png</icon>
     <entry>
-        <title type="html"><![CDATA[δHBV2.0: How NGIAB Streamlined Advanced Hydrologic Modeling]]></title>
+        <title type="html"><![CDATA[δHBV2.0: How NGIAB and Wukong HPC Streamlined Advanced Hydrologic Modeling]]></title>
         <id>http://ciroh.org/docuhub-staging/blog/may-2025-update</id>
         <link href="http://ciroh.org/docuhub-staging/blog/may-2025-update"/>
         <updated>2025-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's how NGIAB enabled researchers at Pennsylvania State University to create advanced models!]]></summary>
+        <summary type="html"><![CDATA[Here's how NGIAB and Wukong HPC enabled researchers at Pennsylvania State University to create advanced models!]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Image of graphical outputs from the δHBV2.0 model" src="http://ciroh.org/docuhub-staging/assets/images/img-e699e9df162042eda9a4a1b4a242ffb1.jpg" width="1966" height="1544" class="img_ev3q"></p>
 <p>Predicting water flow with precision across the vast U.S. landscape is a complex challenge. That's why Song et al. 2024 developed δHBV2.0, a cutting-edge hydrologic model. It’s built with high-resolution modeling of physics to deliver seamless, highly accurate streamflow simulations, even down to individual sub-basins. It's already proven to be a major improvement, performing better than older tools at about 4,000 measurement sites. We also provide a comprehensive 40-year water dataset for ~180,000 river reaches to support this.</p>
 <p>Penn State research group pushed δHBV2.0 further, training it with even more detailed river data and integrating other trusted models, aiming to make it a key part of the NextGen national water modeling system (as a potential NWM3.0 successor). But here’s a common hurdle: making powerful scientific tools like this easy and reliable for everyone to use within a larger framework can be tough. Setup issues, runtime errors, and inconsistent results can frustrate users.</p>
