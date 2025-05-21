@@ -219,7 +219,6 @@ Great to see how Gemini is transforming data manipulation in BigQuery. The abili
         <category label="Wukong" term="Wukong"/>
         <category label="AWS" term="AWS"/>
         <category label="HPC" term="HPC"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="On-Premises Services" term="On-Premises Services"/>
         <category label="Cloud Services" term="Cloud Services"/>
@@ -322,7 +321,6 @@ and community water modeling.</p>
         <category label="Blog" term="Blog"/>
         <category label="Monthly Update" term="Monthly Update"/>
         <category label="CIROH" term="CIROH"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="NextGen Datastream" term="NextGen Datastream"/>
         <category label="Singularity" term="Singularity"/>
@@ -507,7 +505,6 @@ and community water modeling.</p>
         <category label="2i2c" term="2i2c"/>
         <category label="AWS" term="AWS"/>
         <category label="Google Cloud" term="Google Cloud"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="JupyterHub" term="JupyterHub"/>
         <category label="HPC" term="HPC"/>
         <category label="NextGen Datastream" term="NextGen Datastream"/>
@@ -598,7 +595,6 @@ and community water modeling.</p>
         <category label="CIROH" term="CIROH"/>
         <category label="Conference" term="Conference"/>
         <category label="CIROH DevCon" term="CIROH DevCon"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="Flood Inundation Mapping" term="Flood Inundation Mapping"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="AI and Machine Learning" term="AI and Machine Learning"/>
@@ -637,7 +633,6 @@ and community water modeling.</p>
         <category label="Conference" term="Conference"/>
         <category label="Alabama Water Institute" term="Alabama Water Institute"/>
         <category label="CIROH" term="CIROH"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="NextGen Datastream" term="NextGen Datastream"/>
         <category label="National Water Model" term="National Water Model"/>
     </entry>
@@ -704,7 +699,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         <category label="Google Cloud Next" term="Google Cloud Next"/>
         <category label="CIROH" term="CIROH"/>
         <category label="National Water Model" term="National Water Model"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="BYU" term="BYU"/>
     </entry>
     <entry>
@@ -728,7 +722,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         <category label="HPC" term="HPC"/>
         <category label="Singularity" term="Singularity"/>
         <category label="On-Premises Services" term="On-Premises Services"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="CIROH" term="CIROH"/>
         <category label="Conference" term="Conference"/>
@@ -766,7 +759,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         <category label="CIROH" term="CIROH"/>
         <category label="On-Premises Services" term="On-Premises Services"/>
         <category label="National Water Model" term="National Water Model"/>
-        <category label="NGIAB" term="NGIAB"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[NextGen Monthly News Update - January 2024]]></title>
@@ -787,7 +779,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         <category label="Blog" term="Blog"/>
         <category label="CIROH" term="CIROH"/>
         <category label="Monthly Update" term="Monthly Update"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="HPC" term="HPC"/>
         <category label="Singularity" term="Singularity"/>
         <category label="Cloud Services" term="Cloud Services"/>
@@ -836,7 +827,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
         </author>
         <category label="Blog" term="Blog"/>
-        <category label="NGIAB" term="NGIAB"/>
         <category label="CIROH" term="CIROH"/>
         <category label="Cloud Services" term="Cloud Services"/>
         <category label="National Water Model" term="National Water Model"/>
