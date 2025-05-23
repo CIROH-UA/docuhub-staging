@@ -4,10 +4,30 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/release-notes</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Fri, 16 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[05-22-2025 Release Notes]]></title>
+            <link>http://ciroh.org/docuhub-staging/release-notes/v20250522</link>
+            <guid>http://ciroh.org/docuhub-staging/release-notes/v20250522</guid>
+            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major DocuHub update for May 2025!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/v20250522#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content">​</a></h2>
+<ul>
+<li>Added CIROH RIVR App to Products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/389" target="_blank" rel="noopener noreferrer">#389</a>)</li>
+<li>Added FIM Database for Multi-Model Visualization to Products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/393" target="_blank" rel="noopener noreferrer">#393</a>)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250522#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
+<ul>
+<li>Updated NGIAB E2E Workflow Video: Local setup page with the latest instructions (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/385" target="_blank" rel="noopener noreferrer">#385</a>)</li>
+<li>Added more information on ngiab-cal (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/387" target="_blank" rel="noopener noreferrer">#387</a>)</li>
+<li>Added link to DevCon25 Workshop JupyterHub (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/398" target="_blank" rel="noopener noreferrer">#398</a>)</li>
+</ul>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>DocuHub</category>
+        </item>
         <item>
             <title><![CDATA[05-16-2025 Release Notes]]></title>
             <link>http://ciroh.org/docuhub-staging/release-notes/v20250516</link>
