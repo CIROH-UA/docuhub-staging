@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[DevCon 2025: A DevOps Success Story in Supporting 200+ Attendees Through Public-Private Collaboration]]></title>
+            <title><![CDATA[DevCon 2025: A DevOps and Cyberinfrastructure Success Story]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/devcon25-infra</link>
             <guid>http://ciroh.org/docuhub-staging/blog/devcon25-infra</guid>
             <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
@@ -68,12 +68,20 @@
             <category>CIROH</category>
             <category>Conference</category>
             <category>CIROH DevCon</category>
-            <category>Flood Inundation Mapping</category>
-            <category>National Water Model</category>
-            <category>AI and Machine Learning</category>
+            <category>Services</category>
+            <category>NSF</category>
+            <category>NSF Access</category>
+            <category>2i2c</category>
+            <category>JetStream2</category>
+            <category>AWS</category>
+            <category>Google Cloud</category>
+            <category>HPC</category>
+            <category>Wukong</category>
+            <category>Pantarhei</category>
+            <category>On-Premises Services</category>
         </item>
         <item>
-            <title><![CDATA[CIROH HydroInformatics and Research Cyberinfrastructure at CIROH Developers Conference 2025]]></title>
+            <title><![CDATA[DevCon 2025: Hydroinformatics and Research CyberInfrastructure Keynote]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/devcon25-keynote</link>
             <guid>http://ciroh.org/docuhub-staging/blog/devcon25-keynote</guid>
             <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
@@ -94,7 +102,8 @@ We highlighted four key pillars:</p>
 <li><strong>Model Development</strong>: CIROH develops tools and frameworks for developing and refining hydrological models, including the <a href="https://ngiab.ciroh.org/" target="_blank" rel="noopener noreferrer">NGIAB ecosystem</a>.</li>
 <li><strong>Knowledge Sharing</strong>: CIROH disseminates findings and best practices through the <a href="https://docs.ciroh.org/" target="_blank" rel="noopener noreferrer">DocuHub</a> and <a href="https://portal.ciroh.org/" target="_blank" rel="noopener noreferrer">Portal</a> platforms.</li>
 </ul>
-<div style="display:flex;justify-content:center;align-items:center"><embed src="/docuhub-staging/files/DevCon25-PlenaryKeyNote-Arpita-Dan.pdf#toolbar=0" type="application/pdf" height="500px" width="500px"></div>
+<div class="player-wrapper"><div style="width:100%;height:100%" class="react-player"></div></div>
+<div style="display:flex;justify-content:center;align-items:center"><embed src="/docuhub-staging/files/DevCon25-PlenaryKeyNote-Arpita-Dan.pdf#toolbar=0" type="application/pdf" height="500px" width="500px" max-width="100%"></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="value-and-impact">Value and Impact<a href="http://ciroh.org/docuhub-staging/blog/devcon25-keynote#value-and-impact" class="hash-link" aria-label="Direct link to Value and Impact" title="Direct link to Value and Impact">​</a></h2>
 <p>During the keynote, we emphasized the value that CIROH brings to new students and researchers. This includes access to:</p>
 <ul>
@@ -131,10 +140,22 @@ dynamic community!</p>
             <category>CIROH DevCon</category>
             <category>Flood Inundation Mapping</category>
             <category>National Water Model</category>
-            <category>AI and Machine Learning</category>
+            <category>NGIAB</category>
+            <category>Services</category>
+            <category>NSF</category>
+            <category>NSF Access</category>
+            <category>2i2c</category>
+            <category>JetStream2</category>
+            <category>AWS</category>
+            <category>Google Cloud</category>
+            <category>NextGen Datastream</category>
+            <category>Tethys Platform</category>
+            <category>On-Premises Services</category>
+            <category>DocuHub</category>
+            <category>CIROH Portal</category>
         </item>
         <item>
-            <title><![CDATA[Application of NOAA-OWP's NextGen Framework: Highlights from the 2025 EWRI Congress and CIROH Developers Conference]]></title>
+            <title><![CDATA[NGIAB Calibration at DevCon 2025 and 2025 EWRI Congress Recap]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/ewri-devcon2025-ngiab</link>
             <guid>http://ciroh.org/docuhub-staging/blog/ewri-devcon2025-ngiab</guid>
             <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
@@ -142,10 +163,10 @@ dynamic community!</p>
             <content:encoded><![CDATA[<div style="text-align:center"><p><img decoding="async" loading="lazy" alt="AWI Science and Technology Team @ CIROH DevCon2025" src="http://ciroh.org/docuhub-staging/assets/images/DevCon_AWI_Team-c9f08b48601493edf8e47d7478fdcfff.png" width="1574" height="1414" class="img_ev3q"></p></div>
 <blockquote>
 <p><em>CIROH-AWI Science and Technology Team.</em> <br>
-<em>Left to right:<br>Sagy Cohen, Steven Burian, Manjila Singh, Saide Zand, Savalan N. Neisary, Arpita Patel, Nia Minor, Trupesh patel, Sifan A. Koriche, Jonathan Frame, Reza S. Alipour, Hari T. Jajula, Chad Perry, Josh Cunningham.</em></p>
+<em>Left to right: Sagy Cohen, Steven Burian, Manjila Singh, Saide Zand, Savalan N. Neisary, Arpita Patel, Nia Minor, Trupesh Patel, Sifan A. Koriche, Jonathan Frame, Reza S. Alipour, Hari T. Jajula, Chad Perry; Josh Cunningham.</em></p>
 </blockquote>
 <p>May was a pivotal month for representing the <a href="https://ciroh.ua.edu/" target="_blank" rel="noopener noreferrer">Cooperative Institute for Research to Operations in Hydrology (CIROH)</a> and our collective work in advancing water science. As one of CIROH's Ambassadors, I had the privilege of connecting with the broader scientific community at two key events: the <a href="https://www.ewricongress.org/" target="_blank" rel="noopener noreferrer">Environmental and Water Resources Institute (EWRI) Congress</a> in Anchorage, Alaska, and the <a href="https://ciroh.ua.edu/devconference/2025-ciroh-developers-conference/" target="_blank" rel="noopener noreferrer">2025 CIROH Developers Conference</a> in Burlington, Vermont.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="empowering-the-community-at-the-2025-ciroh-developers-conference"><a href="https://ciroh.ua.edu/devconference/2025-ciroh-developers-conference/" target="_blank" rel="noopener noreferrer">Empowering the Community at the 2025 CIROH Developers Conference</a><a href="http://ciroh.org/docuhub-staging/blog/ewri-devcon2025-ngiab#empowering-the-community-at-the-2025-ciroh-developers-conference" class="hash-link" aria-label="Direct link to empowering-the-community-at-the-2025-ciroh-developers-conference" title="Direct link to empowering-the-community-at-the-2025-ciroh-developers-conference">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="empowering-the-community-at-the-2025-ciroh-developers-conference">Empowering the Community at the <a href="https://ciroh.ua.edu/devconference/2025-ciroh-developers-conference/" target="_blank" rel="noopener noreferrer">2025 CIROH Developers Conference</a><a href="http://ciroh.org/docuhub-staging/blog/ewri-devcon2025-ngiab#empowering-the-community-at-the-2025-ciroh-developers-conference" class="hash-link" aria-label="Direct link to empowering-the-community-at-the-2025-ciroh-developers-conference" title="Direct link to empowering-the-community-at-the-2025-ciroh-developers-conference">​</a></h3>
 <p>The annual <a href="https://ciroh.ua.edu/devconference/2025-ciroh-developers-conference/" target="_blank" rel="noopener noreferrer"><strong>CIROH Developers Conference</strong></a> is a premier three-day event that convenes hundreds of scientists, engineers, and software developers from across the consortium and its partner institutions. It serves as a vital hub for innovation and collaboration, where attendees engage with the latest research findings, project highlights, and hands-on workshops on cutting-edge tools, workflows, and methodologies.</p>
 <p>For me, this year's conference in the beautiful city of <a href="https://www.google.com/maps/place/Burlington,+VT/" target="_blank" rel="noopener noreferrer">Burlington, Vermont</a>, felt like coming full circle, as it marked my one-year anniversary since joining the consortium through <a href="https://www.ua.edu/" target="_blank" rel="noopener noreferrer">The University of Alabama</a>.</p>
 <p>I had the privilege of leading a <a href="https://github.com/skoriche/NGIAB-Calibration-DevCon25" target="_blank" rel="noopener noreferrer">hands-on training workshop on hydrological model calibration</a>. It was a fantastic experience engaging with the talented developers, researchers, and scientists who are all dedicated to the advancement and acceleration of Community Water Resources Modeling. Our session provided comprehensive, hands-on guidance for calibrating one of core components of the NextGen National Water Model model-confifuration—specifically the <a href="https://github.com/NOAA-OWP/cfe" target="_blank" rel="noopener noreferrer">Conceptial Functional Equivalent (CFE)</a> coupled with <a href="https://github.com/NOAA-OWP/noah-owp-modular" target="_blank" rel="noopener noreferrer">Noah-OWP-Modular</a>—within the <a href="https://ngiab.ciroh.org/" target="_blank" rel="noopener noreferrer"><strong>NextGen In A Box (NGIAB) ecosystem</strong></a>.</p>
@@ -173,13 +194,13 @@ dynamic community!</p>
 <p><img decoding="async" loading="lazy" alt="A speaker presents at the World Environmental &amp;amp; Water Resources Congress, with a large screen displaying presentation details and a &amp;#39;Say Cheese&amp;#39; graphic with a QR code." src="http://ciroh.org/docuhub-staging/assets/images/EWRI-Koriche_MD-c223004f78849bdc7a5902671cc47ebf.png" width="3848" height="1900" class="img_ev3q"></p>]]></content:encoded>
             <category>Blog</category>
             <category>CIROH</category>
-            <category>NOAA-OWP</category>
+            <category>NOAA</category>
             <category>Conference</category>
             <category>EWRI</category>
-            <category>NextGen-Framework Water Resource Modeling</category>
+            <category>National Water Model</category>
             <category>NGIAB</category>
             <category>CIROH DevCon</category>
-            <category>Hydrological Model Calibration</category>
+            <category>Calibration</category>
         </item>
         <item>
             <title><![CDATA[δHBV2.0: How NGIAB and Wukong HPC Streamlined Advanced Hydrologic Modeling]]></title>
