@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[7205],{59781:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/docuhub-staging/release-notes","page":1,"postsPerPage":7,"totalPages":1,"totalCount":7,"blogDescription":"A quick glance at what\'s new in DocuHub.","blogTitle":"DocuHub release notes!"}}')}}]);
