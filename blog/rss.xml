@@ -103,7 +103,8 @@ We highlighted four key pillars:</p>
 <li><strong>Knowledge Sharing</strong>: CIROH disseminates findings and best practices through the <a href="https://docs.ciroh.org/" target="_blank" rel="noopener noreferrer">DocuHub</a> and <a href="https://portal.ciroh.org/" target="_blank" rel="noopener noreferrer">Portal</a> platforms.</li>
 </ul>
 <div class="player-wrapper"><div style="width:100%;height:100%" class="react-player"></div></div>
-<div style="display:flex;justify-content:center;align-items:center"><embed src="/docuhub-staging/files/DevCon25-PlenaryKeyNote-Arpita-Dan.pdf#toolbar=0" type="application/pdf" height="500px" width="500px" max-width="100%"></div>
+<div class="embed-wrapper"><embed src="/docuhub-staging/files/DevCon25-PlenaryKeyNote-Arpita-Dan.pdf#toolbar=0" type="application/pdf" class="embed-content"></div>
+<div style="display:flex;justify-content:center;align-items:center"><p><a href="http://ciroh.org/docuhub-staging/assets/files/DevCon25-PlenaryKeyNote-Arpita-Dan-67d90820666d6780a04b5512bc0572df.pdf" target="_blank"><em>Link to slideshow</em></a></p></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="value-and-impact">Value and Impact<a href="http://ciroh.org/docuhub-staging/blog/devcon25-keynote#value-and-impact" class="hash-link" aria-label="Direct link to Value and Impact" title="Direct link to Value and Impact">​</a></h2>
 <p>During the keynote, we emphasized the value that CIROH brings to new students and researchers. This includes access to:</p>
 <ul>
@@ -155,7 +156,7 @@ dynamic community!</p>
             <category>CIROH Portal</category>
         </item>
         <item>
-            <title><![CDATA[NGIAB Calibration at DevCon 2025 and 2025 EWRI Congress Recap]]></title>
+            <title><![CDATA[Application of NOAA-OWP's NextGen Framework: DevCon 2025 and EWRI Congress 2025 Highlights]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/ewri-devcon25-ngiab</link>
             <guid>http://ciroh.org/docuhub-staging/blog/ewri-devcon25-ngiab</guid>
             <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
@@ -222,7 +223,6 @@ dynamic community!</p>
             <category>Pennsylvania State University</category>
             <category>Monthly Update</category>
             <category>Wukong</category>
-            <category>AWS</category>
             <category>HPC</category>
             <category>NGIAB</category>
             <category>National Water Model</category>
@@ -643,7 +643,6 @@ and community water modeling.</p>
             <category>Blog</category>
             <category>CIROH</category>
             <category>Monthly Update</category>
-            <category>2i2c</category>
             <category>AWS</category>
             <category>Google Cloud</category>
             <category>JupyterHub</category>
