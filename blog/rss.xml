@@ -429,7 +429,7 @@ and community water modeling.</p>
 <li>TEEHR integration for improved evaluation capabilities</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-new-end-to-end-workflow-guide">📝 New End-to-End Workflow Guide<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-new-end-to-end-workflow-guide" class="hash-link" aria-label="Direct link to 📝 New End-to-End Workflow Guide" title="Direct link to 📝 New End-to-End Workflow Guide">​</a></h2>
-<p>We're excited to announce a comprehensive new end-to-end workflow video tutorial for NGIAB! This resource walks users through the entire process, making it easier than ever to get started with NextGen modeling. The tutorial is available in our <a href="https://docs.ciroh.org/docs/products/Community%20Hydrologic%20Modeling%20Framework/nextgeninaboxDocker/workflow" target="_blank" rel="noopener noreferrer">documentation</a> and provides step-by-step guidance for both new and experienced users.</p>
+<p>We're excited to announce a comprehensive new end-to-end workflow video tutorial for NGIAB! This resource walks users through the entire process, making it easier than ever to get started with NextGen modeling. The tutorial is available in our <a href="http://ciroh.org/docuhub-staging/docs/products/ngiab/ngiab-intro">documentation</a> and provides step-by-step guidance for both new and experienced users.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-infrastructure-updates">🔄 Infrastructure Updates<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-infrastructure-updates" class="hash-link" aria-label="Direct link to 🔄 Infrastructure Updates" title="Direct link to 🔄 Infrastructure Updates">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="ngiab-hpcinfra">NGIAB-HPCInfra<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#ngiab-hpcinfra" class="hash-link" aria-label="Direct link to NGIAB-HPCInfra" title="Direct link to NGIAB-HPCInfra">​</a></h3>
 <p>The Singularity-based solution for high-performance computing has been updated to maintain parity with the Docker implementation, including:</p>
@@ -569,7 +569,7 @@ and community water modeling.</p>
 <table style="width:100%;display:inline-table"><tbody><tr><td>Product</td><td>Cloud Console SQL</td><td>CIROH API</td><td>Historical</td><td>Daily Updates</td></tr><tr><td>Medium-range forecasts</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Long-range forecasts</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Analysis and Assimilation</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Retrospective Data (NWM v3)</td><td>X</td><td></td><td>X</td><td></td></tr><tr><td>Return Periods</td><td>X</td><td></td><td>X</td><td></td></tr></tbody></table>
 <p>To gain access and run queries on BigQuery:</p>
 <ul>
-<li>Submit the NWM BigQuery API Access Form, available <a href="https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigquery-api/" target="_blank" rel="noopener noreferrer">here.</a></li>
+<li>Submit the NWM BigQuery API Access Form, available <a href="https://docs.ciroh.org/docs/products/data-management/bigquery-api/" target="_blank" rel="noopener noreferrer">here.</a></li>
 <li>Once approved, the CIROH IT team will cover the costs associated with your queries.</li>
 <li>Initially, each organization or project may request a usage limit of up to $500 per month for accessing the data through BigQuery.</li>
 </ul>
@@ -661,9 +661,9 @@ and community water modeling.</p>
             <content:encoded><![CDATA[<p>We're excited to share some recent developments and updates from CIROH's Research CyberInfrastructure team:</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="cloud-infrastructure">Cloud Infrastructure<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#cloud-infrastructure" class="hash-link" aria-label="Direct link to Cloud Infrastructure" title="Direct link to Cloud Infrastructure">​</a></h3>
 <ul>
-<li>CIROH's Google Cloud Account is now fully operational and managed by our team. You can find more information <a href="https://docs.ciroh.org/docs/services/cloudservices/google%20cloud/" target="_blank" rel="noopener noreferrer">here.</a></li>
+<li>CIROH's Google Cloud Account is now fully operational and managed by our team. You can find more information <a href="https://docs.ciroh.org/docs/services/cloudservices/google-cloud/" target="_blank" rel="noopener noreferrer">here.</a></li>
 <li>We're in the process of migrating our 2i2c JupyterHub to CIROH's Google Cloud account.</li>
-<li>We've successfully deployed the Google BigQuery API (developed by BYU and Google) for NWM data in our cloud. To access this API, please contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Please refer to <a href="https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigqeury-api/" target="_blank" rel="noopener noreferrer">NWM BigQuery API</a> to learn more.</li>
+<li>We've successfully deployed the Google BigQuery API (developed by BYU and Google) for NWM data in our cloud. To access this API, please contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Please refer to <a href="https://docs.ciroh.org/docs/products/data-management/bigqeury-api/" target="_blank" rel="noopener noreferrer">NWM BigQuery API</a> to learn more.</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-and-services">Support and Services<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#support-and-services" class="hash-link" aria-label="Direct link to Support and Services" title="Direct link to Support and Services">​</a></h3>
 <ul>
@@ -862,7 +862,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
 <p>For NGIAB, we've made improvements to the CI pipeline for pull requests submitted with forked repositories. Now, we automatically build and test these submissions using the CI pipeline.</p>
 </li>
 <li>
-<p>We've added documentation for the NWMURL python package, which offers utility functions tailored for accessing National Water Model (NWM) data URLs. This library streamlines the process of accessing NWM data for various purposes, including analysis, modeling, and visualization. You can explore the documentation <a href="http://ciroh.org/docuhub-staging/docs/products/Data%20Management%20and%20Access%20Tools/dataaccess/">here</a>.</p>
+<p>We've added documentation for the NWMURL python package, which offers utility functions tailored for accessing National Water Model (NWM) data URLs. This library streamlines the process of accessing NWM data for various purposes, including analysis, modeling, and visualization. You can explore the documentation <a href="http://ciroh.org/docuhub-staging/docs/products/data-management/dataaccess/">here</a>.</p>
 </li>
 <li>
 <p>We're thrilled to announce the NextGen Track for DevCon24. The schedule is now available at: <a href="https://ciroh.ua.edu/devconference/" target="_blank" rel="noopener noreferrer">DevCon24 Schedule</a>.</p>
