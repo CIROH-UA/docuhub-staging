@@ -2,11 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/docuhub-staging/release-notes</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-06-04T00:00:00.000Z</updated>
+    <updated>2025-06-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/docuhub-staging/release-notes"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/docuhub-staging/img/logos/docuhub.png</icon>
+    <entry>
+        <title type="html"><![CDATA[06-11-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20250611</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20250611"/>
+        <updated>2025-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major DocuHub update for June 2025!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/v20250611#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content">​</a></h2>
+<ul>
+<li>The "Community Hydrologic Modeling" tab has been completely reworked! It's now called "NextGen In A Box", better reflecting the content of the folder. (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/427" target="_blank" rel="noopener noreferrer">#427</a>)<!-- -->
+<ul>
+<li>Lots of new content has been added alongside this change within the "Intro to NGIAB" sub-section.</li>
+<li>NGIAB product subpages have been reorganized into the "Distributions" and "Components" sub-sections.</li>
+<li>As a part of this transition, content regarding the Reseach Datastream (formerly "NextGen Datastream") has been spun out into its own category.</li>
+</ul>
+</li>
+<li>The "Research Datastream" tab now correctly includes its documentation subpages from GitHub. (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/425" target="_blank" rel="noopener noreferrer">#425</a>)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250611#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
+<ul>
+<li>General corrections and upkeep to past news and release notes (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/426" target="_blank" rel="noopener noreferrer">#426</a>)</li>
+<li>Reformatted the way that DocuHub renders external README files (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/425" target="_blank" rel="noopener noreferrer">#425</a>)</li>
+<li>Refactored URLs site-wide to remove spaces (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/423" target="_blank" rel="noopener noreferrer">#423</a>)</li>
+<li>Upgraded to Docusaurus 3.8; enabled preview functionality for 4.0 (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/420" target="_blank" rel="noopener noreferrer">#420</a>)</li>
+</ul>
+<br>
+<blockquote>
+<p><em>Please note that this update alters the URLs of many DocuHub pages. We've added redirects from their old locations to avoid breaking external links, but updating links to the new URLs is strongly preferred.</em></p>
+</blockquote>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="DocuHub" term="DocuHub"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[06-04-2025 Release Notes]]></title>
         <id>http://ciroh.org/docuhub-staging/release-notes/v20250604</id>
