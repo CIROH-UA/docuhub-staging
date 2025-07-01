@@ -49,19 +49,21 @@ our work aims to support and facilitate more efficient hydrological and climate-
             <uri>https://www.linkedin.com/in/dtarb/</uri>
         </author>
         <category label="Blog" term="Blog"/>
+        <category label="Community Spotlight" term="Community Spotlight"/>
         <category label="Utah State University" term="Utah State University"/>
-        <category label="Hydroshare" term="Hydroshare"/>
+        <category label="HydroShare" term="HydroShare"/>
         <category label="CIROH" term="CIROH"/>
-        <category label="National Water Model" term="National Water Model"/>
+        <category label="Data Preparation" term="Data Preparation"/>
         <category label="JupyterHub" term="JupyterHub"/>
         <category label="2i2c" term="2i2c"/>
-        <category label="NOAA" term="NOAA"/>
         <category label="Cloud Services" term="Cloud Services"/>
+        <category label="National Water Model" term="National Water Model"/>
+        <category label="NOAA" term="NOAA"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assessing Streamflow Forecast over the Hackensack River Watershed Using NGIAB]]></title>
-        <id>http://ciroh.org/docuhub-staging/blog/ngiab-based-research</id>
-        <link href="http://ciroh.org/docuhub-staging/blog/ngiab-based-research"/>
+        <title type="html"><![CDATA[Assessing Streamflow Forecast Over the Hackensack River Watershed Using NGIAB]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/ismart-ngiab-application</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/ismart-ngiab-application"/>
         <updated>2025-06-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A summary of the research presented at the 2025 CIROH DevCon, focusing on streamflow forecasting in the Hackensack River Watershed using NGIAB.]]></summary>
         <content type="html"><![CDATA[<div style="text-align:center"><p><img decoding="async" loading="lazy" alt="A poster, titled &amp;quot;Assessing streamflow forecast over the Hackensack River Watershed using physics- and AI-driven weather prediction models&amp;quot;." src="http://ciroh.org/docuhub-staging/assets/images/blog_CIROH_DevCon-bd5de4e3ca6192611aadd30bb47b1586.png" width="1303" height="951" class="img_ev3q"></p></div>
@@ -105,9 +107,12 @@ NGIAB has given the I-SMART team the tools to conduct their groundbreaking resea
             <uri>https://scholar.google.com/citations?user=5v7tTVgAAAAJ&amp;hl=en</uri>
         </author>
         <category label="Blog" term="Blog"/>
+        <category label="Community Spotlight" term="Community Spotlight"/>
         <category label="Stevens Institute of Technology" term="Stevens Institute of Technology"/>
         <category label="NGIAB" term="NGIAB"/>
         <category label="CIROH DevCon" term="CIROH DevCon"/>
+        <category label="AI and Machine Learning" term="AI and Machine Learning"/>
+        <category label="National Water Model" term="National Water Model"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevCon 2025: A DevOps and Cyberinfrastructure Success Story]]></title>
@@ -354,6 +359,7 @@ It’s an exciting time for CIROH, and we’re thrilled to be a part of this dyn
         </author>
         <category label="CIROH" term="CIROH"/>
         <category label="Blog" term="Blog"/>
+        <category label="Community Spotlight" term="Community Spotlight"/>
         <category label="Pennsylvania State University" term="Pennsylvania State University"/>
         <category label="Monthly Update" term="Monthly Update"/>
         <category label="Wukong" term="Wukong"/>
@@ -531,6 +537,7 @@ Great to see how Gemini is transforming data manipulation in BigQuery. The abili
         </author>
         <category label="CIROH" term="CIROH"/>
         <category label="Blog" term="Blog"/>
+        <category label="Community Spotlight" term="Community Spotlight"/>
         <category label="Pennsylvania State University" term="Pennsylvania State University"/>
         <category label="Monthly Update" term="Monthly Update"/>
         <category label="Wukong" term="Wukong"/>
@@ -646,6 +653,8 @@ and community water modeling.</p>
         <category label="HPC" term="HPC"/>
         <category label="TEEHR" term="TEEHR"/>
         <category label="Hydrofabric" term="Hydrofabric"/>
+        <category label="NGIAB" term="NGIAB"/>
+        <category label="Data Preparation" term="Data Preparation"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIROH Science Meeting 2024]]></title>
@@ -832,7 +841,7 @@ and community water modeling.</p>
         <category label="NextGen Datastream" term="NextGen Datastream"/>
         <category label="Cloud Services" term="Cloud Services"/>
         <category label="National Water Model" term="National Water Model"/>
-        <category label="TEEHR" term="TEEHR"/>
+        <category label="TEEHR. NGIAB" term="TEEHR. NGIAB"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIROH Research CyberInfrastructure Update]]></title>
@@ -960,6 +969,7 @@ and community water modeling.</p>
         <category label="CIROH" term="CIROH"/>
         <category label="NextGen Datastream" term="NextGen Datastream"/>
         <category label="National Water Model" term="National Water Model"/>
+        <category label="NGIAB" term="NGIAB"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Next '24: A Flood of Innovation and Inspiration]]></title>
@@ -1087,5 +1097,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         <category label="CIROH" term="CIROH"/>
         <category label="On-Premises Services" term="On-Premises Services"/>
         <category label="National Water Model" term="National Water Model"/>
+        <category label="NGIAB" term="NGIAB"/>
     </entry>
 </feed>
