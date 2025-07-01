@@ -4,23 +4,91 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Fri, 27 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Assessing streamflow forecast over the Hackensack River Watershed using NGIAB]]></title>
+            <title><![CDATA[AORC Data in Your Hands: User-Friendly Jupyter Notebooks for Data Retrieval and Analysis via CIROH JupyterHub Notebooks]]></title>
+            <link>http://ciroh.org/docuhub-staging/blog/aorc-data-access</link>
+            <guid>http://ciroh.org/docuhub-staging/blog/aorc-data-access</guid>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Accessing AORC data has never been easier with our new Jupyter Notebooks, designed for both point and zone retrieval from the AORC datasets hosted on AWS.]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Screenshot of Hydroshare Resource" src="http://ciroh.org/docuhub-staging/assets/images/aorc-data-retrieval-hydroshare-b0e0e1326a7841903004d132d0d0c460.png" width="2857" height="1547" class="img_ev3q"></p>
+<p>The Analysis of Record for Calibration (AORC) dataset is recognized as a high-value resource for the CUAHSI and CIROH community.
+This dataset is hosted by NOAA via Amazon Web Services (AWS) and is available in two primary formats:
+a <a href="https://registry.opendata.aws/noaa-nws-aorc/" target="_blank" rel="noopener noreferrer">latitude-longitude gridded dataset</a>
+and the <a href="https://registry.opendata.aws/nwm-archive/" target="_blank" rel="noopener noreferrer">National Water Model (NWM) projected dataset, part of the NWM Retrospective archive</a>.
+To enhance accessibility and illustrate analysis capabilities, we developed four user-friendly Jupyter Notebooks that enable data retrieval for both specific points of interest and spatial domains defined by shapefiles:</p>
+<ul>
+<li><strong>AORC_LL_PointRetrieval.ipynb</strong>: For retrieving and aggregating data from the latitude-longitude gridded dataset for a specific point using geographic coordinates.</li>
+<li><strong>AORC_LL_ZoneRetrieval.ipynb</strong>: For retrieving and aggregating data from the latitude-longitude gridded dataset for an area defined by a polygon shapefile.</li>
+<li><strong>AORC_NWMProj_PointRetrieval.ipynb</strong>: For retrieving and aggregating data from the NWM projected dataset for a specific point using geographic coordinates.</li>
+<li><strong>AORC_NWMProj_ZoneRetrieval.ipynb</strong>: For retrieving and aggregating data from the NWM projected dataset for an area defined by a polygon shapefile.</li>
+</ul>
+<p>These Jupyter Notebooks, containing instructions and Python code to access the data, enable researchers to retrieve AORC data from AWS.
+From there, the notebooks offer options to subset and aggregate the data over user-defined time intervals (beyond the original hourly resolution) and spatial area.
+These serve as examples for how you could write or modify code to access AORC data in your work.
+The notebooks are publicly <a href="https://www.hydroshare.org/resource/72ea9726187e43d7b50a624f2acf591f/" target="_blank" rel="noopener noreferrer">available on HydroShare</a>
+and are compatible with JupyterHub computing platforms such as <a href="https://www.hydroshare.org/resource/2dd1ac86e8854d4fb9fe5fbafaec2b98/" target="_blank" rel="noopener noreferrer">CIROH 2i2c JupyterHub linked to HydroShare</a>.
+Our work also includes a comparative analysis of the two AORC datasets with a summary of findings.
+While we mostly observed small differences, mainly due to projections, users should be aware of potential discrepancies between the datasets.</p>
+<p>By providing these user-friendly tools and highlighting the characteristics of both AORC datasets,
+our work aims to support and facilitate more efficient hydrological and climate-related research within the CUAHSI and CIROH community.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="references">References:<a href="http://ciroh.org/docuhub-staging/blog/aorc-data-access#references" class="hash-link" aria-label="Direct link to References:" title="Direct link to References:">​</a></h3>
+<ul>
+<li>Salehabadi, H., D. Tarboton, A. Nassar, A. M. Castronova, P. Dash (2025). Jupyter Notebooks for the Retrieval of AORC Data for Hydrologic Analysis, HydroShare, <a href="http://www.hydroshare.org/resource/72ea9726187e43d7b50a624f2acf591f" target="_blank" rel="noopener noreferrer">http://www.hydroshare.org/resource/72ea9726187e43d7b50a624f2acf591f</a></li>
+<li>The development versions of these notebooks are available on GitHub: <a href="https://github.com/CUAHSI/notebooks" target="_blank" rel="noopener noreferrer">https://github.com/CUAHSI/notebooks</a> in the Data Access Examples / AORC - Retrieval of AORC Data for Hydrologic Analysis folder.</li>
+<li>Patel, A., A. Castronova (2025). CIROH 2i2c JupyterHub, HydroShare, <a href="http://www.hydroshare.org/resource/2dd1ac86e8854d4fb9fe5fbafaec2b98" target="_blank" rel="noopener noreferrer">http://www.hydroshare.org/resource/2dd1ac86e8854d4fb9fe5fbafaec2b98</a></li>
+</ul>]]></content:encoded>
+            <category>Blog</category>
+            <category>Utah State University</category>
+            <category>Hydroshare</category>
+            <category>CIROH</category>
+            <category>National Water Model</category>
+            <category>JupyterHub</category>
+            <category>2i2c</category>
+            <category>NOAA</category>
+            <category>Cloud Services</category>
+        </item>
+        <item>
+            <title><![CDATA[Assessing Streamflow Forecast over the Hackensack River Watershed Using NGIAB]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/ngiab-based-research</link>
             <guid>http://ciroh.org/docuhub-staging/blog/ngiab-based-research</guid>
             <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[A summary of the research presented at the 2025 CIROH DevCon, focusing on streamflow forecasting in the Hackensack River Watershed using NGIAB.]]></description>
-            <content:encoded><![CDATA[<div style="text-align:center"><p><img decoding="async" loading="lazy" alt="Poster Presented @ CIROH DevCon2025" src="http://ciroh.org/docuhub-staging/assets/images/blog_CIROH_DevCon-bd5de4e3ca6192611aadd30bb47b1586.png" width="1303" height="951" class="img_ev3q"></p></div>
-<p>The densely populated Hackensack River watershed lies within the New York City Metropolitan Area, which spans northern New Jersey and southern New York. Accurate streamflow forecasting is therefore essential for effective water resource management, flood prediction, and disaster preparedness.</p>
-<p>Precipitation data is critical for effective hydrological modeling, making the identification of reliable data sources a key priority. This is why the Integrated Spatial Modeling and Remote Sensing Technologies Laboratory (I-SMART), an interdisciplinary research unit within the Davidson Laboratory at Stevens Institute of Technology in Hoboken, New Jersey, uses the latest developments in both atmospheric and hydrological modeling to address the flooding issue in The Hackensack Watershed with solutions that could be expanded to the entire New York City Metropolitan Area.</p>
-<p>The goal of this work is to assess the performance of the National Water Model in the Hackensack Watershed, leveraging the NGIAB tool, and investigate the sensitivity of the model to various meteorological forcing.</p>
-<p>Recently, the I-SMART team has tested various regional atmospheric models grounded in physical equations, including traditional models like WRF and next-generation atmospheric models such as MPAS. Additionally, given the increasing popularity and adoption of AI/ML-based approaches, the team has also begun exploring their potential. The initial and/or boundary conditions for all the models were determined from the Global Forecast System (GFS).</p>
-<p>Given the large volume of precipitation data from various models, each with different spatial resolutions and, in some cases, such as MPAS, using unstructured grids, one of the key challenges was finding a hydrological modeling framework flexible enough to accommodate such diversity. To address this, we adopted the NextGen Water Modeling Framework (Next-Gen), which allowed us to integrate precipitation forcing from various sources with the appropriate pre-processing to align them with the model’s requirement in terms of spatial and temporal scales.</p>
-<p>The NextGen framework was implemented and executed using NextGen In A Box (NGIAB), a containerized and user-friendly environment that simplifies local deployment by providing full control over model inputs, configurations, and runtime operations. The use of NGIAB successfully enabled the integration of diverse precipitation sources, allowing the I-SMART group to be among the first to force the NextGen framework with multiple atmospheric models for comparative analysis during a real-world event, specifically, the passage of Superstorm Ida over the New York metropolitan area in September 2021. The image in this blog shows a poster presented at the CIROH Developers Conference held at the University of Vermont in Burlington from May 28 to 30, 2025.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<div style="text-align:center"><p><img decoding="async" loading="lazy" alt="A poster, titled &amp;quot;Assessing streamflow forecast over the Hackensack River Watershed using physics- and AI-driven weather prediction models&amp;quot;." src="http://ciroh.org/docuhub-staging/assets/images/blog_CIROH_DevCon-bd5de4e3ca6192611aadd30bb47b1586.png" width="1303" height="951" class="img_ev3q"></p></div>
+<blockquote>
+<p><em>A poster presented by the I-SMART team at the CIROH Developers Conference, held at the University of Vermont in Burlington from May 28 to 30, 2025.</em></p>
+</blockquote>
+<p>The densely populated Hackensack River watershed lies within the New York City Metropolitan Area, which spans northern New Jersey and southern New York.
+Accurate streamflow forecasting within this region is therefore essential to enable effective water resource management, flood prediction, and disaster preparedness.</p>
+<p>Precipitation data is critical for effective hydrological modeling, making the identification of reliable data sources a key priority.
+This is why the Integrated Spatial Modeling and Remote Sensing Technologies Laboratory (I-SMART),
+an interdisciplinary research unit within the Davidson Laboratory at Stevens Institute of Technology in Hoboken, New Jersey,
+uses the latest developments in both atmospheric and hydrological modeling to address flood risks in the Hackensack Watershed
+with solutions that could be expanded to the entire New York City Metropolitan Area.</p>
+<p>In the past, this work has included key early applications of the Next Generation Water Resources Modeling Framework (NextGen).
+Notably, the I-SMART group was among the first to force the NextGen framework with multiple atmospheric models for comparative analysis during a real-world event:
+the passage of Superstorm Ida over the New York metropolitan area in September 2021.
+The recent advent of NextGen In a Box (NGIAB) has provided an opportunity to accelerate these applications even further
+by taking full advantage of NGIAB's containerized, user-friendly, and easily deployed environment.</p>
+<p>Recently, the I-SMART team has been testing various regional atmospheric models grounded in physical equations,
+including traditional models like WRF and next-generation atmospheric models such as MPAS.
+Additionally, given the increasing popularity and adoption of AI/ML-based approaches,
+the team has also begun exploring their potential.
+The goal of this work is to assess the performance of these approaches in the Hackensack Watershed,
+along with investigating the sensitivity of the model to various meteorological forcings, including forcings based on the National Water Model.
+<em>(The initial and/or boundary conditions for all the models were determined using the Global Forecast System.)</em></p>
+<p>This investigation required handling a large volume of precipitation data from various models,
+each with different spatial resolutions and in some cases, such as MPAS, using unstructured grids.
+As such, one of the key challenges was finding a hydrological modeling framework flexible enough to accommodate such diversity.
+This made the NextGen framework a natural choice, allowing them to integrate precipitation forcings from various sources
+with the appropriate pre-processing to align them with the model requirements in terms of spatial and temporal scales.</p>
+<p>The complex implementation and execution of these models was faciliated by NextGen In A Box (NGIAB),
+which successfully enabled the integration of diverse precipitation sources.
+By simplifying local deployment and providing full control over model inputs, configurations, and runtime operations,
+NGIAB has given the I-SMART team the tools to conduct their groundbreaking research with even greater efficiency.</p>]]></content:encoded>
             <category>Blog</category>
             <category>Stevens Institute of Technology</category>
             <category>NGIAB</category>
@@ -911,28 +979,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <category>Monthly Update</category>
             <category>CIROH</category>
             <category>On-Premises Services</category>
-            <category>National Water Model</category>
-        </item>
-        <item>
-            <title><![CDATA[NextGen Monthly News Update - January 2024]]></title>
-            <link>http://ciroh.org/docuhub-staging/blog/NextGen Updates Jan 2024</link>
-            <guid>http://ciroh.org/docuhub-staging/blog/NextGen Updates Jan 2024</guid>
-            <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[News and release notes for NextGen]]></description>
-            <content:encoded><![CDATA[<p>Welcome to the January edition of the CIROH DocuHub blog, where we share the latest updates and news about the Community NextGen project monthly. NextGen is a cutting-edge hydrologic modeling framework that aims to advance the science and practice of hydrology and water resources management. In this month's blog, we will highlight some of the recent achievements and developments of the Community NextGen team.</p>
-<!-- -->
-<p>First, we are excited to announce that NextGen In A Box (NGIAB) is now available with Singularity support. This means that you can run NGIAB on any HPC system that does not support Docker, using Singularity containers. Singularity is a popular tool for creating and running portable and reproducible computational environments. To learn how to use NGIAB with Singularity, please visit our GitHub repository: <a href="https://github.com/CIROH-UA/Ngen-Singularity" target="_blank" rel="noopener noreferrer">Ngen-Singularity</a>.</p>
-<p>Second, we have made several improvements and enhancements to NGIAB, such as updating the sample input data, upgrading the Boost library, adding auto mode run, and supporting geopackage format. You can find more details about these updates on our GitHub repository: <a href="https://github.com/CIROH-UA/NGIAB-CloudInfra" target="_blank" rel="noopener noreferrer">NGIAB-CloudInfra</a>.</p>
-<p>Third, we would like to share with you is the development of NextGen Datastream, a tool that automates the process of collecting and formatting input data for NextGen, orchestrating the NextGen run through NextGen In a Box (NGIAB), and handling outputs. The NextGen Datastream is a shell script that orchestrates each step in the process, using a configuration file that specifies the data sources, parameters, and options for the NextGen run. The NextGen Datastream can also generate its own internal configs and modify the configuration file as needed. You can find more details and instructions on how to use the NextGen Datastream on our GitHub repository: <a href="https://github.com/CIROH-UA/ngen-datastream/blob/main/README.md" target="_blank" rel="noopener noreferrer">ngen-datastream</a>.</p>
-<p>We hope you enjoyed this blog and found it informative and useful. If you have any questions, comments, or feedback, please feel free to contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Thank you for your interest and support in the Community NextGen project. Stay tuned for more exciting news and developments in the next month. 😊</p>
-<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content:encoded>
-            <category>Blog</category>
-            <category>CIROH</category>
-            <category>Monthly Update</category>
-            <category>HPC</category>
-            <category>Singularity</category>
-            <category>Cloud Services</category>
-            <category>NextGen Datastream</category>
             <category>National Water Model</category>
         </item>
     </channel>
