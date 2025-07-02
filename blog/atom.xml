@@ -13,7 +13,10 @@
         <link href="http://ciroh.org/docuhub-staging/blog/aorc-data-access"/>
         <updated>2025-07-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Accessing AORC data has never been easier with our new Jupyter Notebooks, designed for both point and zone retrieval from the AORC datasets hosted on AWS.]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Screenshot of Hydroshare Resource" src="http://ciroh.org/docuhub-staging/assets/images/aorc-data-retrieval-hydroshare-b0e0e1326a7841903004d132d0d0c460.png" width="2857" height="1547" class="img_ev3q"></p>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Screenshot of Hydroshare Resource" src="http://ciroh.org/docuhub-staging/assets/images/aorc-data-retrieval-hydroshare-8cf1d0e0ef2e88fd3e47058cf2fae473.png" width="1281" height="475" class="img_ev3q"></p>
+<blockquote>
+<p><em>A screenshot of the HydroShare resource page for <a href="https://www.hydroshare.org/resource/72ea9726187e43d7b50a624f2acf591f/" target="_blank" rel="noopener noreferrer">Jupyter Notebooks for the Retrieval of AORC Data for Hydrologic Analysis</a>.</em></p>
+</blockquote>
 <p>The Analysis of Record for Calibration (AORC) dataset is recognized as a high-value resource for the CUAHSI and CIROH community.
 This dataset is hosted by NOAA via Amazon Web Services (AWS) and is available in two primary formats:
 a <a href="https://registry.opendata.aws/noaa-nws-aorc/" target="_blank" rel="noopener noreferrer">latitude-longitude gridded dataset</a>
