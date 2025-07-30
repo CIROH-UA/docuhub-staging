@@ -4,10 +4,38 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Tethys Summit 2025: Advancing Geoscience with Open-Source Web Apps]]></title>
+            <link>http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025</link>
+            <guid>http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025</guid>
+            <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Explore the workshop materials and our experience at Tethys Summit 2025.]]></description>
+            <content:encoded><![CDATA[<div class="carousel-root" tabindex="0"><div class="carousel carousel-slider" style="width:100%"><ul class="control-dots"><li class="dot selected" value="0" role="button" tabindex="0" aria-label="slide item 1"></li><li class="dot" value="1" role="button" tabindex="0" aria-label="slide item 2"></li><li class="dot" value="2" role="button" tabindex="0" aria-label="slide item 3"></li><li class="dot" value="3" role="button" tabindex="0" aria-label="slide item 4"></li><li class="dot" value="4" role="button" tabindex="0" aria-label="slide item 5"></li><li class="dot" value="5" role="button" tabindex="0" aria-label="slide item 6"></li></ul><button type="button" aria-label="previous slide / item" class="control-arrow control-prev"></button><div class="slider-wrapper axis-horizontal"><ul class="slider animated" style="-webkit-transform:translate3d(-100%,0,0);-ms-transform:translate3d(-100%,0,0);-o-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0);-webkit-transition-duration:350ms;-moz-transition-duration:350ms;-o-transition-duration:350ms;transition-duration:350ms;-ms-transition-duration:350ms"><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-6.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="Musicians at Tethys Summit 2025"></div></li><li class="slide selected previous"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-7.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="A group photo from Tethys Summit 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-2.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="A workshop at Tethys Summit 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-3.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="A workshop at Tethys Summit 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-4.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="A workshop at Tethys Summit 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-5.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="A workshop at Tethys Summit 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-6.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="Musicians at Tethys Summit 2025"></div></li><li class="slide selected previous"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-07-tethyssummit/tethys-summit-7.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="A group photo from Tethys Summit 2025"></div></li></ul></div><button type="button" aria-label="next slide / item" class="control-arrow control-next"></button></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="my-experience-at-tethys-summit-2025">My Experience at Tethys Summit 2025<a href="http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025#my-experience-at-tethys-summit-2025" class="hash-link" aria-label="Direct link to My Experience at Tethys Summit 2025" title="Direct link to My Experience at Tethys Summit 2025">​</a></h2>
+<p>Earlier this month, I had the opportunity to attend Tethys Summit 2025 in Tampa, FL. It was a rewarding experience to learn about the Tethys Platform and how researchers, hydrologists, and geospatial scientists are applying it in their work. Through workshops and technical demonstrations, I gained insights into how this open-source Earth science platform is advancing environmental problem-solving.</p>
+<p>On Day 1, I participated in the <strong>Tethys Dash</strong> workshop led by Corey Krewson, where I learned to build a Tethys dashboard without writing any code. During the hands-on session, I was surprised by how easily I was able to build dashboards using a drag-and-drop interface, as much of the technical implementation was abstracted for simplicity. I also attended the <strong>Tethys Component Apps (ReactPy)</strong> workshop by Shawn Crawley. Unlike the no-code approach of the first session, this workshop focused on building a basic interactive Tethys web app in under 50 lines of Python code.</p>
+<p>On Day 2, I also took part in the <strong>Contributing to Tethys Core</strong> workshop led by Nathan Swain. This workshop outlined the steps for first-time contributors to get involved and submit pull requests to the Tethys Core repository. Aside from the workshops, I took part in Tethys App Competition where I presented the Tethys app I developed. It was a great learning experience to understand more about web app developments using Tethys. I ended up winning second place and got a bonsai tree LEGO set!</p>
+<p>Overall, it was a very engaging and informative summit. For anyone who missed the session, the workshop materials are available here: <a href="https://drive.google.com/drive/folders/1y9Ay5sJm0FhOMsdZuU570-88ye_71pOe" target="_blank" rel="noopener noreferrer"><strong>Workshop Materials</strong></a></p>
+<p><em>— Manjila</em></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-tethys">What is Tethys?<a href="http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025#what-is-tethys" class="hash-link" aria-label="Direct link to What is Tethys?" title="Direct link to What is Tethys?">​</a></h2>
+<p><a href="https://www.tethysplatform.org/" target="_blank" rel="noopener noreferrer"><strong>Tethys Platform</strong></a> is an open-source, Python-powered framework that lets geoscientists and developers turn complex environmental data and models into browser-based, interactive web GIS apps—without having to become web gurus. Built on <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">Django</a>, it bundles a full spatial stack (<a href="https://postgis.net/" target="_blank" rel="noopener noreferrer">PostGIS</a>, <a href="http://geoserver.org/" target="_blank" rel="noopener noreferrer">GeoServer</a>, <a href="https://openlayers.org/" target="_blank" rel="noopener noreferrer">OpenLayers</a>/<a href="https://cesium.com/" target="_blank" rel="noopener noreferrer">Cesium</a>) plus handy "Gizmos" for maps, charts, and dashboards, and it integrates seamlessly with scientific libraries like NumPy, Pandas, Plotly, and Bokeh. A built-in job manager runs heavy climate or hydrologic models—locally or in the cloud—while APIs make it easy to pull data from THREDDS servers or PostGIS databases. The result is a low-barrier path to custom interfaces, 2D/3D visualizations, and scalable computing that's already powering water-resource tools, climate-scenario explorers, and disaster-monitoring apps worldwide. Backed by the <a href="https://www.tethysgeoscience.org/" target="_blank" rel="noopener noreferrer">Tethys Geoscience Foundation</a>, the platform's active open-source community keeps it evolving to meet new Earth-science challenges.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="community-impact">Community Impact<a href="http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025#community-impact" class="hash-link" aria-label="Direct link to Community Impact" title="Direct link to Community Impact">​</a></h2>
+<p>Thanks to these capabilities, Tethys Platform is widely adopted in the geoscience community. Scientists around the world use it for a range of applications—water resource management, climate change analysis, natural disaster monitoring, environmental planning, and more. In each case, Tethys helps turn complex datasets and model outputs into accessible tools for decision-makers. As an open-source project under the <a href="https://www.tethysgeoscience.org/" target="_blank" rel="noopener noreferrer"><strong>Tethys Geoscience Foundation</strong></a>, it benefits from an active user community that continually contributes improvements and new features. This collaborative growth ensures the platform keeps pace with emerging needs in Earth science, effectively lowering the barrier for geoscientists to share data and models as powerful web applications.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tethys-platform-resources">Tethys Platform Resources<a href="http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025#tethys-platform-resources" class="hash-link" aria-label="Direct link to Tethys Platform Resources" title="Direct link to Tethys Platform Resources">​</a></h2>
+<p>Tethys Platform offers several resources to help you get started, including comprehensive official documentation, step-by-step tutorials, and a live demo portal. <a href="https://docs.tethysplatform.org/" target="_blank" rel="noopener noreferrer">The official documentation</a> covers everything from installation and "Hello World" examples to advanced topics and architecture (explaining how the Django backend and various services fit together). For hands-on learning, the <a href="https://docs.tethysplatform.org/en/stable/tutorials.html" target="_blank" rel="noopener noreferrer">tutorials</a> guide you through setting up your first app, incorporating spatial data with built-in map layouts, connecting to GeoServer or THREDDS data servers, and even running cloud computations. And if you want to see Tethys in action without installing anything, the <a href="https://demo.tethysplatform.org/apps" target="_blank" rel="noopener noreferrer"><strong>Tethys Demo Portal</strong></a> showcases a gallery of live example apps, such as a Gizmo Showcase of interactive widgets and a Wildfire Visualizer that displays wildfire data on a map, giving you a clear idea of the platform's capabilities and inspiring ideas for your own geoscientific web applications.</p>
+<p>Each of these resources will help you dive deeper into the Tethys Platform. Whether you're looking to develop a water resources tool, a climate data viewer, or any geoscientific web application, the combination of documentation, tutorials, and live demos will support you on your journey with Tethys. <strong>Happy app building!</strong></p>
+<p><em>— Gio</em></p>]]></content:encoded>
+            <category>Blog</category>
+            <category>Conference</category>
+            <category>Tethys Platform</category>
+            <category>Geoscience</category>
+            <category>Open Source</category>
+        </item>
         <item>
             <title><![CDATA[AORC Data in Your Hands: User-Friendly Jupyter Notebooks for Data Retrieval and Analysis via CIROH JupyterHub Notebooks]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/aorc-data-access</link>
@@ -968,38 +996,6 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <category>National Water Model</category>
             <category>CIROH</category>
             <category>Conference</category>
-        </item>
-        <item>
-            <title><![CDATA[Monthly News Update - February 2024]]></title>
-            <link>http://ciroh.org/docuhub-staging/blog/Community NextGen Updates Feb 2024</link>
-            <guid>http://ciroh.org/docuhub-staging/blog/Community NextGen Updates Feb 2024</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[News and release notes for Community NextGen]]></description>
-            <content:encoded><![CDATA[<p>Welcome to the February edition of the CIROH DocuHub blog, where we bring you the latest updates and news about the Community NextGen project and CIROH's Cloud and on-premise Infrastructure.</p>
-<p>Our team has been hard at work enhancing CIROH's Infrastructure and Community NextGen tools. Here are some highlights from February 2024:</p>
-<ol>
-<li>We successfully launched our new On-premises Infrastructure, which is now fully operational. You can find documentation for it <a href="http://ciroh.org/docuhub-staging/docs/services/on-prem/">here</a>.</li>
-</ol>
-<!-- -->
-<ol start="2">
-<li>
-<p>For NGIAB, we've made improvements to the CI pipeline for pull requests submitted with forked repositories. Now, we automatically build and test these submissions using the CI pipeline.</p>
-</li>
-<li>
-<p>We've added documentation for the NWMURL python package, which offers utility functions tailored for accessing National Water Model (NWM) data URLs. This library streamlines the process of accessing NWM data for various purposes, including analysis, modeling, and visualization. You can explore the documentation <a href="http://ciroh.org/docuhub-staging/docs/products/data-management/dataaccess/">here</a>.</p>
-</li>
-<li>
-<p>We're thrilled to announce the NextGen Track for DevCon24. The schedule is now available at: <a href="https://ciroh.ua.edu/devconference/" target="_blank" rel="noopener noreferrer">DevCon24 Schedule</a>.</p>
-</li>
-</ol>
-<p>Thank you for your ongoing interest and support in the Community NextGen project. Stay tuned for more exciting updates and developments next month. 😊</p>
-<p><a href="https://docs.ciroh.org/news/" target="_blank" rel="noopener noreferrer">Click Here to Visit Community NextGen and NGIAB News from Feb 2024</a></p>]]></content:encoded>
-            <category>Blog</category>
-            <category>Monthly Update</category>
-            <category>CIROH</category>
-            <category>On-Premises Services</category>
-            <category>National Water Model</category>
-            <category>NGIAB</category>
         </item>
     </channel>
 </rss>
