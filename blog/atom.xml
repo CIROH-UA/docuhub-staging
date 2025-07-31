@@ -44,6 +44,77 @@
         <category label="Open Source" term="Open Source"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CIROH Researchers Showcase Cutting-Edge Hydrologic Science at NHWC 2025]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025"/>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CIROH researchers showcased innovative work and leadership at the 15th Biennial National Hydrologic Warning Conference (NHWC 2025), presenting cutting-edge hydrologic forecasting tools and earning top recognition.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="NHWC 2025 Banner at Tucson, Arizona" src="http://ciroh.org/docuhub-staging/assets/images/team-2d5a6ca72cac67eb9feaeb97aef20dc1.JPG" width="5365" height="3419" class="img_ev3q"></p>
+<blockquote>
+<p><em>CIROH team at NHWC 2025 in Tucson, Arizona, standing by the event’s official banner.</em></p>
+</blockquote>
+<p>CIROH had a strong showing at the 15th Biennial National Hydrologic Warning Conference (NHWC 2025), with our researchers presenting innovative solutions and engaging with the broader hydrologic warning community. The conference brought together field personnel, innovators, engineers, hydrologists, forecasters, water resource managers, and emergency management officials from across the country to advance flood warning systems and address emerging challenges in evolving climate and drought management.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="advancing-model-reliability-in-hydrologic-forecasting">Advancing Model Reliability in Hydrologic Forecasting<a href="http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025#advancing-model-reliability-in-hydrologic-forecasting" class="hash-link" aria-label="Direct link to Advancing Model Reliability in Hydrologic Forecasting" title="Direct link to Advancing Model Reliability in Hydrologic Forecasting">​</a></h2>
+<p>During the NextGen presentation track, moderated by Dr. Steve Burian, CIROH researchers focused on improving evaluation techniques for hydrologic models—particularly in the context of the National Water Model (NWM).</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nws-nextgen-program">NWS NextGen Program<a href="http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025#nws-nextgen-program" class="hash-link" aria-label="Direct link to NWS NextGen Program" title="Direct link to NWS NextGen Program">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Edwin Welles presenting on NextGen Operational Foundation" src="http://ciroh.org/docuhub-staging/assets/images/edwin-21f1942f25afc6c83876533bf898543d.JPG" width="4032" height="3024" class="img_ev3q"></p>
+<blockquote>
+<p><em>Edwin Welles from Deltares USA presenting the NextGen framework.</em></p>
+</blockquote>
+<p><strong>Edwin Welles</strong> from Deltares USA kicked things off with insights into a groundbreaking initiative.
+The Office of Water Prediction, of the National Weather Service has undertaken an ambitious project to implement and apply a new framework for hydrological modeling: the
+The Next Genearation Water Resources Modeling Framework, or the NextGen framework, is designed to emphasize modularity, interoperability, and reproducibility, creating an environment where disparate modeling components can be freely combined to enhance modeling capabilities.
+These advantages offer critical support to the National Water Model, alongside other key initiatives such as national Flood Inundation Mapping research.
+The system is being implemented by Raytheon with subcontract support from Deltares USA. His presentation provided a summary of the project and envisioned outcomes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="leading-the-nextgen-revolution">Leading the NextGen Revolution<a href="http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025#leading-the-nextgen-revolution" class="hash-link" aria-label="Direct link to Leading the NextGen Revolution" title="Direct link to Leading the NextGen Revolution">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Arpita Patel presenting NGIAB" src="http://ciroh.org/docuhub-staging/assets/images/arpita1-9a1e419967282204712df89b4d846879.JPG" width="4032" height="3024" class="img_ev3q"></p>
+<blockquote>
+<p><em>Arpita Patel presenting “Navigating the NextGen Ecosystem and NextGen In A Box (NGIAB).”</em></p>
+</blockquote>
+<p><strong>Arpita Patel</strong> followed with <em>“Navigating the NextGen Ecosystem and NextGen In A Box (NGIAB),”</em> a presentation focused on making the NextGen framework more accessible to researchers, forecasters, and water managers.
+This was achieved through the NextGen In A Box platform, which harnesses containerization and supportive tooling to make the NextGen framework accessible and easy to use.
+This work directly supports CIROH’s mission to democratize access to advanced hydrologic modeling capabilities and foster broader adoption of next-generation water prediction tools.</p>
+<p>🥉 Patel also demonstrated exceptional engagement throughout the conference. Her outstanding participation earned her an impressive <strong>#3 ranking on the NHWC 2025 conference leaderboard</strong> with 70,200 points.
+This demonstrated not only her technical expertise, but also her active involvement in conference activities and community engagement.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rethinking-evaluation">Rethinking Evaluation<a href="http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025#rethinking-evaluation" class="hash-link" aria-label="Direct link to Rethinking Evaluation" title="Direct link to Rethinking Evaluation">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Dr. Md Shahabul Alam presenting model evaluation methods" src="http://ciroh.org/docuhub-staging/assets/images/shahab-e8e53d36f761568f5640a4f085e5c08e.jpg" width="5712" height="4284" class="img_ev3q"></p>
+<blockquote>
+<p><em>Dr. Md Shahabul Alam presenting different model evaluation methods.</em></p>
+</blockquote>
+<p>Dr. <strong>Md Shahabul Alam</strong> also delivered a compelling talk titled “Rethinking Model Reliability: A Dual Evaluation of NWM Using Time Series and Extreme Events” during the NextGen program track. His work focuses on advancing operational hydrology by developing more rigorous and resilient methods to evaluate the National Water Model across varying temporal scales and extreme event conditions—a crucial step in improving forecasting and decision-making under a changing climate.
+This work represents CIROH’s commitment to enhancing the reliability and accuracy of national-scale hydrologic prediction systems, directly supporting the operational forecasting community’s need for trustworthy model outputs during both routine conditions and extreme weather events.</p>
+<p>🥇 Dr. Alam earned also earned the <strong>#1 ranking on the NHWC 2025 conference leaderboard</strong>, maintaining a commanding lead of over 100,000 points throughout the week and finishing with a remarkable 194,700 points.
+His name quickly became a focal point of the conference. Each morning, attendees checked the Whova app with anticipation—only to see Shahab had once again pulled further ahead.
+His energetic participation and engaging presence made him a standout at the conference, combining technical depth with social and technological savvy.
+Dr. Alam not only demonstrated exceptional leadership and charisma at the NHWC 2025 conference, but also brought well-deserved visibility to CIROH and its ongoing mission.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="strengthening-community-connections">Strengthening Community Connections<a href="http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025#strengthening-community-connections" class="hash-link" aria-label="Direct link to Strengthening Community Connections" title="Direct link to Strengthening Community Connections">​</a></h2>
+<p>The inclusion of these presentations within the NextGen presentation track highlights CIROH’s central role in advancing the NextGen Water Resources Modeling Framework. This alignment demonstrates our organization’s commitment to translating research innovations into operational capabilities that serve the broader water resources community.</p>
+<p>Following the presentations, many researchers expressed immediate interest in using NextGen In A Box for both their research applications and operational forecasting. The tool's modular design, ease of deployment, and compatibility with diverse datasets resonated strongly with attendees seeking flexible and scalable modeling solutions. Several participants noted its potential for accelerating innovation in hydrologic modeling and expressed intent to integrate it into their ongoing and future projects.</p>
+<p>The conference provided valuable opportunities for our researchers to connect with operational forecasters, emergency managers, and fellow scientists, fostering collaborations that will enhance the real-world impact of CIROH’s research initiatives. These interactions are essential for ensuring our scientific advances address the practical challenges faced by those responsible for flood warning and water resource management.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="looking-ahead">Looking Ahead<a href="http://ciroh.org/docuhub-staging/blog/ciroh-nhwc-2025#looking-ahead" class="hash-link" aria-label="Direct link to Looking Ahead" title="Direct link to Looking Ahead">​</a></h2>
+<p>CIROH’s strong presence at NHWC 2025 underscores our dedication to bridging the gap between research and operations in hydrologic science. Our researchers’ contributions to model evaluation methodologies and NextGen ecosystem development represent key steps toward more reliable, accessible, and effective water prediction systems.</p>
+<p>As we continue to advance hydrologic science, conferences like NHWC 2025 provide essential platforms for sharing innovations, gathering feedback from the operational community, and building the collaborative relationships that drive progress in water resources management and flood warning systems.</p>
+<p>The success of our team at NHWC 2025 reflects CIROH’s growing impact in the hydrologic sciences community and our commitment to developing solutions that serve both scientific advancement and societal needs.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Md Shahabul Alam</name>
+            <uri>https://www.linkedin.com/in/md-shahabul-alam/</uri>
+        </author>
+        <category label="Blog" term="Blog"/>
+        <category label="NHWC" term="NHWC"/>
+        <category label="Conference Highlights" term="Conference Highlights"/>
+        <category label="CIROH" term="CIROH"/>
+        <category label="Hydrologic Modeling" term="Hydrologic Modeling"/>
+        <category label="Forecasting" term="Forecasting"/>
+        <category label="National Weather Service" term="National Weather Service"/>
+        <category label="NextGen" term="NextGen"/>
+        <category label="Deltares" term="Deltares"/>
+        <category label="Alabama" term="Alabama"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AORC Data in Your Hands: User-Friendly Jupyter Notebooks for Data Retrieval and Analysis via CIROH JupyterHub Notebooks]]></title>
         <id>http://ciroh.org/docuhub-staging/blog/aorc-data-access</id>
         <link href="http://ciroh.org/docuhub-staging/blog/aorc-data-access"/>
@@ -58,6 +129,7 @@ This dataset is hosted by NOAA via Amazon Web Services (AWS) and is available in
 a <a href="https://registry.opendata.aws/noaa-nws-aorc/" target="_blank" rel="noopener noreferrer">latitude-longitude gridded dataset</a>
 and the <a href="https://registry.opendata.aws/nwm-archive/" target="_blank" rel="noopener noreferrer">National Water Model (NWM) projected dataset, part of the NWM Retrospective archive</a>.
 To enhance accessibility and illustrate analysis capabilities, we developed four user-friendly Jupyter Notebooks that enable data retrieval for both specific points of interest and spatial domains defined by shapefiles:</p>
+<!-- -->
 <ul>
 <li><strong>AORC_LL_PointRetrieval.ipynb</strong>: For retrieving and aggregating data from the latitude-longitude gridded dataset for a specific point using geographic coordinates.</li>
 <li><strong>AORC_LL_ZoneRetrieval.ipynb</strong>: For retrieving and aggregating data from the latitude-longitude gridded dataset for an area defined by a polygon shapefile.</li>
@@ -117,6 +189,7 @@ our work aims to support and facilitate more efficient hydrological and climate-
 </blockquote>
 <p>The densely populated Hackensack River watershed lies within the New York City Metropolitan Area, which spans northern New Jersey and southern New York.
 Accurate streamflow forecasting within this region is therefore essential to enable effective water resource management, flood prediction, and disaster preparedness.</p>
+<!-- -->
 <p>Precipitation data is critical for effective hydrological modeling, making the identification of reliable data sources a key priority.
 This is why the Integrated Spatial Modeling and Remote Sensing Technologies Laboratory (I-SMART),
 an interdisciplinary research unit within the Davidson Laboratory at Stevens Institute of Technology in Hoboken, New Jersey,
@@ -1081,31 +1154,5 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         <category label="CIROH" term="CIROH"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="BYU" term="BYU"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monthly News Update - March 2024]]></title>
-        <id>http://ciroh.org/docuhub-staging/blog/Community NextGen Updates March 2024</id>
-        <link href="http://ciroh.org/docuhub-staging/blog/Community NextGen Updates March 2024"/>
-        <updated>2024-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[News and release notes for Community NextGen]]></summary>
-        <content type="html"><![CDATA[<strong>Accelerating Innovation: CIROH's March 2024 Update</strong>
-<p>The CIROH team has been diligently accelerating research cyberinfrastructure capabilities this month. We're thrilled to share key milestones achieved in enhancing the Community NextGen project and our cloud/on-premises platforms.</p>
-<!-- -->
-<p>A significant highlight was the successful launch of our new fully operational on-premises infrastructure. Comprehensive documentation is now available <a href="http://ciroh.org/docuhub-staging/docs/services/on-prem/">here</a>, ensuring seamless access and utilization. Additionally, we've fortified the NextGen in a Box (NGIAB) ecosystem with bug fixes, repository enhancements, and initiated work on automating the CI pipeline for the <a href="https://github.com/CIROH-UA/Ngen-Singularity" target="_blank" rel="noopener noreferrer">Singularity Repo</a></p>
-<p>Empowering our community remains a top priority. We've expanded the DocuHub knowledge base with dedicated sections on on-premises access guidelines, as well as policies and best practices for optimized infrastructure usage <a href="http://ciroh.org/docuhub-staging/docs/policies/intro">here</a> . Furthermore, our team represented CIROH at the AWRA Geospatial Water Technology Conference in Orlando, sharing insights on leveraging geospatial data for water research. Refer <a href="https://github.com/CIROH-UA/Conferences/tree/main/2024-03-26_AWRA_GeospatialWaterTechnology" target="_blank" rel="noopener noreferrer">here</a></p>
-<p>As we continue driving advancements, we extend our gratitude for your unwavering support of the Community NextGen project and CIROH's cyberinfrastructure endeavors. Be on the lookout for more exciting updates next month as we strive to unlock new frontiers in water science through robust computing capabilities.</p>
-<p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Click Here to Visit Community NextGen and NGIAB News from March 2024</a></p>]]></content>
-        <author>
-            <name>Arpita Patel</name>
-            <uri>https://github.com/arpita0911patel</uri>
-        </author>
-        <category label="Blog" term="Blog"/>
-        <category label="Monthly Update" term="Monthly Update"/>
-        <category label="HPC" term="HPC"/>
-        <category label="Singularity" term="Singularity"/>
-        <category label="On-Premises Services" term="On-Premises Services"/>
-        <category label="National Water Model" term="National Water Model"/>
-        <category label="CIROH" term="CIROH"/>
-        <category label="Conference" term="Conference"/>
     </entry>
 </feed>
