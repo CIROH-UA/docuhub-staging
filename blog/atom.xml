@@ -26,27 +26,6 @@
 <p>🏢 <strong>Researchers at smaller institutions</strong> gaining access to national-scale modeling</p>
 <p>🌍 <strong>International collaborators</strong> contributing to water modeling advancement without infrastructure constraints</p>
 <p>🚨 <strong>Emergency managers</strong> rapidly deploying models for flood prediction</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-power-of-containerization">The Power of Containerization<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#the-power-of-containerization" class="hash-link" aria-label="Direct link to The Power of Containerization" title="Direct link to The Power of Containerization">​</a></h2>
-<p>The Docker containerization approach has been key to NGIAB's success:</p>
-<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">docker pull awiciroh/ngiab:latest</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">docker run -it awiciroh/ngiab:latest</span><br></span></code></pre></div></div>
-<p>With just these two commands, users gain access to a full modeling environment including:</p>
-<ul>
-<li>
-<p>Pre-configured NextGen framework components</p>
-</li>
-<li>
-<p>Example catchments with forcing data</p>
-</li>
-<li>
-<p>Jupyter notebooks with tutorials</p>
-</li>
-<li>
-<p>All necessary dependencies and libraries</p>
-</li>
-<li>
-<p>Consistent environments across any platform</p>
-</li>
-</ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="community-growth-and-impact">Community Growth and Impact<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#community-growth-and-impact" class="hash-link" aria-label="Direct link to Community Growth and Impact" title="Direct link to Community Growth and Impact">​</a></h2>
 <p>The rapid adoption of NGIAB reflects a broader movement:</p>
 <p><strong>1. Democratization of Advanced Modeling</strong><br>
