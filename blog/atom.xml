@@ -2,11 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/docuhub-staging/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-07-30T00:00:00.000Z</updated>
+    <updated>2025-07-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/docuhub-staging/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/docuhub-staging/img/logos/docuhub.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NGIAB Reaches 10,000 Docker Pulls: NextGen In A Box Makes Water Modeling More Accessible]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls"/>
+        <updated>2025-07-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NextGen In A Box (NGIAB) surpasses 10,000 Docker pulls, highlighting growing global adoption of accessible, containerized water modeling tools.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="NGIAB Banner" src="http://ciroh.org/docuhub-staging/assets/images/ngiab-banner-439fbd18af5380efe86aaaf146649287.png" width="1883" height="650" class="img_ev3q"></p>
+<p>We're thrilled to announce that <strong>NextGen In A Box (NGIAB)</strong> has surpassed <strong>10,000 Docker pulls</strong> — a significant milestone reflecting the growing adoption of water modeling tools that are accessible to all. This achievement creates opportunities for researchers, practitioners, and students worldwide to leverage advanced water prediction frameworks without infrastructure barriers, accelerating global water science innovation.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="from-research-innovation-to-community-tool">From Research Innovation to Community Tool<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#from-research-innovation-to-community-tool" class="hash-link" aria-label="Direct link to From Research Innovation to Community Tool" title="Direct link to From Research Innovation to Community Tool">​</a></h2>
+<p>When we first containerized the NextGen Water Resources Modeling Framework into NGIAB, our goal was simple yet ambitious: <strong>remove the technical barriers</strong> that prevented many researchers from accessing NOAA's next-generation water modeling capabilities.</p>
+<p>Today, with over 10,000 downloads, it's clear the community was ready for this transformation.</p>
+<p>The University of Alabama recently highlighted NGIAB's impact in their news feature, <em><a href="https://news.ua.edu/2025/07/ua-software-makes-water-modeling-more-accessible/" target="_blank" rel="noopener noreferrer">"UA Software Makes Water Modeling More Accessible"</a></em>,  recognizing how this tool is changing the landscape of hydrologic research and education. As the article notes, NGIAB turns what was once a complex, infrastructure-heavy process into something that researchers can run on their laptops in minutes.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-10000-pulls-really-means">What 10,000 Pulls Really Means<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#what-10000-pulls-really-means" class="hash-link" aria-label="Direct link to What 10,000 Pulls Really Means" title="Direct link to What 10,000 Pulls Really Means">​</a></h2>
+<p>Behind this number are stories of:</p>
+<p>🎓 <strong>Graduate students</strong> exploring advanced modeling techniques with no setup headaches</p>
+<p>🏫 <strong>Educators</strong> bringing cutting-edge tools into the classroom</p>
+<p>🏢 <strong>Researchers at smaller institutions</strong> gaining access to national-scale modeling</p>
+<p>🌍 <strong>International collaborators</strong> contributing to water modeling advancement without infrastructure constraints</p>
+<p>🚨 <strong>Emergency managers</strong> rapidly deploying models for flood prediction</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-power-of-containerization">The Power of Containerization<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#the-power-of-containerization" class="hash-link" aria-label="Direct link to The Power of Containerization" title="Direct link to The Power of Containerization">​</a></h2>
+<p>The Docker containerization approach has been key to NGIAB's success:</p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">docker pull awiciroh/ngiab:latest</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">docker run -it awiciroh/ngiab:latest</span><br></span></code></pre></div></div>
+<p>With just these two commands, users gain access to a full modeling environment including:</p>
+<ul>
+<li>
+<p>Pre-configured NextGen framework components</p>
+</li>
+<li>
+<p>Example catchments with forcing data</p>
+</li>
+<li>
+<p>Jupyter notebooks with tutorials</p>
+</li>
+<li>
+<p>All necessary dependencies and libraries</p>
+</li>
+<li>
+<p>Consistent environments across any platform</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="community-growth-and-impact">Community Growth and Impact<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#community-growth-and-impact" class="hash-link" aria-label="Direct link to Community Growth and Impact" title="Direct link to Community Growth and Impact">​</a></h2>
+<p>The rapid adoption of NGIAB reflects a broader movement:</p>
+<p><strong>1. Democratization of Advanced Modeling</strong><br>
+No longer do researchers need access to specialized HPC resources or deep DevOps knowledge to run sophisticated water models. NGIAB levels the playing field.</p>
+<p><strong>2. Reproducible Science</strong><br>
+Every one of those 10,000 pulls represents the exact same computational environment, ensuring that research results can be replicated anywhere in the world.</p>
+<p><strong>3. Accelerated Innovation</strong><br>
+By removing setup friction, researchers can focus on science rather than software configuration, leading to faster iterations and discoveries.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="looking-forward-the-next-10000">Looking Forward: The Next 10,000<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#looking-forward-the-next-10000" class="hash-link" aria-label="Direct link to Looking Forward: The Next 10,000" title="Direct link to Looking Forward: The Next 10,000">​</a></h2>
+<p>As we celebrate this milestone, we're already working on what's next:</p>
+<p>📦 <strong>Expanded model library</strong>: Adding more BMI-compliant models to the NGIAB ecosystem</p>
+<p>☁️ <strong>Cloud integration</strong>: Seamless deployment on AWS, Google Cloud, and Azure</p>
+<p>📊 <strong>Enhanced visualization</strong>: Built-in tools for analyzing and presenting model outputs</p>
+<p>🤝 <strong>Community contributions</strong>: Making it easier for users to share their configurations and improvements</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="join-the-ngiab-community">Join the NGIAB Community<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#join-the-ngiab-community" class="hash-link" aria-label="Direct link to Join the NGIAB Community" title="Direct link to Join the NGIAB Community">​</a></h2>
+<p>Whether you're pull number 10,001 or have been with us since the beginning, you're part of a growing community that's transforming water resources modeling.</p>
+<p>Here's how to get involved:</p>
+<p>👉 <a href="https://github.com/CIROH-UA/NGIAB" target="_blank" rel="noopener noreferrer"><strong>Try NGIAB</strong></a>: Visit our GitHub repository to get started</p>
+<p>✍️ <strong>Share your use case</strong>: Tell us how you're using NGIAB in your research or operations</p>
+<p>🛠 <strong>Contribute</strong>: Submit bug reports, feature requests, or code contributions</p>
+<p>📢 <strong>Spread the word</strong>: Help others discover how NGIAB can accelerate their water modeling work</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="thank-you-to-our-community">Thank You to Our Community<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10000-docker-pulls#thank-you-to-our-community" class="hash-link" aria-label="Direct link to Thank You to Our Community" title="Direct link to Thank You to Our Community">​</a></h2>
+<p>This milestone belongs to everyone who downloaded, tested, provided feedback, contributed code, or helped spread the word about NGIAB. Your engagement drives our continuous improvement and motivates us to make water modeling even more accessible.</p>
+<p>As we reflect on reaching 10,000 Docker pulls, we're reminded that each download represents a researcher, student, or practitioner working to better understand and predict our water resources. Together, we're building a more resilient future through accessible, advanced water modeling.</p>
+<p>Here's to the next 10,000 pulls and the continued growth of our community!</p>
+<hr>
+<p><em>NGIAB is developed and maintained by the Cooperative Institute for Research to Operations in Hydrology (CIROH) at the University of Alabama. Learn more about our work in making water modeling accessible at <a href="https://ciroh.org/" target="_blank" rel="noopener noreferrer">ciroh.org</a>.</em></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="Blog" term="Blog"/>
+        <category label="NGIAB" term="NGIAB"/>
+        <category label="CIROH" term="CIROH"/>
+        <category label="Containerization" term="Containerization"/>
+        <category label="Water Modeling" term="Water Modeling"/>
+        <category label="Docker" term="Docker"/>
+        <category label="Hydrology" term="Hydrology"/>
+        <category label="Education" term="Education"/>
+        <category label="Community Impact" term="Community Impact"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tethys Summit 2025: Advancing Geoscience with Open-Source Web Apps]]></title>
         <id>http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025</id>
@@ -18,7 +99,7 @@
 <p>Earlier this month, I had the opportunity to attend Tethys Summit 2025 in Tampa, FL. It was a rewarding experience to learn about the Tethys Platform and how researchers, hydrologists, and geospatial scientists are applying it in their work. Through workshops and technical demonstrations, I gained insights into how this open-source Earth science platform is advancing environmental problem-solving.</p>
 <p>On Day 1, I participated in the <strong>Tethys Dash</strong> workshop led by Corey Krewson, where I learned to build a Tethys dashboard without writing any code. During the hands-on session, I was surprised by how easily I was able to build dashboards using a drag-and-drop interface, as much of the technical implementation was abstracted for simplicity. I also attended the <strong>Tethys Component Apps (ReactPy)</strong> workshop by Shawn Crawley. Unlike the no-code approach of the first session, this workshop focused on building a basic interactive Tethys web app in under 50 lines of Python code.</p>
 <p>On Day 2, I also took part in the <strong>Contributing to Tethys Core</strong> workshop led by Nathan Swain. This workshop outlined the steps for first-time contributors to get involved and submit pull requests to the Tethys Core repository. Aside from the workshops, I took part in Tethys App Competition where I presented the Tethys app I developed. It was a great learning experience to understand more about web app developments using Tethys. I ended up winning second place and got a bonsai tree LEGO set!</p>
-<p>Overall, it was a very engaging and informative summit. For anyone who missed the session, the workshop materials are available here: <a href="https://drive.google.com/drive/folders/1y9Ay5sJm0FhOMsdZuU570-88ye_71pOe" target="_blank" rel="noopener noreferrer"><strong>Workshop Materials</strong></a></p>
+<p>Overall, it was a very engaging and informative summit. For anyone who missed the session, the workshop materials are available here: <a href="https://drive.google.com/drive/folders/18sSPsMkjSRtBZLAClEUV4AetKx9dPS6B" target="_blank" rel="noopener noreferrer"><strong>Talks and Workshop Materials</strong></a></p>
 <p><em>— Manjila</em></p>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-tethys">What is Tethys?<a href="http://ciroh.org/docuhub-staging/blog/tethys-platform-summit-2025#what-is-tethys" class="hash-link" aria-label="Direct link to What is Tethys?" title="Direct link to What is Tethys?">​</a></h2>
@@ -1088,71 +1169,5 @@ and community water modeling.</p>
         <category label="NextGen Datastream" term="NextGen Datastream"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="NGIAB" term="NGIAB"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Next '24: A Flood of Innovation and Inspiration]]></title>
-        <id>http://ciroh.org/docuhub-staging/blog/Google Cloud Next 2024</id>
-        <link href="http://ciroh.org/docuhub-staging/blog/Google Cloud Next 2024"/>
-        <updated>2024-04-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud Next '24: Las Vegas]]></summary>
-        <content type="html"><![CDATA[<p><strong>Google Cloud Next '24</strong></p>
-<p>Hello everyone, and thanks for stopping by!</p>
-<p>I recently had the incredible opportunity to attend Google Cloud Next 2024 in person for the first time, and it was truly an <strong>amazing experience</strong>. From <strong>insightful keynote presentations and workshops to vibrant booths</strong> buzzing with connections, the event was a whirlwind of innovation and inspiration.</p>
-<!-- -->
-<p>One of the highlights was undoubtedly the abundance of AI announcements and advancements. Google continues to push the boundaries of what's possible, and it was exciting to witness the future of technology unfold.</p>
-<p>Among the many highlights, <strong>CIROH</strong> achieved a significant milestone with its <strong>first-ever session at Google Cloud Next</strong>. The presentation, titled <strong>"Channel the Flood Data Deluge: Unlocking the American National Water Model,"</strong> <a href="https://cloud.withgoogle.com/next/session-library?session=DEV209&amp;utm_source=copylink&amp;utm_medium=unpaidsoc&amp;utm_campaign=FY24-Q2-global-ENDM33-physicalevent-er-next-2024-mc&amp;utm_content=next-homepage-social-share&amp;utm_term=-#all%3E" target="_blank" rel="noopener noreferrer">link</a> led by <strong>Kel Markert (Google), Dr. Dan Ames (BYU), and Michael Ames(SADA)</strong> was a resounding success. The session <a href="https://assets.swoogo.com/uploads/3771985-6615e3b5da2cf.pdf" target="_blank" rel="noopener noreferrer">link</a> shed light on the immense potential of the National Water Model and its ability to revolutionize water resource management.</p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2024-04-gcn/GoogleCloudNext2024.png" alt="GoogleCloudNext2024" style="width:80%"></div>
-<p>The conference was a truly enjoyable experience, especially collaborating with Dan, Kel, Michael and others. We had a great time  together and sharing our insights.</p>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2024-04-gcn/googlenext-1.jpeg" alt="GoogleNext-1" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2024-04-gcn/googlenext-2.jpeg" alt="GoogleNext-2" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2024-04-gcn/googlenext-3.jpeg" alt="GoogleNext-3" style="width:80%"></div>
-<p>The <strong>energy and enthusiasm</strong> throughout the event were contagious, and I left feeling incredibly <strong>motivated and inspired</strong>. I connected with numerous individuals from diverse backgrounds, fostering <strong>new collaborations</strong> and sparking exciting ideas for the future of water research and technology.</p>
-<p>If you're curious to see more about my Google Cloud Next experience, head over to <strong>my LinkedIn post <a href="https://www.linkedin.com/in/arpita0911patel/" target="_blank" rel="noopener noreferrer">link</a></strong> where I've shared pictures from all three days.</p>
-<p>Thank you for reading and stay tuned for more updates on the exciting advancements in water research and technology!</p>
-<p><strong>Want to delve deeper into the insights and announcements from Google Cloud Next?</strong> Check out these valuable resources:</p>
-<p><strong>SADA Live:</strong> Recap Key Cloud Technology Insights from Google Cloud Next '24: <a href="https://www.linkedin.com/events/sadalive-recapkeycloudtechnolog7181342146724073472/" target="_blank" rel="noopener noreferrer">link</a>
-This LinkedIn event offers a comprehensive overview of the key takeaways and technological advancements unveiled at the conference.</p>
-<p><strong>Day 2 Google Blog Recap:</strong> Dive into the specifics of Day 2 at Google Cloud Next with this insightful blog post, covering topics ranging from AI and data analytics to infrastructure and security. <a href="https://cloud.google.com/blog/topics/google-cloud-next/next24-day-2-recap?utm_source=linkedin&amp;utm_medium=unpaidsoc&amp;utm_campaign=fy24q1-googlecloud-blog-ai-in_feed-no-brand-global&amp;utm_content=-&amp;utm_term=-" target="_blank" rel="noopener noreferrer">link</a></p>
-<p><strong>AI Takes Center Stage:</strong></p>
-<ul>
-<li><strong>Gemini for Google Cloud:</strong> The introduction of Gemini 1.5 Pro, integrated with various Google Cloud services, promises enhanced functionality, security, and AI performance across diverse applications.</li>
-<li><strong>AI Infrastructure Advancements:</strong> The AI Hypercomputer provides exceptional computational power for complex AI tasks, while Gemini API now offers models tailored for various scales, enriching the development environment.</li>
-<li><strong>Vertex AI Enhancements:</strong> New tools for low-latency applications and improved Gemini integration empower developers to build more efficient and sophisticated AI-driven applications.</li>
-<li><strong>Secure AI Framework (SAIF):</strong> Establishes rigorous security standards for AI implementations, ensuring secure and responsible AI integrations.</li>
-<li><strong>AI Database Assistant:</strong> Leverages Gemini to simplify complex queries and deepen AI integration into database management.</li>
-<li><strong>Google Vids:</strong> This innovative Workspace feature utilizes Gemini and Vertex AI to enhance digital storytelling and collaboration, revolutionizing workplace communication.</li>
-</ul>
-<p><strong>Infrastructure and Development:</strong></p>
-<ul>
-<li>
-<p><strong>Google Axion Processor:</strong> This cutting-edge processor boasts significant performance and energy efficiency improvements compared to traditional x86 instances, setting a new standard for computational efficiency.
-<a href="https://lnkd.in/g544-Tdt" target="_blank" rel="noopener noreferrer">link</a></p>
-</li>
-<li>
-<p><strong>Google Distributed Cloud (GDC) Sandbox:</strong> Enables developers to build and test services for GDC within a Google Cloud environment, simplifying the development process.
-<a href="https://lnkd.in/gcDBFt4t" target="_blank" rel="noopener noreferrer">link</a></p>
-</li>
-<li>
-<p><strong>Migrate to Containers (M2C) CLI:</strong> This new tool facilitates seamless migration of applications to containers, supporting deployment on GKE or Cloud Run.
-<a href="https://lnkd.in/gz_AmHCY" target="_blank" rel="noopener noreferrer">link</a></p>
-</li>
-</ul>
-<p><strong>Security and Data Analytics:</strong></p>
-<ul>
-<li><strong>AI Cyber Defense Initiative:</strong> Revolutionizes cybersecurity by leveraging AI for innovative solutions against cyber threats.</li>
-<li><strong>BigQuery as a Unified Platform:</strong> Transforms BigQuery into a comprehensive platform for managing multimodal data and executing AI tasks, seamlessly integrated with Gemini.<br>
-<!-- -->Check out all the announcements:  <a href="https://lnkd.in/gNGYrg44" target="_blank" rel="noopener noreferrer">link</a></li>
-</ul>]]></content>
-        <author>
-            <name>Arpita Patel</name>
-            <uri>https://github.com/arpita0911patel</uri>
-        </author>
-        <category label="Blog" term="Blog"/>
-        <category label="Conference" term="Conference"/>
-        <category label="Google Cloud" term="Google Cloud"/>
-        <category label="Google Cloud Next" term="Google Cloud Next"/>
-        <category label="CIROH" term="CIROH"/>
-        <category label="National Water Model" term="National Water Model"/>
-        <category label="BYU" term="BYU"/>
     </entry>
 </feed>
