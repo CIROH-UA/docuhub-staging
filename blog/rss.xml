@@ -826,7 +826,7 @@ and community water modeling.</p>
             <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[September Monthly Blog Update]]></description>
             <content:encoded><![CDATA[<img src="http://ciroh.org/docuhub-staging/img/gcp_architecture_diagram.png" alt="gcp architectrure diagram">
-<i>Image Source: <a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp" target="_blank" rel="noopener noreferrer"></a><a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp" target="_blank" rel="noopener noreferrer">https://github.com/BYU-Hydroinformatics/api-nwm-gcp</a> </i>
+<p><em>Image Source: <a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp" target="_blank" rel="noopener noreferrer">https://github.com/BYU-Hydroinformatics/api-nwm-gcp</a></em></p>
 <br>
 <br>
 <p>Several important historical and ongoing National Water Model (NWM) datasets are now available on Google Cloud BigQuery, which makes them queryable through SQL using Google Cloud console. Some of these data sets are also accessible through an API (e.g. using Python). These datasets and their current status are as follows:</p>
