@@ -44,8 +44,9 @@ which allowed for the models to be evaluated on a recent extreme flood event. Re
 <li><strong>Calibrated NextGen</strong> (MARFC forcings; calibrated on KGE objective function)</li>
 <li><strong>National Water Model 3.0</strong></li>
 </ul>
-<p>The researchers observed that the calibrated runs for both NextGen and CHPS showed significant improvements over uncalibrated runs in both Westfield and Elkland basins. Among the calibrated runs, CHPS marginally outperformed NextGen. Additionally, both CHPS and NextGen outperformed NWM 3.0 in Westfield basin.</p>
+<p>These simulations were executed on the <a href="http://ciroh.org/docuhub-staging/docs/services/external-resources/nsf-access/jetstream">JetStream2</a> platform with the support of the CIROH Research Cyberinfrastructure Team.</p>
 <figure style="text-align:center;margin:1.5rem 0"><div style="display:flex;max-width:100%"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-08-MARFC/fig2_1.png" alt="A bar graph titled 'NSE of NextGen vs NextGen with Forcings Change'. The version of NextGen that used MARFC forcings yielded a greater NSE value." style="max-width:50%;height:auto"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-08-MARFC/fig2_2.png" alt="A bar graph titled 'PBIAS of NextGen vs NextGen with Forcings Change'. While both PBIAS values were negative, the version of NextGen that used MARFC forcings showed far lower PBIAS." style="max-width:50%;height:auto"></div><figcaption style="font-size:0.95rem;line-height:1.6;margin-top:0.6rem;opacity:0.9"><p><strong>Figure 2</strong>)  Percent Bias and NSE of simulations from 2007 to 2020 generated with different forcings - AORC (referred as NextGen) and MARFC Hourly Operational Grids (referred as NextGen FC).</p></figcaption></figure>
+<p>The researchers observed that the calibrated runs for both NextGen and CHPS showed significant improvements over uncalibrated runs in both Westfield and Elkland basins. Among the calibrated runs, CHPS marginally outperformed NextGen. Additionally, both CHPS and NextGen outperformed NWM 3.0 in Westfield basin.</p>
 <p>When running the NextGen-based models, substitution of SNOW-17 output and simpler PET for the NOAH-OWP reduced calibration time by 50% and produced similar outputs.</p>
 <p>However, the models that performed best during calibration did not necessarily perform best during the Hurricane Debby extreme event. This suggests that including a greater number of extreme events in the calibration period is necessary to improve model robustness.</p>
 <figure style="text-align:center;margin:1.5rem 0"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-08-MARFC/fig3.png" alt="A hydrograph depicting streamflow observations and outputs for Tropical Storm Debby on 08/09/2024." style="max-width:100%;height:auto"><figcaption style="font-size:0.95rem;line-height:1.6;margin-top:0.6rem;opacity:0.9"><p><strong>Figure 3</strong>) Hydrograph of Tropical Storm Debby on 08/09/2024. It is important to note that the observed data, denoted by black dots, cuts out halfway through the hydrograph. For this window, peak flow was estimated by the USGS to be just under 20,000 cfs, which is nearly double the second largest event on record.</p></figcaption></figure>
@@ -65,6 +66,7 @@ which allowed for the models to be evaluated on a recent extreme flood event. Re
             <category>NWM</category>
             <category>NextGen</category>
             <category>CHPS</category>
+            <category>JetStream2</category>
         </item>
         <item>
             <title><![CDATA[NGIAB Reaches 10,000 Docker Pulls: NextGen In A Box Makes Water Modeling More Accessible]]></title>
