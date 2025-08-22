@@ -128,6 +128,10 @@ which allowed for the models to be evaluated on a recent extreme flood event. Re
             <name>Josh Cunningham</name>
             <uri>https://www.linkedin.com/in/josh-cunningham-6906a7108/</uri>
         </author>
+        <author>
+            <name>David Tarboton</name>
+            <uri>https://www.linkedin.com/in/dtarb/</uri>
+        </author>
         <category label="Blog" term="Blog"/>
         <category label="Hydrology" term="Hydrology"/>
         <category label="NextGen" term="NextGen"/>
