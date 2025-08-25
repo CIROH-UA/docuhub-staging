@@ -58,11 +58,11 @@ which allowed for the models to be evaluated on a recent extreme flood event. Re
 <ol><li>National Oceanic and Atmospheric Administration. <em>Community Hydrologic Prediction System (CHPS) Documentation</em> [Internet]. National Oceanic and Atmospheric Administration; [updated 2024 Nov 26; cited 2025 Jul 28]. Available from: <a href="https://vlab.noaa.gov/web/chps" target="_blank" rel="noopener noreferrer">https://vlab.noaa.gov/web/chps</a> </li><li>Araki R, Ogden FL, McMillan HK. Testing Soil Moisture Performance Measures in the Conceptual‐Functional Equivalent to the WRF-Hydro National Water Model. <em>JAWRA Journal of the American Water Resources Association</em>. 2025 Feb;61(1)<!-- -->:e70002<!-- -->.</li><li>National Oceanic and Atmospheric Administration. <em>The National Water Model</em> [Internet]. National Water Prediction Service; [cited 2025 Jul 29]. Available from: <a href="https://water.noaa.gov/about/nwm" target="_blank" rel="noopener noreferrer">https://water.noaa.gov/about/nwm</a> </li><li>Tijerina‐Kreuzer D, Condon L, FitzGerald K, Dugger A, O’Neill MM, Sampson K, Gochis D, Maxwell R. Continental hydrologic intercomparison project, phase 1: A large‐scale hydrologic model comparison over the continental United States. <em>Water Resources Research</em>. 2021 Jul;57(7)<!-- -->:e2020WR028931<!-- -->.</li><li>Moriasi DN, Arnold JG, Van Liew MW, Bingner RL, Harmel RD, Veith TL. Model evaluation guidelines for systematic quantification of accuracy in watershed simulations. <em>Transactions of the ASABE</em>. 2007;50(3):885-900.</li><li>Gupta HV, Kling H, Yilmaz KK, Martinez GF. Decomposition of the mean squared error and NSE performance criteria: Implications for improving hydrological modelling. <em>Journal of Hydrology</em>. 2009 Oct 20;377(1-2):80-91.</li><li>Vrugt JA, de Oliveira DY. Confidence intervals of the Kling-Gupta efficiency. <em>Journal of Hydrology</em>. 2022 Sep 1;612:127968.</li></ol>]]></content>
         <author>
             <name>Hudson Finley Davis</name>
-            <uri>https://www.linkedin.com/in/elkin-giovanni-romero-bustamante-b834b5a8</uri>
+            <uri>mailto:hudson.davis@noaa.gov</uri>
         </author>
         <author>
             <name>Seann Reed</name>
-            <uri>https://www.linkedin.com/in/josh-cunningham-6906a7108/</uri>
+            <uri>mailto:seann.reed@noaa.gov</uri>
         </author>
         <author>
             <name>Josh Cunningham</name>
@@ -358,6 +358,10 @@ our work aims to support and facilitate more efficient hydrological and climate-
         <author>
             <name>David Tarboton</name>
             <uri>https://www.linkedin.com/in/dtarb/</uri>
+        </author>
+        <author>
+            <name>Ayman Nassar</name>
+            <uri>https://www.linkedin.com/in/ayman-nassar-24a92723/</uri>
         </author>
         <category label="Blog" term="Blog"/>
         <category label="Community Spotlight" term="Community Spotlight"/>
