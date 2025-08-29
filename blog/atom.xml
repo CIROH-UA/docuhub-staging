@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/local/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-08-21T00:00:00.000Z</updated>
+    <updated>2025-08-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/local/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Evaluating NextGen’s Performance in the MARFC Region with NGIAB]]></title>
         <id>http://ciroh.org/local/blog/nextgen-marfc-performance</id>
         <link href="http://ciroh.org/local/blog/nextgen-marfc-performance"/>
-        <updated>2025-08-21T00:00:00.000Z</updated>
+        <updated>2025-08-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A case study on using NextGen in a Box (NGIAB) to assess the NextGen Hydro Framework in the Middle Atlantic River Forecast Center (MARFC) region, comparing its performance with CHPS and NWM 3.0.]]></summary>
         <content type="html"><![CDATA[<div class="margin-bottom--lg"></div>
 <p>The National Weather Service's Middle Atlantic River Forecast Center (MARFC) sees large variations in the performance of the National Water Model 3.0. Through its support for regionalized parameters and models, NOAA-OWP’s Next Generation Water Resources Modeling Framework (NextGen framework) offers a potential solution to address these inconsistencies. As such, this study took advantage of NextGen in a Box (NGIAB) to evaluate the NextGen framework’s performance in the MARFC region.</p>
@@ -99,7 +99,7 @@ which allowed for the models to be evaluated on a recent extreme flood event. Re
         <title type="html"><![CDATA[Cross-Institutional Collaboration Enhances Hydrologic Modeling in the Logan River Watershed]]></title>
         <id>http://ciroh.org/local/blog/logan-river-collaboration</id>
         <link href="http://ciroh.org/local/blog/logan-river-collaboration"/>
-        <updated>2025-08-21T00:00:00.000Z</updated>
+        <updated>2025-08-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A joint effort by CIROH (University of Alabama) and Utah State University]]></summary>
         <content type="html"><![CDATA[<figure style="text-align:center"><img src="http://ciroh.org/local/img/blog/2025-08-Logan-River/fig1.png" alt="A before-and-after comparison of the corrected catchment for the Logan River. Text: 'Correcting hydrofabric by removing catchments that do not drain into gauge'" style="max-width:100%"><figcaption><em>Figure 1. A corrected reach arising from the UA-USU collaboration.</em></figcaption></figure>
 <p>Recent collaboration between researchers in the Cooperative Institute for Research to Operations in Hydrology (CIROH) from University of Alabama (UA) and Utah State University (USU) highlighted the value of cross-institutional partnerships in improving community hydrologic modeling. Focused on the Logan River watershed, this joint effort demonstrated how sharing tools, knowledge, and infrastructure can accelerate both model development and scientific discovery.</p>
