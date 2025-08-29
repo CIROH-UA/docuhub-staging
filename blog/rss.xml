@@ -98,6 +98,10 @@ which allowed for the models to be evaluated on a recent extreme flood event. Re
             <description><![CDATA[NextGen In A Box (NGIAB) surpasses 10,000 Docker pulls, highlighting growing global adoption of accessible, containerized water modeling tools.]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="NGIAB Banner" src="http://ciroh.org/docuhub-staging/assets/images/ngiab-banner-439fbd18af5380efe86aaaf146649287.png" width="1883" height="650" class="img_ev3q"></p>
 <p>We're thrilled to announce that <strong>NextGen In A Box (NGIAB)</strong> has surpassed <strong>10,000 Docker pulls</strong> — a significant milestone reflecting the growing adoption of water modeling tools that are accessible to all. This achievement creates opportunities for researchers, practitioners, and students worldwide to leverage advanced water prediction frameworks without infrastructure barriers, accelerating global water science innovation.</p>
+<blockquote>
+<p><em>Update, 8/29</em>: <strong>NGIAB Journal Paper</strong> now available in <em>Environmental Modelling and Software</em><br>
+<strong><a href="https://www.sciencedirect.com/science/article/pii/S1364815225003500" target="_blank" rel="noopener noreferrer">→ Read the full paper</a></strong></p>
+</blockquote>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="from-research-innovation-to-community-tool">From Research Innovation to Community Tool<a href="http://ciroh.org/docuhub-staging/blog/ngiab-10k#from-research-innovation-to-community-tool" class="hash-link" aria-label="Direct link to From Research Innovation to Community Tool" title="Direct link to From Research Innovation to Community Tool">​</a></h2>
 <p>When we first containerized the NextGen Water Resources Modeling Framework into NGIAB, our goal was simple yet ambitious: <strong>remove the technical barriers</strong> that prevented many researchers from accessing NOAA's next-generation water modeling capabilities.</p>
 <p>Today, with over 10,000 downloads, it's clear the community was ready for this transformation.</p>
