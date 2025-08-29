@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([["4815"],{54667:function(e){e.exports=JSON.parse('{"blogBasePath":"/local/release-notes","blogTitle":"DocuHub release notes!","authorsListPath":"/local/release-notes/authors"}')}}]);
