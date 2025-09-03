@@ -197,6 +197,7 @@ By removing setup friction, researchers can focus on science rather than softwar
         </author>
         <category label="Blog" term="Blog"/>
         <category label="NGIAB" term="NGIAB"/>
+        <category label="NextGen" term="NextGen"/>
         <category label="CIROH" term="CIROH"/>
         <category label="Containerization" term="Containerization"/>
         <category label="Water Modeling" term="Water Modeling"/>
@@ -430,6 +431,7 @@ NGIAB has given the I-SMART team the tools to conduct their groundbreaking resea
         <category label="Community Spotlight" term="Community Spotlight"/>
         <category label="Stevens Institute of Technology" term="Stevens Institute of Technology"/>
         <category label="NGIAB" term="NGIAB"/>
+        <category label="NextGen" term="NextGen"/>
         <category label="CIROH DevCon" term="CIROH DevCon"/>
         <category label="AI and Machine Learning" term="AI and Machine Learning"/>
         <category label="National Water Model" term="National Water Model"/>
@@ -578,6 +580,7 @@ It’s an exciting time for CIROH, and we’re thrilled to be a part of this dyn
         <category label="Flood Inundation Mapping" term="Flood Inundation Mapping"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="NGIAB" term="NGIAB"/>
+        <category label="NextGen" term="NextGen"/>
         <category label="Services" term="Services"/>
         <category label="NSF" term="NSF"/>
         <category label="NSF Access" term="NSF Access"/>
@@ -643,6 +646,7 @@ It’s an exciting time for CIROH, and we’re thrilled to be a part of this dyn
         <category label="EWRI" term="EWRI"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="NGIAB" term="NGIAB"/>
+        <category label="NextGen" term="NextGen"/>
         <category label="CIROH DevCon" term="CIROH DevCon"/>
         <category label="Calibration" term="Calibration"/>
     </entry>
@@ -685,6 +689,7 @@ It’s an exciting time for CIROH, and we’re thrilled to be a part of this dyn
         <category label="Wukong" term="Wukong"/>
         <category label="HPC" term="HPC"/>
         <category label="NGIAB" term="NGIAB"/>
+        <category label="NextGen" term="NextGen"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="On-Premises Services" term="On-Premises Services"/>
         <category label="Cloud Services" term="Cloud Services"/>
@@ -783,6 +788,7 @@ Great to see how Gemini is transforming data manipulation in BigQuery. The abili
         <category label="NGIAB" term="NGIAB"/>
         <category label="Blog" term="Blog"/>
         <category label="National Water Model" term="National Water Model"/>
+        <category label="NextGen" term="NextGen"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pennsylvania State University Researchers Leverage CIROH Cyberinfrastructure for Advanced Hydrological Modeling ]]></title>
@@ -974,6 +980,7 @@ and community water modeling.</p>
         <category label="TEEHR" term="TEEHR"/>
         <category label="Hydrofabric" term="Hydrofabric"/>
         <category label="NGIAB" term="NGIAB"/>
+        <category label="NextGen" term="NextGen"/>
         <category label="Data Preparation" term="Data Preparation"/>
     </entry>
     <entry>
