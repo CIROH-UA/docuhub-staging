@@ -4,10 +4,29 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/release-notes</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Fri, 29 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[09-12-2025 Release Notes]]></title>
+            <link>http://ciroh.org/docuhub-staging/release-notes/v20250912</link>
+            <guid>http://ciroh.org/docuhub-staging/release-notes/v20250912</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Minor DocuHub update for September 2025!]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p><em>Note that several changes in this release were published earlier as hotfixes.</em></p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250912#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates">​</a></h2>
+<ul>
+<li>Added redirect and announcement banner for <a href="http://ciroh.org/docuhub-staging/scimeet25survey">Science Meeting 2025 Survey</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/472" target="_blank" rel="noopener noreferrer">#472</a>, <a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/470" target="_blank" rel="noopener noreferrer">#470</a>)</li>
+<li>Fixes to Community Impact page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/471" target="_blank" rel="noopener noreferrer">#471</a>, <a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/468" target="_blank" rel="noopener noreferrer">#468</a>)</li>
+<li>Corrected error in "NWM, NextGen, and NGIAB" page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/469" target="_blank" rel="noopener noreferrer">#469</a>)</li>
+<li>Updated news entries for NGIAB-HPCInfra and CIROH community forks of ngen/troute (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/467" target="_blank" rel="noopener noreferrer">#467</a>)</li>
+</ul>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>DocuHub</category>
+        </item>
         <item>
             <title><![CDATA[08-29-2025 Release Notes]]></title>
             <link>http://ciroh.org/docuhub-staging/release-notes/v20250829</link>
