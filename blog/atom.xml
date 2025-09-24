@@ -2,11 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/docuhub-staging/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-08-29T00:00:00.000Z</updated>
+    <updated>2025-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/docuhub-staging/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/docuhub-staging/img/logos/docuhub.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Focusing on Streamflow Data: New Software for Camera-Based Hydrologic Modeling]]></title>
+        <id>http://ciroh.org/docuhub-staging/blog/streamflow-data-camera-based-hydrologic-modeling-software</id>
+        <link href="http://ciroh.org/docuhub-staging/blog/streamflow-data-camera-based-hydrologic-modeling-software"/>
+        <updated>2025-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New open-source software tools enable scalable, automated camera-based streamflow monitoring using low-cost field computers and cloud computing services.]]></summary>
+        <content type="html"><![CDATA[<p>Reliable and high-resolution streamflow data are essential for hydrologic research, flood forecasting, and water resource management. Streamflow gages provide necessary measurements but can be difficult and expensive to build and operate. Camera-based monitoring offers a promising, non-contact alternative to or augmentation of traditional streamflow gages. However, broad use of camera-based streamflow monitoring has been limited by operational challenges including how to collect, store, manage, and process the large volume of image and video data produced by monitoring cameras.</p>
+<p>With help from Arpita Patel and the CIROH Cyberinfrastructure and DevOps Team, who assisted our team with access to <a href="https://docs.ciroh.org/docs/services/cloudservices/" target="_blank" rel="noopener noreferrer">Amazon Web Services and the Google Cloud Platform</a>, we developed and tested new cyberinfrastructure that advances camera-based hydrologic monitoring.</p>
+<p>Traditional dataloggers used in hydrologic monitoring focus on interfacing with conventional sensors (e.g., pressure transducers, float gages, etc.) and lack some capabilities required for camera-based monitoring. Low-cost field computers like the <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">Raspberry Pi</a> provide a capable alternative, but lack out-of-the-box software required to support high-resolution image and video capture, management of the large volume of data that accumulates, data processing, and cloud uploading processes. Because of this, we had to build the functionality required to combine low-cost field computers with cloud computing services to produce an operational, real-time, cloud-integrated, camera-based streamflow monitoring system.</p>
+<figure style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-09-camera-based-hydrologic-modeling/segmented_image.png" alt="Segmented images by the Hydrocamcompute software" style="max-width:100%"><figcaption><em>Figure 1. Segmented images showing pixels identified as water by the HydrocamCompute software. Quantifying water pixels within the rectangular areas of interest provide an estimate of stream stage and related discharge.</em></figcaption></figure>
+<p>We developed two new Python-based software programs compatible with inexpensive field computers such as Raspberry Pi: one that captures and processes the data from cameras, and one that automatically extracts hydrologically relevant data from image data in the cloud.</p>
+<ol>
+<li><strong>Hydrocam Collect</strong>: automatically captures images and videos at user-specified intervals, manages local storage on field computers, and uploads captured image and video data to the cloud. Real-time data monitoring and alerts minimize potential for data loss.</li>
+<li><strong>Hydrocam Compute</strong>: This serverless cloud computing workflow extracts relevant hydrologic data from camera images and videos, such as depth/stage and velocity. Automated and scalable, the workflow can handle a large number of independent monitoring sites, each executing their own serverless functions using isolated cloud resources.</li>
+</ol>
+<p>In an operational context, automation is key to a scalable, robust system capable of integrating camera-based monitoring with larger hydrologic monitoring networks such as those managed by the United States Geological Survey (USGS). We tested the automation of the system we developed using commercial cloud services via Amazon Web Services and Google Cloud Platform with access provided through CIROH. By leveraging CIROH-provided cloud services, our team was able to prototype, test, and scale the software to bridge the gap between proof-of-concept research and practical field use.</p>
+<p>This linked software system we developed responds to data events (i.e., capture and upload of an image or video to the cloud) instantly and minimizes human intervention and error correction. The serverless and event driven design of Hydrocam Compute reduces infrastructure management overhead and cost because cloud resources are only used during execution of data processing tasks with no need to manage or maintain physical compute infrastructure. The models used for processing images and video can be swapped out to meet the needs of particular monitoring locations.</p>
+<p>The Hydrocam workflows enhance the feasibility, reliability, and efficiency of camera-based streamflow monitoring. As hydrological conditions become more variable, access to high-resolution, real-time data becomes increasingly important for flood forecasting, water resource management, and long-term climate adaptation strategies. This work supports these broader goals in making camera-based monitoring more practical and scalable.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resources-and-publications">Resources and Publications<a href="http://ciroh.org/docuhub-staging/blog/streamflow-data-camera-based-hydrologic-modeling-software#resources-and-publications" class="hash-link" aria-label="Direct link to Resources and Publications" title="Direct link to Resources and Publications">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-source-software">Open Source Software<a href="http://ciroh.org/docuhub-staging/blog/streamflow-data-camera-based-hydrologic-modeling-software#open-source-software" class="hash-link" aria-label="Direct link to Open Source Software" title="Direct link to Open Source Software">​</a></h3>
+<p>The <a href="https://github.com/hydrocam/collector" target="_blank" rel="noopener noreferrer">HydrocamCollect</a> and <a href="https://github.com/hydrocam/serverlesscompute" target="_blank" rel="noopener noreferrer">HydrocamCompute</a> software programs are available in GitHub repositories within the <a href="https://github.com/hydrocam" target="_blank" rel="noopener noreferrer">hydrocam GitHub Organization</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="publications">Publications<a href="http://ciroh.org/docuhub-staging/blog/streamflow-data-camera-based-hydrologic-modeling-software#publications" class="hash-link" aria-label="Direct link to Publications" title="Direct link to Publications">​</a></h3>
+<p>Access the pre-prints of the papers describing HydrocamCollect and HydrocamCompute submitted to the <i>Environmental Modelling &amp; Software</i> journal:</p>
+<ol><li>Neupane, S., Horsburgh, J. S., Bin Issa, R., Young, S. (2025). HydrocamCollect: A robust data acquisition and cloud data transfer workflow for camera-based hydrological monitoring. Available at SSRN: <a href="https://ssrn.com/abstract=5451102" target="_blank" rel="noopener noreferrer">https://ssrn.com/abstract=5451102</a> or <a href="https://doi.org/10.2139/ssrn.5451102" target="_blank" rel="noopener noreferrer">https://doi.org/10.2139/ssrn.5451102</a> </li><li>Neupane, S., Horsburgh, J. S., Bin Issa, R., Young, S. (2025). HydrocamCompute: Serverless cloud computing workflow for camera-based hydrological monitoring. Available at SSRN: <a href="https://ssrn.com/abstract=5451100" target="_blank" rel="noopener noreferrer">https://ssrn.com/abstract=5451100</a> or <a href="https://doi.org/10.2139/ssrn.5451100" target="_blank" rel="noopener noreferrer">https://doi.org/10.2139/ssrn.5451100</a>  </li></ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="contact">Contact<a href="http://ciroh.org/docuhub-staging/blog/streamflow-data-camera-based-hydrologic-modeling-software#contact" class="hash-link" aria-label="Direct link to Contact" title="Direct link to Contact">​</a></h2>
+<ul><li>Dr. Sierra Young, Utah State University, <a href="mailto:sierra.young@usu.edu" target="_blank" rel="noopener noreferrer">sierra.young@usu.edu</a></li><li>Dr. Jeff Horsburgh, Utah State University, <a href="mailto:jeff.horsburgh@usu.edu" target="_blank" rel="noopener noreferrer">jeff.horsburgh@usu.edu</a></li></ul>]]></content>
+        <author>
+            <name>Sajan Neupane</name>
+            <uri>https://www.linkedin.com/in/sajan-neupane10/</uri>
+        </author>
+        <author>
+            <name>Razin Bin Issa</name>
+            <uri>https://www.linkedin.com/in/razin-bin-issa/</uri>
+        </author>
+        <author>
+            <name>Safran Khan</name>
+            <uri>https://www.linkedin.com/in/engr-safran-khan-b35866154/</uri>
+        </author>
+        <author>
+            <name>Sierra Young</name>
+            <uri>https://www.linkedin.com/in/sierrayoung/</uri>
+        </author>
+        <author>
+            <name>Jeffery S. Horsburgh</name>
+            <uri>https://www.linkedin.com/in/jeffery-horsburgh-aa1760b3/</uri>
+        </author>
+        <category label="Blog" term="Blog"/>
+        <category label="Serverless Compute" term="Serverless Compute"/>
+        <category label="Hydrologic Monitoring" term="Hydrologic Monitoring"/>
+        <category label="Streamflow" term="Streamflow"/>
+        <category label="Gage" term="Gage"/>
+        <category label="CIROH" term="CIROH"/>
+        <category label="USGS" term="USGS"/>
+        <category label="HydrocamCompute" term="HydrocamCompute"/>
+        <category label="HydrocamCollect" term="HydrocamCollect"/>
+        <category label="Camera-Based Monitoring" term="Camera-Based Monitoring"/>
+        <category label="Computer Vision" term="Computer Vision"/>
+        <category label="Utah State University" term="Utah State University"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evaluating NextGen’s Performance in the MARFC Region with NGIAB]]></title>
         <id>http://ciroh.org/docuhub-staging/blog/nextgen-marfc-performance</id>
@@ -1169,54 +1229,5 @@ and community water modeling.</p>
         <category label="Cloud Services" term="Cloud Services"/>
         <category label="National Water Model" term="National Water Model"/>
         <category label="TEEHR. NGIAB" term="TEEHR. NGIAB"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIROH Research CyberInfrastructure Update]]></title>
-        <id>http://ciroh.org/docuhub-staging/blog/July Monthly IT Update</id>
-        <link href="http://ciroh.org/docuhub-staging/blog/July Monthly IT Update"/>
-        <updated>2024-07-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[July Monthly IT Update]]></summary>
-        <content type="html"><![CDATA[<p>We're excited to share some recent developments and updates from CIROH's Research CyberInfrastructure team:</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cloud-infrastructure">Cloud Infrastructure<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#cloud-infrastructure" class="hash-link" aria-label="Direct link to Cloud Infrastructure" title="Direct link to Cloud Infrastructure">​</a></h3>
-<ul>
-<li>CIROH's Google Cloud Account is now fully operational and managed by our team. You can find more information <a href="https://docs.ciroh.org/docs/services/cloudservices/google-cloud/" target="_blank" rel="noopener noreferrer">here.</a></li>
-<li>We're in the process of migrating our 2i2c JupyterHub to CIROH's Google Cloud account.</li>
-<li>We've successfully deployed the Google BigQuery API (developed by BYU and Google) for NWM data in our cloud. To access this API, please contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Please refer to <a href="https://docs.ciroh.org/docs/products/data-management/bigqeury-api/" target="_blank" rel="noopener noreferrer">NWM BigQuery API</a> to learn more.</li>
-</ul>
-<!-- -->
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-and-services">Support and Services<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#support-and-services" class="hash-link" aria-label="Direct link to Support and Services" title="Direct link to Support and Services">​</a></h3>
-<ul>
-<li>Monthly AWS office hours are ongoing. For more details on how to join, email us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</li>
-<li>We provided IT support for the Summer Institute 2024, REU students, and team leads this summer.</li>
-</ul>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2024-07-it/summer-institute.jpg" alt="summer-institute-students" style="width:80%"></div>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2024-07-it/reu.jpg" alt="reu-institute-students" style="width:80%"></div>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-enhancements">Security Enhancements<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#security-enhancements" class="hash-link" aria-label="Direct link to Security Enhancements" title="Direct link to Security Enhancements">​</a></h3>
-<ul>
-<li>New security features have been added to our CIROH-UA GitHub repository to prevent commits containing sensitive information.</li>
-<li>We've updated our AWS best practices, particularly regarding key management. If your project uses CIROH AWS resources, please review these updates at <a href="https://docs.ciroh.org/docs/services/cloudservices/aws/AWS%20best%20Practices/" target="_blank" rel="noopener noreferrer">AWS Best Practices</a>.</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="resources-and-access">Resources and Access<a href="http://ciroh.org/docuhub-staging/blog/July%20Monthly%20IT%20Update#resources-and-access" class="hash-link" aria-label="Direct link to Resources and Access" title="Direct link to Resources and Access">​</a></h3>
-<ul>
-<li>For external IT resources needed for your projects, check out NSF Access Allocations <a href="https://docs.ciroh.org/docs/services/external-resources/nsf-access/" target="_blank" rel="noopener noreferrer">here.</a></li>
-<li>GPU allocation is now available on CIROH's 2i2c JupyterHub. To request access, please fill out <a href="https://forms.office.com/pages/responsepage.aspx?id=jnIAKtDwtECk6M5DPz-8p4IIpHdEnmhNgjOa9FjrwGtUNlpMNTIwT0ZHUjg5VzdTNzNOSVk5OEFNMC4u" target="_blank" rel="noopener noreferrer">this form.</a></li>
-</ul>
-<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2024-07-it/si.jpg" alt="summer-institute-students" style="width:80%"></div>
-<p>For more information on our services, please refer to our <a href="https://docs.ciroh.org/docs/services/intro" target="_blank" rel="noopener noreferrer">services page</a>.</p>
-<p>We're continually working to improve our IT infrastructure and support. If you have any questions or need assistance, don't hesitate to reach out to us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</p>]]></content>
-        <author>
-            <name>Arpita Patel</name>
-            <uri>https://github.com/arpita0911patel</uri>
-        </author>
-        <category label="Blog" term="Blog"/>
-        <category label="Monthly Update" term="Monthly Update"/>
-        <category label="CIROH" term="CIROH"/>
-        <category label="2i2c" term="2i2c"/>
-        <category label="Google Cloud" term="Google Cloud"/>
-        <category label="AWS" term="AWS"/>
-        <category label="BigQuery" term="BigQuery"/>
-        <category label="BYU" term="BYU"/>
-        <category label="JupyterHub" term="JupyterHub"/>
-        <category label="National Water Model" term="National Water Model"/>
     </entry>
 </feed>
