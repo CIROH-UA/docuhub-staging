@@ -128,7 +128,7 @@
         <summary type="html"><![CDATA[Major DocuHub update for July 2025!]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250701#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates" translate="no">​</a></h2>
 <ul>
-<li class="">Blog post: <a class="" href="http://ciroh.org/docuhub-staging/blog/aorc-data-access">"AORC Data in Your Hands: User-Friendly Jupyter Notebooks for Data Retrieval and Analysis via CIROH JupyterHub Notebooks"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/434" target="_blank" rel="noopener noreferrer" class="">#434</a>)</li>
+<li class="">Blog post: <a class="" href="http://ciroh.org/docuhub-staging/blog/aorc-data-access">"AORC Data in Your Hands: User-Friendly Jupyter Notebooks for Data Retrieval and Analysis via CIROH-2i2c JupyterHub Notebooks"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/434" target="_blank" rel="noopener noreferrer" class="">#434</a>)</li>
 <li class="">Blog post: <a class="" href="http://ciroh.org/docuhub-staging/blog/ismart-ngiab-application">"Assessing Streamflow Forecast Over the Hackensack River Watershed Using NGIAB"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/431" target="_blank" rel="noopener noreferrer" class="">#431</a>)</li>
 <li class="">News update: June 2025 (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/432" target="_blank" rel="noopener noreferrer" class="">#432</a>)</li>
 </ul>
@@ -206,7 +206,7 @@
         <summary type="html"><![CDATA[Major DocuHub update for May 2025!]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/v20250527#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content" translate="no">​</a></h2>
 <ul>
-<li class="">Added NextGen on CIROH JupyterHub to Products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/404" target="_blank" rel="noopener noreferrer" class="">#404</a>)</li>
+<li class="">Added NextGen on CIROH-2i2c JupyterHub to Products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/404" target="_blank" rel="noopener noreferrer" class="">#404</a>)</li>
 </ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250527#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates" translate="no">​</a></h2>
 <ul>
@@ -277,7 +277,7 @@
 <ul>
 <li class="">Added workshop IT support form to services access page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/362" target="_blank" rel="noopener noreferrer" class="">#362</a>)</li>
 <li class="">Reorganized links to blogs for cloud services (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/360" target="_blank" rel="noopener noreferrer" class="">#360</a>)</li>
-<li class="">Video tutorial added to "HydroShare and CIROH JupyterHub Intergration" product page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/357" target="_blank" rel="noopener noreferrer" class="">#357</a>)</li>
+<li class="">Video tutorial added to "HydroShare and CIROH-2i2c JupyterHub Integration" product page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/357" target="_blank" rel="noopener noreferrer" class="">#357</a>)</li>
 <li class="">Reworked homepage display of CIROH sponsors, members, and partners (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/356" target="_blank" rel="noopener noreferrer" class="">#356</a>)</li>
 <li class="">Added link to CIROH Portal in DocuHub navbar (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/355" target="_blank" rel="noopener noreferrer" class="">#355</a>)</li>
 <li class="">All page tags have been refactored and condensed (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/352" target="_blank" rel="noopener noreferrer" class="">#352</a>)</li>
@@ -317,8 +317,8 @@
 <li class="">Community Hydrologic Modeling page now features tables detailing features and access methods (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/290" target="_blank" rel="noopener noreferrer" class="">#290</a>)</li>
 <li class="">Added NGIAB-TEEHR and NGIAB-CLIENT to products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/320" target="_blank" rel="noopener noreferrer" class="">#320</a>)</li>
 <li class="">Added Flood Inundation Mapping Framework to products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/300" target="_blank" rel="noopener noreferrer" class="">#300</a>)</li>
-<li class="">Added documentation on debugging Python package conflicts in CIROH JupyterHub (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/308" target="_blank" rel="noopener noreferrer" class="">#308</a>)</li>
-<li class="">Added tutorial for running datapreprocess on CIROH JupyterHub (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/299" target="_blank" rel="noopener noreferrer" class="">#299</a>)</li>
+<li class="">Added documentation on debugging Python package conflicts in CIROH-2i2c JupyterHub (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/308" target="_blank" rel="noopener noreferrer" class="">#308</a>)</li>
+<li class="">Added tutorial for running datapreprocess on CIROH-2i2c JupyterHub (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/299" target="_blank" rel="noopener noreferrer" class="">#299</a>)</li>
 </ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250408#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates" translate="no">​</a></h2>
 <ul>

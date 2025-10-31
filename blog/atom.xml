@@ -491,7 +491,7 @@ Dr. Alam not only demonstrated exceptional leadership and charisma at the NHWC 2
         <category label="Open Source" term="Open Source"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AORC Data in Your Hands: User-Friendly Jupyter Notebooks for Data Retrieval and Analysis via CIROH JupyterHub Notebooks]]></title>
+        <title type="html"><![CDATA[AORC Data in Your Hands: User-Friendly Jupyter Notebooks for Data Retrieval and Analysis via CIROH-2i2c JupyterHub Notebooks]]></title>
         <id>http://ciroh.org/docuhub-staging/blog/aorc-data-access</id>
         <link href="http://ciroh.org/docuhub-staging/blog/aorc-data-access"/>
         <updated>2025-07-01T00:00:00.000Z</updated>
@@ -519,7 +519,7 @@ The notebooks are publicly <a href="https://www.hydroshare.org/resource/72ea9726
 and are compatible with JupyterHub computing platforms such as <a href="https://www.hydroshare.org/resource/2dd1ac86e8854d4fb9fe5fbafaec2b98/" target="_blank" rel="noopener noreferrer" class="">CIROH 2i2c JupyterHub linked to HydroShare</a>.</p>
 <p>To use these notebooks, go to the <a href="https://www.hydroshare.org/resource/72ea9726187e43d7b50a624f2acf591f/" target="_blank" rel="noopener noreferrer" class="">HydroShare resource</a>,
 select "Open With" at the top right, and choose "CIROH 2i2c JupyterHub".
-This will copy the resource contents (notebooks and data) into the CIROH JupyterHub environment,
+This will copy the resource contents (notebooks and data) into the CIROH-2i2c JupyterHub environment,
 where you can open and work through them to access the data.
 Note that you will need a <a href="https://www.hydroshare.org/" target="_blank" rel="noopener noreferrer" class="">CUAHSI HydroShare account</a> to access "Open With" in HydroShare,
 and you will also need to <a class="" href="http://ciroh.org/docuhub-staging/docs/services/access/#accessing-ciroh-2i2c-jupyterhub">request CIROH-2i2c JupyterHub access</a> using a GitHub account.</p>
