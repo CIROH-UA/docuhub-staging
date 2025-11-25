@@ -79,7 +79,7 @@ where they exchanged high-fives and consumed the caffeine and carbohydrates need
 tackle another ambitious day of software integration.</p>
 <p>Once everyone settled in at AWI, the group dug into the two main challenges of the week:
 integrating models into the NextGen framework (the U Calgary effort) and evaluating those
-simulations with shared protocols (the RTI focus). The conversation broadened as Arpita Patel (UA), Jordan Laser (Lynker), Zach Wills (Lynker), Nels Frazier (Lynker), Jonathan Frame (UA), Trupesh Patel (UA), Harsha Vemula (UA) and Manjila Singh (UA) joined to discuss their work on making NextGen accessible and useful to the wider community. Together, the group reviewed progress on SYMFLUENCE,
+simulations with shared protocols (the RTI focus). The conversation broadened as Arpita Patel (UA), Jordan Laser (Lynker), Zach Wills (Lynker), Nels Frazier (Lynker), Giovanni Romero (Aquaveo), Jonathan Frame (UA), Trupesh Patel (UA), Harsha Vemula (UA) and Manjila Singh (UA) joined to discuss their work on making NextGen accessible and useful to the wider community. Together, the group reviewed progress on SYMFLUENCE,
 the NextGen/SUMMA integration, and the TEEHR data model. As always, James Halgren
 kept everything running seamlessly, turning lunch into a productive working session so
 the team could update the University of Alabama’s computer science leads on recent
@@ -151,18 +151,20 @@ throughout the week. The discussion concluded with a clear set of immediate prio
 identifying the specific steps needed over the next six months to realize near-term
 successes in the transition of research to operations.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ciroh-cyberinfrastructure-accelerating-hydrologic-research">CIROH Cyberinfrastructure: Accelerating Hydrologic Research<a href="http://ciroh.org/docuhub-staging/blog/software-integration-meeting#ciroh-cyberinfrastructure-accelerating-hydrologic-research" class="hash-link" aria-label="Direct link to CIROH Cyberinfrastructure: Accelerating Hydrologic Research" title="Direct link to CIROH Cyberinfrastructure: Accelerating Hydrologic Research" translate="no">​</a></h2>
-<p>This collaborative work exemplifies how CIROH's cyberinfrastructure investments are accelerating the pace of hydrologic research. The platforms and tools developed by CIROH's DevOps team—including NextGen In A Box (NGIAB), NRDS, the Research to Operations Hydrologic Community (R2OHC) platform, and containerized modeling environments—provide researchers with immediate access to computational resources and standardized workflows. By eliminating the traditional barriers of infrastructure setup and configuration, these platforms allow research teams like U Calgary, RTI International, and AWI to focus their energy on scientific innovation rather than technical implementation. This meeting at AWI represents the kind of rapid, collaborative progress that becomes possible when robust cyberinfrastructure removes technical friction from the research process.</p>]]></content:encoded>
+<p>This collaborative work exemplifies how CIROH's cyberinfrastructure investments are accelerating the pace of hydrologic research. The platforms developed by CIROH's DevOps team - the Research to Operations Hydrologic Community (R2OHC) platform and tools developed by CIROH's Science team, Lynker team, RTI team and Aquaveo team —including NextGen In A Box (NGIAB), NRDS, and containerized modeling environments—provide researchers with immediate access to computational resources and standardized workflows. By eliminating the traditional barriers of infrastructure setup and configuration, these platforms allow research teams like University of Calgary, RTI International, Lynker, Aquaveo and AWI to focus their energy on scientific innovation rather than technical implementation. This meeting at AWI represents the kind of rapid, collaborative progress that becomes possible when robust cyberinfrastructure removes technical friction from the research process.</p>]]></content:encoded>
             <category>CIROH</category>
             <category>Blog</category>
             <category>Alabama Water Institute</category>
             <category>University of Calgary</category>
             <category>Hydrology</category>
             <category>RTI</category>
+            <category>Lynker</category>
             <category>NextGen</category>
             <category>NGIAB</category>
             <category>NRDS</category>
             <category>TEEHR</category>
             <category>National Water Model</category>
+            <category>AWS</category>
         </item>
         <item>
             <title><![CDATA[Building Bridges: CIROH–Penn State Collaboration Formalizes Differentiable Modeling for NRDS]]></title>
