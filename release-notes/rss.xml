@@ -4,10 +4,30 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/release-notes</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Mon, 03 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[11-26-2025 Release Notes]]></title>
+            <link>http://ciroh.org/docuhub-staging/release-notes/v20251126</link>
+            <guid>http://ciroh.org/docuhub-staging/release-notes/v20251126</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major DocuHub update for November 2025!]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20251126#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates" translate="no">​</a></h2>
+<ul>
+<li class="">Blog post: <a class="" href="http://ciroh.org/docuhub-staging/blog/software-integration-meeting/">"Moving Hydrologic Prediction Forward — A software integration meeting at the Alabama Water Institute"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/511" target="_blank" rel="noopener noreferrer" class="">#511</a>)</li>
+<li class="">Community NextGen News update: November 2025 Release (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/514" target="_blank" rel="noopener noreferrer" class="">#514</a>)</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20251126#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates" translate="no">​</a></h2>
+<ul>
+<li class="">Revise product request template for submissions (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/509" target="_blank" rel="noopener noreferrer" class="">#509</a>)</li>
+<li class="">Update index.mdx - HydroServer documentation (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/512" target="_blank" rel="noopener noreferrer" class="">#512</a>)</li>
+<li class="">Add year and month dropdowns to news page for better navigation (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/513" target="_blank" rel="noopener noreferrer" class="">#513</a>)</li>
+</ul>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>DocuHub</category>
+        </item>
         <item>
             <title><![CDATA[11-03-2025 Release Notes]]></title>
             <link>http://ciroh.org/docuhub-staging/release-notes/v20251103</link>
