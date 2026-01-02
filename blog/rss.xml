@@ -4,15 +4,66 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Mon, 24 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[AWS re:Invent 2025: Key Insights for Research and Cyberinfrastructure ]]></title>
+            <link>http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025</link>
+            <guid>http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025</guid>
+            <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Insights from AWS re:Invent 2025 on AI, cloud efficiency, security, and innovations relevant to CIROH’s hybrid cyberinfrastructure.]]></description>
+            <content:encoded><![CDATA[<figure style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-aws-reinvent/AWS_blog_pic_1.png" alt="A photo from AWS re:Invent 2025" style="max-width:100%"></figure>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ai-devops-and-the-future-of-cloud-infrastructure">AI, DevOps and the Future of Cloud Infrastructure<a href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025#ai-devops-and-the-future-of-cloud-infrastructure" class="hash-link" aria-label="Direct link to AI, DevOps and the Future of Cloud Infrastructure" title="Direct link to AI, DevOps and the Future of Cloud Infrastructure" translate="no">​</a></h2>
+<p>AWS re<!-- -->:Invent<!-- --> did not disappoint! I spent the first week of December at Amazon Web Services' flagship conference in Las Vegas. The event delivered cutting-edge technical insights, showcased the rapid evolution of cloud computing and AI, and provided countless opportunities to connect with industry leaders.</p>
+<p>The energy across all five conference venues was more vibrant than I ever imagined it would be.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-central-theme-ai-and-agentic-ai">The Central Theme: AI and Agentic AI<a href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025#the-central-theme-ai-and-agentic-ai" class="hash-link" aria-label="Direct link to The Central Theme: AI and Agentic AI" title="Direct link to The Central Theme: AI and Agentic AI" translate="no">​</a></h2>
+<p>Unsurprisingly, the hottest topics throughout the conference were AI and Agentic AI. From keynote sessions to hands-on demos, the focus was on real-world applications, responsible AI development, and the next frontier of autonomous systems. Seeing how organizations are leveraging AI to create value sparked new ideas for advancing research infrastructure.</p>
+<p>However, an important reality: security remains paramount. As Agentic AI systems grow more capable, robust security frameworks will be essential to ensure trust and stability.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-developer-and-devops-paradise">A Developer and DevOps Paradise<a href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025#a-developer-and-devops-paradise" class="hash-link" aria-label="Direct link to A Developer and DevOps Paradise" title="Direct link to A Developer and DevOps Paradise" translate="no">​</a></h2>
+<figure style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-aws-reinvent/AWS_blog_pic_0.png" alt="Photos from AWS re:Invent 2025" style="max-width:100%"></figure>
+<p>As a first-time attendee of AWS re<!-- -->:Invent<!-- -->, I was amazed by the work showcased during this conference! The conference showcased new ways to develop and bring ideas from concept to production-scale prototypes. As AWS CEO Matt Garman said in his keynote: "Why not?" That spirit of possibility and rapid innovation was there throughout the week. For those who missed it, I highly recommend watching the rapid-fire announcements from Matt’s keynote here: <a href="https://reinvent.awsevents.com/keynotes/?trk=direct" target="_blank" rel="noopener noreferrer" class="">AWS re<!-- -->:Invent<!-- --> 2025 Keynote</a>.</p>
+<p>The keynotes from both the CEO and Dr. Swami Sivasubramanian were insightful. AWS is making strategic moves that are fundamentally changing how we deploy applications on the cloud—making workloads more cost-optimized and efficient. For CIROH, where we manage a hybrid infrastructure across multiple cloud platforms and on-premises, these insights are directly applicable to our ongoing efforts to democratize access to computational resources while managing costs effectively.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="community-connections">Community Connections<a href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025#community-connections" class="hash-link" aria-label="Direct link to Community Connections" title="Direct link to Community Connections" translate="no">​</a></h2>
+<p>One of my favorite experiences was attending the AWS Community Builder Hub. As a member of the AWS Community Builders program, I had the privilege of connecting with others working with AWS. The group was warm, welcoming, and incredibly insightful. Everyone I spoke with shared advice and perspectives that left me feeling both energized and supported.</p>
+<p>I also got a chance to meet Jason Dunn in person—a great leader in sharing AWS content and community knowledge! These personal connections remind me why community-driven initiatives are so powerful.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-takeaways-for-research-cyberinfrastructure">Key Takeaways for Research Cyberinfrastructure<a href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025#key-takeaways-for-research-cyberinfrastructure" class="hash-link" aria-label="Direct link to Key Takeaways for Research Cyberinfrastructure" title="Direct link to Key Takeaways for Research Cyberinfrastructure" translate="no">​</a></h2>
+<p>The pace of technological advancement is staggering—tasks that once took months can now be completed in days thanks to AI, GenAI, and agent-based systems. But speed brings responsibility: security must scale with innovation.</p>
+<p>The conference highlighted several critical areas:</p>
+<ul>
+<li class=""><strong>Cloud cost optimization</strong>: New savings plans and compute options</li>
+<li class=""><strong>Storage innovations</strong>: Advanced storage solutions that could benefit our data-intensive hydrological modeling workflows</li>
+<li class=""><strong>Security at scale</strong>: More sophisticated tools to protect against cyberattacks, vulnerabilities, and threats</li>
+<li class=""><strong>Observability</strong>: Improved monitoring for applications and infrastructure</li>
+</ul>
+<p>These developments reinforce CIROH’s hybrid approach—combining cloud scalability, collaborative computing, and on-premises HPC infrastructure-to stay ahead of the curve.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="learn-more">Learn More<a href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025#learn-more" class="hash-link" aria-label="Direct link to Learn More" title="Direct link to Learn More" translate="no">​</a></h2>
+<p>For deeper insights into AWS re<!-- -->:Invent<!-- --> 2025 announcements, check out these resources:</p>
+<ul>
+<li class="">
+<p><a href="https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/?trk=ac97e39c-d115-4d4a-b3fe-c695e0c9a7ee&amp;sc_channel=el" target="_blank" rel="noopener noreferrer" class="">AWS News Blogs: Top annoucements of AWS re<!-- -->:Invent<!-- --> 2025</a></p>
+</li>
+<li class="">
+<p><a href="https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/" target="_blank" rel="noopener noreferrer" class="">AWS Weekly Roundup: AWS re<!-- -->:Invent<!-- --> keynote recap, on-demand videos, and more</a></p>
+</li>
+<li class="">
+<p><a href="https://alan.dbla.tech/" target="_blank" rel="noopener noreferrer" class="">A Journey into the cloud: From an on-prem admin to an AWS enthusiast</a></p>
+</li>
+<li class="">
+<p><a href="https://myrewatch.link/" target="_blank" rel="noopener noreferrer" class="">re:Watch: AWS re<!-- -->:Invent<!-- --> Video Library</a></p>
+</li>
+</ul>]]></content:encoded>
+            <category>CIROH</category>
+            <category>Blog</category>
+            <category>AWS</category>
+        </item>
         <item>
             <title><![CDATA[Moving Hydrologic Prediction Forward — A software integration meeting at the Alabama Water Institute]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/software-integration-meeting</link>
             <guid>http://ciroh.org/docuhub-staging/blog/software-integration-meeting</guid>
             <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[A recap of a multi-institution software integration meeting at the Alabama Water Institute focused on advancing NextGen hydrologic prediction.]]></description>
             <content:encoded><![CDATA[<figure style="text-align:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2025-11-integration-meeting/group_pic.png" alt="Group photo from the software integration meeting at the Alabama Water Institute" style="max-width:100%"></figure>
 <br>
 <p>Last week, at the invitation and expert coordination of James Halgren, teams from RTI
@@ -176,12 +227,10 @@ successes in the transition of research to operations.</p>
 <br>
 <p>Almost from the start, 2025 has been a banner year in hydrologic modeling, with advancements in capabilities on both sides of the aisle of CIROH's research-to-operations (R2O) pipeline.</p>
 <ul>
-<li class="">
-<p>From the <strong>research</strong> skunkworks, Penn State's <a href="https://sites.google.com/view/mhpi/team" target="_blank" rel="noopener noreferrer" class="">MHPI</a> group, led by Dr. Chaopeng Shen introduced a new generation of distributed, differentiable hydrologic models spearheaded by <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR038928" target="_blank" rel="noopener noreferrer" class="">δHBV 2.0</a>. Capable of high-resolution, continental-scale streamflow forecasting across the CONUS Hydrofabric, δHBV 2.0 fuses process-based modeling and machine learning to enable efficient parameter calibration and interpretable predictions at scale -- with demonstrated viability as a National Water Model 3.0 successor.</p>
-</li>
-<li class="">
-<p>Meanwhile, from the <strong>operations</strong> core, CIROH's Science and Cyberinfrastructure team at the <a href="https://awi.ua.edu/" target="_blank" rel="noopener noreferrer" class="">Alabama Water institute (AWI)</a>, headed by Arpita Patel and James Halgren, debuted an operational pipeline composed chiefly of flagships <a href="https://ngiab.ciroh.org/" target="_blank" rel="noopener noreferrer" class="">NextGen In a Box (NGIAB)</a> and the <a href="https://docs.ciroh.org/docs/products/research-datastream/" target="_blank" rel="noopener noreferrer" class="">Next Generation Research Datastream (NRDS)</a>, forming an open-source software stack powering an accessible operational implementation of NOAA's Next Generation National Water Model. NRDS, in particular, executes a regularly scheduled set of continental-scale, NextGen-based hydrologic forecasts on CIROH's cloud-based cyberinfrastructure, and is designed to be a canvas for showcasing community modeling advances as potential R2O opportunities for NextGen.</p>
-</li>
+<li class="">From the <strong>research</strong> skunkworks, Penn State's <a href="https://sites.google.com/view/mhpi/team" target="_blank" rel="noopener noreferrer" class="">MHPI</a> group, led by Dr. Chaopeng Shen introduced a new generation of distributed, differentiable hydrologic models spearheaded by <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR038928" target="_blank" rel="noopener noreferrer" class="">δHBV 2.0</a>. Capable of high-resolution, continental-scale streamflow forecasting across the CONUS Hydrofabric, δHBV 2.0 fuses process-based modeling and machine learning to enable efficient parameter calibration and interpretable predictions at scale -- with demonstrated viability as a National Water Model 3.0 successor.</li>
+</ul>
+<ul>
+<li class="">Meanwhile, from the <strong>operations</strong> core, CIROH's Science and Cyberinfrastructure team at the <a href="https://awi.ua.edu/" target="_blank" rel="noopener noreferrer" class="">Alabama Water institute (AWI)</a>, headed by Arpita Patel and James Halgren, debuted an operational pipeline composed chiefly of flagships <a href="https://ngiab.ciroh.org/" target="_blank" rel="noopener noreferrer" class="">NextGen In a Box (NGIAB)</a> and the <a href="https://docs.ciroh.org/docs/products/research-datastream/" target="_blank" rel="noopener noreferrer" class="">Next Generation Research Datastream (NRDS)</a>, forming an open-source software stack powering an accessible operational implementation of NOAA's Next Generation National Water Model. NRDS, in particular, executes a regularly scheduled set of continental-scale, NextGen-based hydrologic forecasts on CIROH's cloud-based cyberinfrastructure, and is designed to be a canvas for showcasing community modeling advances as potential R2O opportunities for NextGen.</li>
 </ul>
 <p>As destined in CIROH, these two efforts converged in early October during a week-long collaboration hosted by AWI, bringing Penn State researcher Leo Lonzarich south to Tuscaloosa, Alabama, to join in facilitating the formal introduction of differentiable models like δHBV 2.0 into the NRDS.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="keyboard-accomplishments-">Keyboard Accomplishments 👾<a href="http://ciroh.org/docuhub-staging/blog/ciroh-psu-collab#keyboard-accomplishments-" class="hash-link" aria-label="Direct link to Keyboard Accomplishments 👾" title="Direct link to Keyboard Accomplishments 👾" translate="no">​</a></h2>
@@ -1049,79 +1098,6 @@ and community water modeling.</p>
             <category>Conference</category>
             <category>CIROH</category>
             <category>Monthly Update</category>
-        </item>
-        <item>
-            <title><![CDATA[Community NextGen Updates]]></title>
-            <link>http://ciroh.org/docuhub-staging/blog/November Monthly Blog Update</link>
-            <guid>http://ciroh.org/docuhub-staging/blog/November Monthly Blog Update</guid>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[November Monthly Blog Update]]></description>
-            <content:encoded><![CDATA[<p>The Community NextGen framework has seen significant advancements in November 2024, with major updates across multiple components and exciting new resources for users. Let's dive into the key developments that are making hydrologic modeling more accessible and powerful than ever.</p>
-<!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-ngiab-cloudinfra-v130-a-major-milestone">🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-ngiab-cloudinfra-v130-a-major-milestone" class="hash-link" aria-label="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone" title="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone" translate="no">​</a></h2>
-<p>The release of NGIAB-CloudInfra v1.3.0 marks a significant evolution in our Docker-based solution. This version introduces several groundbreaking improvements:</p>
-<ul>
-<li class="">Integration with CIROH-UA's forked repositories of <code>ngen</code> and <code>t-route</code></li>
-<li class="">Full compatibility with the latest hydrofabric v2.2</li>
-<li class="">New sample input data AWI-007</li>
-<li class="">Enhanced visualization capabilities through the NGIAB Visualizer</li>
-<li class="">Streamlined CI/CD pipeline with a unified Dockerfile</li>
-<li class="">TEEHR integration for improved evaluation capabilities</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-new-end-to-end-workflow-guide">📝 New End-to-End Workflow Guide<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-new-end-to-end-workflow-guide" class="hash-link" aria-label="Direct link to 📝 New End-to-End Workflow Guide" title="Direct link to 📝 New End-to-End Workflow Guide" translate="no">​</a></h2>
-<p>We're excited to announce a comprehensive new end-to-end workflow video tutorial for NGIAB! This resource walks users through the entire process, making it easier than ever to get started with NextGen modeling. The tutorial is available in our <a href="https://docs.ciroh.org/training-NGIAB-101" target="_blank" rel="noopener noreferrer" class="">documentation</a> and provides step-by-step guidance for both new and experienced users.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-infrastructure-updates">🔄 Infrastructure Updates<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-infrastructure-updates" class="hash-link" aria-label="Direct link to 🔄 Infrastructure Updates" title="Direct link to 🔄 Infrastructure Updates" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ngiab-hpcinfra">NGIAB-HPCInfra<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#ngiab-hpcinfra" class="hash-link" aria-label="Direct link to NGIAB-HPCInfra" title="Direct link to NGIAB-HPCInfra" translate="no">​</a></h3>
-<p>The Singularity-based solution for high-performance computing has been updated to maintain parity with the Docker implementation, including:</p>
-<ul>
-<li class="">Updated repositories alignment</li>
-<li class="">New sample data compatibility</li>
-<li class="">Enhanced documentation</li>
-</ul>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="data-processing-tools">Data Processing Tools<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#data-processing-tools" class="hash-link" aria-label="Direct link to Data Processing Tools" title="Direct link to Data Processing Tools" translate="no">​</a></h3>
-<ul>
-<li class=""><strong>NGIAB-data-preprocess v3.1.2</strong>: Major update ensuring seamless compatibility with hydrofabric v2.2</li>
-<li class=""><strong>ngen-datastream</strong>: Significant improvements with 22 new commits enhancing data handling capabilities</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-new-features">🌟 New Features<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#-new-features" class="hash-link" aria-label="Direct link to 🌟 New Features" title="Direct link to 🌟 New Features" translate="no">​</a></h2>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="hydrofabric-v22">Hydrofabric v2.2<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#hydrofabric-v22" class="hash-link" aria-label="Direct link to Hydrofabric v2.2" title="Direct link to Hydrofabric v2.2" translate="no">​</a></h3>
-<p>The latest hydrofabric data model brings improved spatial representation and data organization. This update enhances the framework's ability to represent complex hydrologic systems accurately.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="repository-updates">Repository Updates<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#repository-updates" class="hash-link" aria-label="Direct link to Repository Updates" title="Direct link to Repository Updates" translate="no">​</a></h3>
-<ul>
-<li class="">The NextGen Model Framework now operates from CIROH-UA's main branch</li>
-<li class="">T-route implementation has been updated to use the specialized datastream branch</li>
-<li class="">Both updates provide better integration and enhanced functionality within the NGIAB ecosystem</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="whats-next">What's Next?<a href="http://ciroh.org/docuhub-staging/blog/November%20Monthly%20Blog%20Update#whats-next" class="hash-link" aria-label="Direct link to What's Next?" title="Direct link to What's Next?" translate="no">​</a></h2>
-<p>These November updates represent our ongoing commitment to improving the NextGen framework's accessibility and capabilities. With the new workflow video and documentation in place, we're making it easier than ever for the hydrologic modeling community to leverage these powerful tools.</p>
-<p>We encourage users to:</p>
-<ol>
-<li class="">Explore the new v1.3.0 release</li>
-<li class="">Watch the end-to-end workflow video</li>
-<li class="">Test out the updated data preprocess and NGIAB tools</li>
-<li class="">Provide feedback on your experience</li>
-</ol>
-<p>Stay tuned for more updates as we continue to enhance and expand the NextGen In A Box ecosystem!</p>
-<hr>
-<p>For detailed information about these updates, visit our repositories:</p>
-<ul>
-<li class=""><a href="https://github.com/CIROH-UA/NGIAB-CloudInfra" target="_blank" rel="noopener noreferrer" class="">NGIAB-CloudInfra</a></li>
-<li class=""><a href="https://github.com/CIROH-UA/NGIAB-HPCInfra" target="_blank" rel="noopener noreferrer" class="">NGIAB-HPCInfra</a></li>
-<li class=""><a href="https://github.com/CIROH-UA/ngen-datastream" target="_blank" rel="noopener noreferrer" class="">ngen-datastream</a></li>
-<li class=""><a href="https://github.com/CIROH-UA/NGIAB_data_preprocess" target="_blank" rel="noopener noreferrer" class="">NGIAB-data-preprocess</a></li>
-</ul>]]></content:encoded>
-            <category>Blog</category>
-            <category>Monthly Update</category>
-            <category>CIROH</category>
-            <category>National Water Model</category>
-            <category>NextGen Datastream</category>
-            <category>Singularity</category>
-            <category>HPC</category>
-            <category>TEEHR</category>
-            <category>Hydrofabric</category>
-            <category>NGIAB</category>
-            <category>NextGen</category>
-            <category>Data Preparation</category>
         </item>
     </channel>
 </rss>
