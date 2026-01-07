@@ -31,10 +31,10 @@
 <p>The pace of technological advancement is staggering—tasks that once took months can now be completed in days thanks to AI, GenAI, and agent-based systems. But speed brings responsibility: security must scale with innovation.</p>
 <p>The conference highlighted several critical areas:</p>
 <ul>
-<li class=""><strong>Cloud cost optimization</strong>: New savings plans and compute options</li>
-<li class=""><strong>Storage innovations</strong>: Advanced storage solutions that could benefit our data-intensive hydrological modeling workflows</li>
-<li class=""><strong>Security at scale</strong>: More sophisticated tools to protect against cyberattacks, vulnerabilities, and threats</li>
-<li class=""><strong>Observability</strong>: Improved monitoring for applications and infrastructure</li>
+<li class=""><strong>Cloud cost optimization &amp; Storage innovations</strong>: Check out AWS Graviton5 Processors for HPC Workloads (could be a fit for those hydrological modeling workflows) and Amazon S3 Express One Zone for Research Data  (great for frequently accessed datasets with new cost savings).</li>
+<li class=""><strong>Developer velocity</strong>: Lambda Durable Functions could simplify some of your long-running pipelines, and the new AI-powered workflow design for Step Functions makes building orchestrations much faster. You can use natural language to do this, so it starts to democratize Step Function development. You don't need to be a developer to use it.</li>
+<li class=""><strong>DevOps tooling</strong>: CDK Pipelines v2 with AI-Assisted Development has some cool features for infrastructure-as-code that could speed up your deployment cycles.</li>
+<li class=""><strong>Observability</strong>: Amazon CloudWatch AI-Powered Anomaly Detection, especially the cost anomaly detection feature, seems like a must-have for grant-funded budgets—it'll alert you when spending patterns deviate unexpectedly.</li>
 </ul>
 <p>These developments reinforce CIROH’s hybrid approach—combining cloud scalability, collaborative computing, and on-premises HPC infrastructure-to stay ahead of the curve.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="learn-more">Learn More<a href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025#learn-more" class="hash-link" aria-label="Direct link to Learn More" title="Direct link to Learn More" translate="no">​</a></h2>
@@ -56,6 +56,10 @@
         <author>
             <name>Arpita Patel</name>
             <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Scott Hendrickson</name>
+            <uri>https://www.linkedin.com/in/scott-hendrickson-76273b2/</uri>
         </author>
         <category label="CIROH" term="CIROH"/>
         <category label="Blog" term="Blog"/>
