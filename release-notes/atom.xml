@@ -2,11 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/docuhub-staging/release-notes</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-11-26T00:00:00.000Z</updated>
+    <updated>2026-01-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/docuhub-staging/release-notes"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/docuhub-staging/img/logos/docuhub.png</icon>
+    <entry>
+        <title type="html"><![CDATA[01-09-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20250109</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20250109"/>
+        <updated>2026-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor DocuHub update for January 2026!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="blog-posts-and-news-updates">Blog posts and news updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20250109#blog-posts-and-news-updates" class="hash-link" aria-label="Direct link to Blog posts and news updates" title="Direct link to Blog posts and news updates" translate="no">​</a></h2>
+<ul>
+<li class="">Blog post: <a class="" href="http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025/">"AWS re<!-- -->:Invent<!-- --> 2025: Key Insights for Research and Cyberinfrastructure"</a> (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/526" target="_blank" rel="noopener noreferrer" class="">#526</a>)</li>
+</ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="DocuHub" term="DocuHub"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12-12-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20251212</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20251212"/>
+        <updated>2025-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor DocuHub update for December 2025!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/v20251212#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content" translate="no">​</a></h2>
+<ul>
+<li class="">Added CIROH Hydrologic Prediction Testbed to Products section (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/523" target="_blank" rel="noopener noreferrer" class="">#523</a>)</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20251212#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates" translate="no">​</a></h2>
+<ul>
+<li class="">Updated links for BigQuery API access requests (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/522" target="_blank" rel="noopener noreferrer" class="">#522</a>)</li>
+</ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="DocuHub" term="DocuHub"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12-09-2025 Release Notes]]></title>
+        <id>http://ciroh.org/docuhub-staging/release-notes/v20251209</id>
+        <link href="http://ciroh.org/docuhub-staging/release-notes/v20251209"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minor DocuHub update for December 2025!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="new-content">New content<a href="http://ciroh.org/docuhub-staging/release-notes/v20251209#new-content" class="hash-link" aria-label="Direct link to New content" title="Direct link to New content" translate="no">​</a></h2>
+<ul>
+<li class="">Added Standard Operating Procedures to policies page (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/519" target="_blank" rel="noopener noreferrer" class="">#519</a>)</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="updates">Updates<a href="http://ciroh.org/docuhub-staging/release-notes/v20251209#updates" class="hash-link" aria-label="Direct link to Updates" title="Direct link to Updates" translate="no">​</a></h2>
+<ul>
+<li class="">Revised blog post <a class="" href="http://ciroh.org/docuhub-staging/blog/software-integration-meeting/">"Moving Hydrologic Prediction Forward"</a> to improve credit to collaborators (<a href="https://github.com/CIROH-UA/ciroh-ua_website/pull/518" target="_blank" rel="noopener noreferrer" class="">#518</a>)</li>
+</ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="DocuHub" term="DocuHub"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11-26-2025 Release Notes]]></title>
         <id>http://ciroh.org/docuhub-staging/release-notes/v20251126</id>
