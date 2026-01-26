@@ -4,10 +4,109 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/docuhub-staging/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Fri, 02 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CIROH Cyberinfrastructure and Hydroinformatics Team at AGU25]]></title>
+            <link>http://ciroh.org/docuhub-staging/blog/agu2025</link>
+            <guid>http://ciroh.org/docuhub-staging/blog/agu2025</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[January Monthly Blog Update]]></description>
+            <content:encoded><![CDATA[<p>As we do every year, the CIROH team took on the American Geophysical Union (AGU) Annual Meeting 2025 by storm. The Amtrak shuttled us from famously frigid Tuscaloosa to balmy New Orleans, where we <em>laissâmes les bons temps rouler</em> a few months early. From December 15-19, our team shared presentations and posters (and beignets and Cajun food), demonstrating CIROH's commitment to advancing hydrologic science, open collaboration, and sharing technological advancements.</p>
+<div class="carousel-root" tabindex="0"><div class="carousel carousel-slider" style="width:100%"><ul class="control-dots"><li class="dot selected" value="0" role="button" tabindex="0" aria-label="slide item 1"></li><li class="dot" value="1" role="button" tabindex="0" aria-label="slide item 2"></li><li class="dot" value="2" role="button" tabindex="0" aria-label="slide item 3"></li><li class="dot" value="3" role="button" tabindex="0" aria-label="slide item 4"></li><li class="dot" value="4" role="button" tabindex="0" aria-label="slide item 5"></li></ul><button type="button" aria-label="previous slide / item" class="control-arrow control-prev"></button><div class="slider-wrapper axis-horizontal"><ul class="slider animated" style="-webkit-transform:translate3d(-100%,0,0);-ms-transform:translate3d(-100%,0,0);-o-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0);-webkit-transition-duration:350ms;-moz-transition-duration:350ms;-o-transition-duration:350ms;transition-duration:350ms;-ms-transition-duration:350ms"><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-agu25/AGU_03.jpeg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="AGU 2025"></div></li><li class="slide selected previous"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-agu25/AGU_05.jpeg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="AGU 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-agu25/AGU_06.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="AGU 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-agu25/AGU_01.jpg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="AGU 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-agu25/AGU_02.jpeg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="AGU 2025"></div></li><li class="slide"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-agu25/AGU_03.jpeg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="AGU 2025"></div></li><li class="slide selected previous"><div style="display:flex;justify-content:center;align-items:center"><img src="http://ciroh.org/docuhub-staging/img/blog/2026-01-agu25/AGU_05.jpeg" style="width:auto;max-height:500px;border-radius:8px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1)" alt="AGU 2025"></div></li></ul></div><button type="button" aria-label="next slide / item" class="control-arrow control-next"></button></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="where-science-connects-us">Where Science Connects Us<a href="http://ciroh.org/docuhub-staging/blog/agu2025#where-science-connects-us" class="hash-link" aria-label="Direct link to Where Science Connects Us" title="Direct link to Where Science Connects Us" translate="no">​</a></h2>
+<p>All good event attendees embrace the theme, and we happen to be great event attendees. This year's AGU theme, "Where Science Connects Us," aligned with CIROH's mission to democratize water modeling and foster community engagement in hydrologic research. Our presentations highlighted how we use containerization, cloud infrastructure, and collaborative frameworks in the world of operational and research hydrology. We also loved connecting with the broader CIROH community through the CIROH Research Exchange (lovingly dubbed T-REX by our talented events team), our biggest exhibit hall booth to date, a very packed poster presentation caravan led by our fearless Steve Burian, Martyn Clark, and Katie van Werkhoven, and, in classic AGU fashion, running into colleagues randomly in the extremely long convention center hallways.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="featured-presentations--posters-by-ciroh-science-team--friends">Featured Presentations &amp; Posters by CIROH Science Team &amp; Friends<a href="http://ciroh.org/docuhub-staging/blog/agu2025#featured-presentations--posters-by-ciroh-science-team--friends" class="hash-link" aria-label="Direct link to Featured Presentations &amp; Posters by CIROH Science Team &amp; Friends" title="Direct link to Featured Presentations &amp; Posters by CIROH Science Team &amp; Friends" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="nextgen-in-a-box-ngiab-ecosystem">NextGen In A Box (NGIAB) Ecosystem<a href="http://ciroh.org/docuhub-staging/blog/agu2025#nextgen-in-a-box-ngiab-ecosystem" class="hash-link" aria-label="Direct link to NextGen In A Box (NGIAB) Ecosystem" title="Direct link to NextGen In A Box (NGIAB) Ecosystem" translate="no">​</a></h3>
+<ol>
+<li class="">
+<p><strong>Advancing Hydrological Modeling: CIROH’s NextGen In A Box (NGIAB) and Enhanced Tools for Community-Driven Research</strong></p>
+<p>Presenter: Bhavya Duvvuri</p>
+<p>Session: Poster Presentation H41Q-1427</p>
+</li>
+<li class="">
+<p><strong>NextGen Research DataStream: Community Contributions Towards Improved Hydrologic Predictions</strong></p>
+<p>Presenter: Zach Wills</p>
+<p>Session: Oral Presentation H31G-03</p>
+</li>
+<li class="">
+<p><strong>Assessing the use of Physics and AI-Driven Precipitation Forecasts for Streamflow Prediction Using the NextGen In A Box (NGIAB) National Water Model</strong></p>
+<p>Presenter: Jorge Bravo</p>
+<p>Session: Poster Presentation H41Q-1410</p>
+</li>
+<li class="">
+<p><strong>NextGen In A Box (NGIAB) and DataStream Visualizer: A Containerized Web Application for Interactive Geospatial and Temporal Visualization and Analysis of Hydrologic Model Outputs</strong></p>
+<p>Presenter: Gio Romero</p>
+<p>Session: Oral Presentation H31G-08</p>
+</li>
+<li class="">
+<p><strong>Streamlining Community Modeling through Automated Data Processing for the Next Generation Water Resources Modeling Framework</strong></p>
+<p>Presenter: Sonam Lama</p>
+<p>Session: Poster Presentation IN33B-0380</p>
+</li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cyberinfrastructure">Cyberinfrastructure<a href="http://ciroh.org/docuhub-staging/blog/agu2025#cyberinfrastructure" class="hash-link" aria-label="Direct link to Cyberinfrastructure" title="Direct link to Cyberinfrastructure" translate="no">​</a></h3>
+<ol>
+<li class="">
+<p><strong>Cloud infrastructure for NextGen Water Resources Modeling: CIROH’s R2OHC Cloud Platform</strong></p>
+<p>Presenter: Harsha Vemula</p>
+<p>Session: Poster Presentation H41Q-1425</p>
+</li>
+<li class="">
+<p><strong>High-Performance Computing Infrastructure for NextGen Water Resources Modeling: CIROH's R2OHC HPC Platform</strong></p>
+<p>Presenter: Trupesh Patel</p>
+<p>Session: Oral Presentation H33J-07</p>
+</li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="data-sharing--community-engagement">Data Sharing &amp; Community Engagement<a href="http://ciroh.org/docuhub-staging/blog/agu2025#data-sharing--community-engagement" class="hash-link" aria-label="Direct link to Data Sharing &amp; Community Engagement" title="Direct link to Data Sharing &amp; Community Engagement" translate="no">​</a></h3>
+<ol>
+<li class="">
+<p><strong>CIROH DocuHub and Portal: Knowledge Management System for Collaborative Water Resources Research</strong></p>
+<p>Presenter: Manjila Singh</p>
+<p>Session: Poster Presentation H41Q-1426</p>
+</li>
+<li class="">
+<p><strong>Demonstrating new tools and frameworks to facilitate continental-scale hydrologic data access and evaluation</strong></p>
+<p>Presenter: Sam Lamont</p>
+<p>Session: Oral Presentation IN42A-04</p>
+</li>
+<li class="">
+<p><strong>Enabling Community Research with the Next Generation National Water Modeling Framework on through Streamlined Workflows</strong></p>
+<p>Presenter: Ayman Nassar</p>
+<p>Session: Oral Presentation H31G-07</p>
+</li>
+<li class="">
+<p><strong>Modernizing HydroShare: Using a Cloud-Native Architecture to Accelerate Water Science Innovation</strong></p>
+<p>Presenter: Tony Castronova</p>
+<p>Session: Oral Presentation IN42A-02</p>
+</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reflections-from-agu25">Reflections from AGU25<a href="http://ciroh.org/docuhub-staging/blog/agu2025#reflections-from-agu25" class="hash-link" aria-label="Direct link to Reflections from AGU25" title="Direct link to Reflections from AGU25" translate="no">​</a></h2>
+<p>AGU is a wild world. It’s incredible how you can pack the population of a small town into one convention center and still have room left to spare. It’s even more incredible that at seemingly every turn, we always recognized at least a few citizens of said small town. We had such a wonderful time getting to see old friends and make new ones and come away from each conversation with a new idea for how CIROH Science Team could collaborate with the community.
+Our team was so encouraged by the number of presentations and posters we saw that used our community resources like our NGIAB container and our high-performance computing cyberinfrastructure offerings like Pantarhei and Wukong. (Perhaps you were one of our 13,101 NGIAB Docker deployments?) Not mentioned in the brief list above are all the presentations we got to see about model developments for the NextGen Framework. We love supporting our member and partner institutions’ research-to-operations work with our cyberinfrastructure resource offerings and community resource repositories like the <a href="https://github.com/CIROH-UA/NGIAB_data_preprocess" target="_blank" rel="noopener noreferrer" class="">Data Preprocessor</a>, <a href="https://github.com/CIROH-UA/ngiab-teehr" target="_blank" rel="noopener noreferrer" class="">TEEHR</a>, and the <a href="https://github.com/CIROH-UA/ngiab-client" target="_blank" rel="noopener noreferrer" class="">Tethys Visualizer</a>. We would also love to showcase that work in our NextGen Research Datastream, running every hour for all of CONUS on AWS. If you’ve got a model that you’d like included in NGIAB and/or NRDS, we are more than happy to chat about it (or read through your GitHub issues submitted through our <a href="https://github.com/CIROH-UA/NGIAB-CloudInfra/issues" target="_blank" rel="noopener noreferrer" class="">model integration issue form</a>). We’re excited to get to work this year and support you and all of your R2O dreams!</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="community-resources">Community Resources<a href="http://ciroh.org/docuhub-staging/blog/agu2025#community-resources" class="hash-link" aria-label="Direct link to Community Resources" title="Direct link to Community Resources" translate="no">​</a></h2>
+<p>All AGU25 presentation materials, including posters and slide decks, are available in our GitHub repository: <a href="https://github.com/CIROH-UA/Conferences/tree/main/AGU25" target="_blank" rel="noopener noreferrer" class="">CIROH-UA/Conferences/AGU25</a></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="join-the-community-and-get-involved">Join the Community and Get Involved<a href="http://ciroh.org/docuhub-staging/blog/agu2025#join-the-community-and-get-involved" class="hash-link" aria-label="Direct link to Join the Community and Get Involved" title="Direct link to Join the Community and Get Involved" translate="no">​</a></h2>
+<p>Did AGU leave you wanting more from CIROH? We might not be able to see all of you in person every day (we miss y’all already), but whether you're a hydrologist, software developer, data scientist, or agency partner, there are many ways to get involved.</p>
+<p>•	<strong>Try NGIAB</strong>: Download from <a href="https://hub.docker.com/r/awiciroh/ciroh-ngen-image" target="_blank" rel="noopener noreferrer" class="">DockerHub</a> or access <a href="https://docs.ciroh.org/training-NGIAB-101/" target="_blank" rel="noopener noreferrer" class="">NGIAB 101</a> for more details.</p>
+<p>•	<strong>Contribute Models to NGIAB</strong>: Submit BMI-compliant models integration request through our <a href="https://github.com/CIROH-UA/NGIAB-CloudInfra/issues" target="_blank" rel="noopener noreferrer" class="">model integration issue form</a> under the “New issue” button.</p>
+<p>•	<strong>Calibrate Models</strong>: Use our <a href="https://github.com/CIROH-UA/ngiab-cal" target="_blank" rel="noopener noreferrer" class="">calibration tools</a> to calibrate models for your favorite watersheds (we all have those, don’t pretend like you don’t know what we’re talking about!).</p>
+<p>•	<strong>Share Feedback</strong>: Open <a href="https://github.com/CIROH-UA/NGIAB-CloudInfra/issues" target="_blank" rel="noopener noreferrer" class="">GitHub issues</a> to report bugs and suggest improvements, or join our Community Resources Working Group discussions.</p>
+<p>•	<strong>Slack Channel</strong>: Join our public slack channels for community discussions</p>
+<p>•	<strong>Working Groups</strong>: Participate in one (or more, for you overachievers) of <a href="https://app.smartsheet.com/b/form/07569d6285f643c1a57fd18daab98f7e" target="_blank" rel="noopener noreferrer" class="">CIROH’s working groups</a> – Artificial Intellgience, Community Resources, Decision Support, Early Career, Flood Inundation Mapping, Hydroinformatics, Hydrologic Modeling, Model and Forecast Evaluation.</p>
+<p>•	<strong>Student Summer Education Programs</strong>: Are you/do you know any undergraduates interested in AI and operational hydrology who are looking for research experiences over the summer? We have an <a href="https://graduate.ua.edu/academics/summer-research-programs-for-undergraduate-students/ai-for-operational-hydrology/" target="_blank" rel="noopener noreferrer" class="">REU</a> for exactly that. Applications are due March 1. (Side effects: students may leave as Alabama football fans. Roll Tide!!)</p>
+<p>•	<strong>DevCon</strong>: Attend yearly Developer Conference in May. DevCon 2026 is in Salt Lake City, UT from May 27-29.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="acknowledgments">Acknowledgments<a href="http://ciroh.org/docuhub-staging/blog/agu2025#acknowledgments" class="hash-link" aria-label="Direct link to Acknowledgments" title="Direct link to Acknowledgments" translate="no">​</a></h2>
+<p>CIROH's work is supported by NOAA Cooperative Institute Program under award NA22NWS4320003. We gratefully acknowledge the contributions from our numerous academic and agency partners who make this collaborative research possible.</p>
+<p>The AGU25 presentations represent the collective effort of researchers, developers, and operational forecasters working together to advance hydrologic science. They are a culmination of months and years of dedication and love for science and research. Thank you to everyone who said hi, visited our posters, attended our presentations, and engaged in discussions about the future of water modeling. We’ll see you next year in San Francisco!</p>]]></content:encoded>
+            <category>Blog</category>
+            <category>Conference</category>
+            <category>CIROH</category>
+            <category>Monthly Update</category>
+            <category>AGU</category>
+        </item>
         <item>
             <title><![CDATA[AWS re:Invent 2025: Key Insights for Research and Cyberinfrastructure ]]></title>
             <link>http://ciroh.org/docuhub-staging/blog/aws-reinvent-2025</link>
@@ -1070,34 +1169,6 @@ Great to see how Gemini is transforming data manipulation in BigQuery. The abili
             <category>On-Premises Services</category>
             <category>Cloud Services</category>
             <category>AI and Machine Learning</category>
-        </item>
-        <item>
-            <title><![CDATA[CIROH at AGU 2024]]></title>
-            <link>http://ciroh.org/docuhub-staging/blog/December Monthly Blog Update</link>
-            <guid>http://ciroh.org/docuhub-staging/blog/December Monthly Blog Update</guid>
-            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[December Monthly Blog Update]]></description>
-            <content:encoded><![CDATA[<p>AGU24 brought together the world’s leading minds in Earth and space sciences. CIROH participated actively, showcasing advances in water prediction, modeling techniques and many more technologies.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="presentations-and-posters-"><strong>Presentations and Posters</strong> 📊<a href="http://ciroh.org/docuhub-staging/blog/December%20Monthly%20Blog%20Update#presentations-and-posters-" class="hash-link" aria-label="Direct link to presentations-and-posters-" title="Direct link to presentations-and-posters-" translate="no">​</a></h2>
-<p>The conference provided an excellent platform for CIROH researchers to present their groundbreaking work. Our team delivered impactful presentations and poster sessions highlighting CIROH’s innovative work, including advancements in water prediction systems
-and community water modeling.</p>
-<p>These sessions sparked thought-provoking discussions and fostered collaborations with other researchers. For those who missed it, <strong>posters and presentation slides are now available</strong> <a href="https://github.com/CIROH-UA/Conferences/tree/main/AGU24" target="_blank" rel="noopener noreferrer" class="">here</a>. Feel free to explore these materials and share your thoughts. 📝</p>
-<!-- -->
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="contribute-your-posters-or-presentations">Contribute Your Posters or Presentations!<a href="http://ciroh.org/docuhub-staging/blog/December%20Monthly%20Blog%20Update#contribute-your-posters-or-presentations" class="hash-link" aria-label="Direct link to Contribute Your Posters or Presentations!" title="Direct link to Contribute Your Posters or Presentations!" translate="no">​</a></h3>
-<p>If any CIROH researchers would like to add their own posters or presentations to this repository, please feel free to send a <a href="https://github.com/CIROH-UA/Conferences/pulls" target="_blank" rel="noopener noreferrer" class="">pull request (PR)</a>. We welcome contributions and encourage collaboration!</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="photo-gallery-">Photo Gallery 📸<a href="http://ciroh.org/docuhub-staging/blog/December%20Monthly%20Blog%20Update#photo-gallery-" class="hash-link" aria-label="Direct link to Photo Gallery 📸" title="Direct link to Photo Gallery 📸" translate="no">​</a></h2>
-<p>We captured some unforgettable moments from AGU 2024. From vibrant sessions to meaningful conversations at our booth, here’s a glimpse:</p>
-<p><img decoding="async" loading="lazy" alt="AGU24_02" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_02-043c5ded45817d5b40046511dce3d6e9.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="AGU24_01" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_01-f8b35ac0af019ad8db90cb0f23c0aafa.jpg" title="AGU24 Images" width="1290" height="789" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="AGU24_05" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_05-28874672330bf51db3cecb641dee6537.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="AGU24_06" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_06-2e5e291911fb7893493a855712929db7.jpeg" title="AGU24 Images" width="800" height="450" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="AGU24_07" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_07-dea1654f5692045854f57b78b3d712a6.jpg" title="AGU24 Images" width="1600" height="1200" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="AGU24_03" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_03-3c9c69c1b5a3921c6538cfc4ae1592ce.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="AGU24_04" src="http://ciroh.org/docuhub-staging/assets/images/AGU24_04-655be30f0b803f751457b66ecd6cd5d8.gif" title="AGU24 Images" width="2048" height="1536" class="img_ev3q"></p>]]></content:encoded>
-            <category>Blog</category>
-            <category>Conference</category>
-            <category>CIROH</category>
-            <category>Monthly Update</category>
         </item>
     </channel>
 </rss>
